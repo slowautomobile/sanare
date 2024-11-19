@@ -1,2 +1,1 @@
-# sanare
-Sanare Web App
+# Sanare
