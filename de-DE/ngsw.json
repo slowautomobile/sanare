@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1732014745630,
+  "timestamp": 1732022917971,
   "index": "/sanare/de-DE/index.html",
   "assetGroups": [
     {
@@ -41,7 +41,7 @@
         "/sanare/de-DE/dark-theme.css",
         "/sanare/de-DE/favicon.ico",
         "/sanare/de-DE/index.html",
-        "/sanare/de-DE/main.34037fd6ddef0cc8.js",
+        "/sanare/de-DE/main.ca9efe5b6940330a.js",
         "/sanare/de-DE/manifest.webmanifest",
         "/sanare/de-DE/polyfills.6fbd15ac71afff0a.js",
         "/sanare/de-DE/runtime.ba2a31d4a6211bdc.js",
@@ -127,8 +127,8 @@
     "/sanare/de-DE/common.306afd5b356a44b5.js": "6d48605ba052a3950680f08ed4bee6ad392f45e0",
     "/sanare/de-DE/dark-theme.css": "4a3b2ee28d29c70cc2064cdd5abc2d74c621fce3",
     "/sanare/de-DE/favicon.ico": "df32f988dfc8f00c6f8a5c9f7f9908e0dc531101",
-    "/sanare/de-DE/index.html": "9a4551348a9cb065a4228c2ec5c28046568fbae1",
-    "/sanare/de-DE/main.34037fd6ddef0cc8.js": "d6b8e2665de8193e0ed8f733f37e7e3fa3a8216b",
+    "/sanare/de-DE/index.html": "bcc7167c4aac903314ea537ba6b238c5dbcc87ed",
+    "/sanare/de-DE/main.ca9efe5b6940330a.js": "4c8e4168cedb2c005b131b1c1a912dfd1013e856",
     "/sanare/de-DE/manifest.webmanifest": "261b90ceca77ba742bb10c256ba089b8335115b5",
     "/sanare/de-DE/polyfills.6fbd15ac71afff0a.js": "4017b6c22822a37297a50559568433620d549a24",
     "/sanare/de-DE/runtime.ba2a31d4a6211bdc.js": "c9f76dfcbaf9d8a56f69942b8448ed64b24e84b2",

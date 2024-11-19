@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1732014745641,
+  "timestamp": 1732022917982,
   "index": "/sanare/sr-RS/index.html",
   "assetGroups": [
     {
@@ -41,7 +41,7 @@
         "/sanare/sr-RS/dark-theme.css",
         "/sanare/sr-RS/favicon.ico",
         "/sanare/sr-RS/index.html",
-        "/sanare/sr-RS/main.34037fd6ddef0cc8.js",
+        "/sanare/sr-RS/main.ca9efe5b6940330a.js",
         "/sanare/sr-RS/manifest.webmanifest",
         "/sanare/sr-RS/polyfills.6fbd15ac71afff0a.js",
         "/sanare/sr-RS/runtime.ba2a31d4a6211bdc.js",
@@ -127,8 +127,8 @@
     "/sanare/sr-RS/common.306afd5b356a44b5.js": "ee3cabe393ce889fdfeaa302eda595556b0c4056",
     "/sanare/sr-RS/dark-theme.css": "4a3b2ee28d29c70cc2064cdd5abc2d74c621fce3",
     "/sanare/sr-RS/favicon.ico": "df32f988dfc8f00c6f8a5c9f7f9908e0dc531101",
-    "/sanare/sr-RS/index.html": "78e17d849b424d3fbafd6d7dea434eed6a9798a1",
-    "/sanare/sr-RS/main.34037fd6ddef0cc8.js": "fe9127fb33ae08c7219ebc6e8a4ed76542fd8306",
+    "/sanare/sr-RS/index.html": "443630217e15e82c044f79652e8b25b8675be1c9",
+    "/sanare/sr-RS/main.ca9efe5b6940330a.js": "c52044f3d8892d085a25880fd0bd90468f963b8e",
     "/sanare/sr-RS/manifest.webmanifest": "261b90ceca77ba742bb10c256ba089b8335115b5",
     "/sanare/sr-RS/polyfills.6fbd15ac71afff0a.js": "4017b6c22822a37297a50559568433620d549a24",
     "/sanare/sr-RS/runtime.ba2a31d4a6211bdc.js": "c9f76dfcbaf9d8a56f69942b8448ed64b24e84b2",
