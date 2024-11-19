@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1732052039546,
+  "timestamp": 1732052965132,
   "index": "/sr-RS/index.html",
   "assetGroups": [
     {
@@ -24,7 +24,7 @@
         "/sr-RS/725.db31dc70537f1cd4.js",
         "/sr-RS/795.b028212d372b1609.js",
         "/sr-RS/809.9cc356375e34d53d.js",
-        "/sr-RS/847.ca8ae095e9da7e8d.js",
+        "/sr-RS/847.b0655b163189e94c.js",
         "/sr-RS/865.1d581ce7c619bbab.js",
         "/sr-RS/882.28c76eb0f675b3c1.js",
         "/sr-RS/902.fbdab0cd8846f2e2.js",
@@ -41,10 +41,10 @@
         "/sr-RS/dark-theme.css",
         "/sr-RS/favicon.ico",
         "/sr-RS/index.html",
-        "/sr-RS/main.1f2821e0bffe6408.js",
+        "/sr-RS/main.ca9efe5b6940330a.js",
         "/sr-RS/manifest.webmanifest",
         "/sr-RS/polyfills.6fbd15ac71afff0a.js",
-        "/sr-RS/runtime.5016364f8a57321e.js",
+        "/sr-RS/runtime.fe98ffe7ece34b82.js",
         "/sr-RS/styles.1666602fc1ba1491.css"
       ],
       "patterns": []
@@ -94,7 +94,7 @@
     "/sr-RS/725.db31dc70537f1cd4.js": "bff2e40cb98ae40503039eeef764a4ed331fa823",
     "/sr-RS/795.b028212d372b1609.js": "399d3a89e0e12b1e65258d417c794b76f7271a02",
     "/sr-RS/809.9cc356375e34d53d.js": "ae2dfbbb2bc98be3bfad4279c9c43115d3a3958d",
-    "/sr-RS/847.ca8ae095e9da7e8d.js": "c6ab0d28eb00074c9c77d799652ab25e3c849c58",
+    "/sr-RS/847.b0655b163189e94c.js": "7862f8d25f10a46e44dae0708a3845196ca9e58b",
     "/sr-RS/865.1d581ce7c619bbab.js": "ab4b45e1ea549bfa11d23fc33590fe5340c6aeae",
     "/sr-RS/882.28c76eb0f675b3c1.js": "ef2ee1186f05f74e60b81576e282981d2c235372",
     "/sr-RS/902.fbdab0cd8846f2e2.js": "9a817111faf9f3fb6fe894a4850a085fc58d4e93",
@@ -127,11 +127,11 @@
     "/sr-RS/common.306afd5b356a44b5.js": "ee3cabe393ce889fdfeaa302eda595556b0c4056",
     "/sr-RS/dark-theme.css": "4a3b2ee28d29c70cc2064cdd5abc2d74c621fce3",
     "/sr-RS/favicon.ico": "df32f988dfc8f00c6f8a5c9f7f9908e0dc531101",
-    "/sr-RS/index.html": "b0e92255c48248cf01068ade93c536ea98891123",
-    "/sr-RS/main.1f2821e0bffe6408.js": "711d863cf62e7440e5602a3b5e674a67ee02a96c",
+    "/sr-RS/index.html": "e16a1bb4bea6db650230eb9d0dd663c8367ca0c3",
+    "/sr-RS/main.ca9efe5b6940330a.js": "c52044f3d8892d085a25880fd0bd90468f963b8e",
     "/sr-RS/manifest.webmanifest": "e9374b789891bb077d2a2572214147e6aadd4fdd",
     "/sr-RS/polyfills.6fbd15ac71afff0a.js": "4017b6c22822a37297a50559568433620d549a24",
-    "/sr-RS/runtime.5016364f8a57321e.js": "514adaa2562e9d30fa96cb99e3b11bdf7041ab80",
+    "/sr-RS/runtime.fe98ffe7ece34b82.js": "b95172c0148fb5e806476447b79ca29ad35c560e",
     "/sr-RS/styles.1666602fc1ba1491.css": "f8c9db1277e27bf5baabba5386baaa2e64e0a365",
     "/sr-RS/user.4a2bd1cf366a3dd4.svg": "0132122b951ae32123db6bbe549172f9d9b18cc5"
   },
