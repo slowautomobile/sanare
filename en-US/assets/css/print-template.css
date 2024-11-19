@@ -1,0 +1,127 @@
+.print-template-container {
+  display: none;
+  position: absolute;
+  top: 0;
+  width: 1200px;
+  height: 848px;
+  padding: 0.5in;
+  /* Set minimal margins for all sides */
+}
+.print-template-container * {
+  font-family: Roboto, sans-serif !important;
+}
+.print-template-container .program-client-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+.print-template-container .program-client-container .info-wrapper {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+.print-template-container
+  .program-client-container
+  .info-wrapper
+  span:first-of-type {
+  font-size: 18px;
+  font-weight: 500;
+}
+.print-template-container .program-client-container .info-wrapper span {
+  font-size: 18px;
+  font-weight: 400;
+}
+.print-template-container .print-grid-table {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 360px;
+  border: 2px solid black;
+}
+.print-template-container .print-grid-table .exercise-cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  background-color: white;
+}
+.print-template-container .print-grid-table .exercise-cell:nth-of-type(1) {
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+}
+.print-template-container .print-grid-table .exercise-cell:nth-of-type(2) {
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+}
+.print-template-container .print-grid-table .exercise-cell:nth-of-type(3) {
+  border-bottom: 2px solid black;
+}
+.print-template-container .print-grid-table .exercise-cell:nth-of-type(4) {
+  border-right: 2px solid black;
+}
+.print-template-container .print-grid-table .exercise-cell:nth-of-type(5) {
+  border-right: 2px solid black;
+}
+.print-template-container .print-grid-table .exercise-cell .title {
+  width: 100%;
+  align-self: flex-start;
+  padding: 4px;
+  border-bottom: 1px solid black;
+}
+.print-template-container .print-grid-table .exercise-cell .title > span {
+  font-size: 14px;
+}
+.print-template-container .print-grid-table .exercise-cell .img {
+  width: 200px;
+}
+.print-template-container
+  .print-grid-table
+  .exercise-cell
+  .exercise-info-wrapper {
+  padding: 0;
+  border-top: 1px solid black;
+}
+.print-template-container
+  .print-grid-table
+  .exercise-cell
+  .exercise-info-wrapper
+  .sets-reps {
+  display: flex;
+  width: 100%;
+  padding: 0 4px;
+  line-height: 2;
+  border-bottom: 1px solid black;
+}
+.print-template-container
+  .print-grid-table
+  .exercise-cell
+  .exercise-info-wrapper
+  .sets-reps
+  > div:first-of-type {
+  border-right: 1px solid black;
+}
+.print-template-container
+  .print-grid-table
+  .exercise-cell
+  .exercise-info-wrapper
+  .sets-reps
+  > div:last-of-type {
+  margin-left: 4px;
+}
+.print-template-container
+  .print-grid-table
+  .exercise-cell
+  .exercise-info-wrapper
+  .sets-reps
+  > div {
+  margin-right: auto;
+  flex-grow: 1;
+}
+.print-template-container
+  .print-grid-table
+  .exercise-cell
+  .exercise-info-wrapper
+  .notes {
+  padding: 4px;
+  /* Hide overflow text and show ellipsis (...) */
+}

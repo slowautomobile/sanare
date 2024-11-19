@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10.270125mm"
+   height="11.737301mm"
+   viewBox="0 0 10.270125 11.737301"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-99.90452,-142.5626)">
+    <!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+    <path
+       d="m 105.03958,148.43125 a 2.9343231,2.9343231 0 1 0 0,-5.86864 2.9343231,2.9343231 0 1 0 0,5.86864 z m -1.04764,1.10037 c -2.25805,0 -4.087422,1.82937 -4.087422,4.08742 0,0.37597 0.304892,0.68086 0.680852,0.68086 h 8.90842 c 0.37596,0 0.68086,-0.30489 0.68086,-0.68086 0,-2.25805 -1.82937,-4.08742 -4.08742,-4.08742 z"
+       id="path1"
+       style="fill:#8eace3;fill-opacity:1;stroke-width:0.0229244" />
+  </g>
+</svg>
