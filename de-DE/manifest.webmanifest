@@ -1,6 +1,6 @@
 {
-  "name": "sanare-app",
-  "short_name": "sanare-app",
+  "name": "Sanare",
+  "short_name": "Sanare",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
