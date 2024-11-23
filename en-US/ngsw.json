@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1732367736960,
+  "timestamp": 1732373118183,
   "index": "/en-US/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/en-US/125.86607919508d58db.js",
-        "/en-US/271.28521b3bb05cf4c8.js",
+        "/en-US/271.4e7b66f52c681ca8.js",
         "/en-US/396.e63907037ecab9c8.js",
         "/en-US/430.6035103bafe1be73.js",
         "/en-US/450.836f145288afedad.js",
@@ -44,7 +44,7 @@
         "/en-US/main.2636b2c69e5cc954.js",
         "/en-US/manifest.webmanifest",
         "/en-US/polyfills.6fbd15ac71afff0a.js",
-        "/en-US/runtime.c13a4ef0f7faed84.js",
+        "/en-US/runtime.1ac7871a14f95aa3.js",
         "/en-US/styles.f6e29be9b279e013.css"
       ],
       "patterns": []
@@ -61,7 +61,9 @@
         "/en-US/assets/images/add-exercise-placeholder.png",
         "/en-US/assets/images/blue-user-icon.svg",
         "/en-US/assets/images/leaf-img.svg",
+        "/en-US/assets/images/leaf-sanare-thin-dark-logo-2-DEMO.svg",
         "/en-US/assets/images/leaf-sanare-thin-dark-logo-2.svg",
+        "/en-US/assets/images/leaf-sanare-thin-light-logo-2-DEMO.svg",
         "/en-US/assets/images/leaf-sanare-thin-light-logo-2.svg",
         "/en-US/assets/images/leaf-sanare-thin-logo-2.svg",
         "/en-US/assets/images/user.svg",
@@ -73,7 +75,7 @@
   "dataGroups": [],
   "hashTable": {
     "/en-US/125.86607919508d58db.js": "79ccf73f00adff0ab85c3ec7afee78ed58f73ab8",
-    "/en-US/271.28521b3bb05cf4c8.js": "e6ea94627f2475b351dcadf6da3e19a4991ecca8",
+    "/en-US/271.4e7b66f52c681ca8.js": "ff8928c7ce42086946a0d9f25691cee7bd720996",
     "/en-US/396.e63907037ecab9c8.js": "84895a9c629dfe1bce4bf300414edeec8ec87be7",
     "/en-US/430.6035103bafe1be73.js": "8315a6173dbef75bdc323c8a62dcc4f8685753fa",
     "/en-US/450.836f145288afedad.js": "be7addc96c888c695a30ccc1f324f1f56fcce85b",
@@ -102,18 +104,20 @@
     "/en-US/assets/images/add-exercise-placeholder.png": "ce2a03ff2f208f10f3cb670f458ca6997940f3d8",
     "/en-US/assets/images/blue-user-icon.svg": "b719090a72515f02e9f6f3a1c95f13a483d790cf",
     "/en-US/assets/images/leaf-img.svg": "05f72855db55d63967c4fae1e6a66fb0fc970b12",
+    "/en-US/assets/images/leaf-sanare-thin-dark-logo-2-DEMO.svg": "1ba49e529e5c5c7e4fa816b8560278925dcd5229",
     "/en-US/assets/images/leaf-sanare-thin-dark-logo-2.svg": "7b272fae8edcfb3bdf0e9a8a45ae7722f24b6e57",
+    "/en-US/assets/images/leaf-sanare-thin-light-logo-2-DEMO.svg": "ba82aff87fb7c4c9eb4742d3e9feeb7294496640",
     "/en-US/assets/images/leaf-sanare-thin-light-logo-2.svg": "dfc47f42bcf6f92838ca10e314f47364ea34a562",
     "/en-US/assets/images/leaf-sanare-thin-logo-2.svg": "78569cb4c9f98206e1de5cc1a4f6185c1988d5b1",
     "/en-US/assets/images/user.svg": "0132122b951ae32123db6bbe549172f9d9b18cc5",
     "/en-US/common.306afd5b356a44b5.js": "a46a50bbb5427d5fb08bb24d4913553c9401e765",
     "/en-US/dark-theme.css": "b8f2f49c225c19df6c47f3d6db1194d281841ce7",
     "/en-US/favicon.ico": "df32f988dfc8f00c6f8a5c9f7f9908e0dc531101",
-    "/en-US/index.html": "3ecb311792a9b96c19c3aa61564338dcbcf6d8a4",
+    "/en-US/index.html": "90f2d3e44c6c4d91e233920da5ffee2c1c3caa83",
     "/en-US/main.2636b2c69e5cc954.js": "450268d5fd9f138aaf2ee171aaf0652864a2fabf",
     "/en-US/manifest.webmanifest": "e9374b789891bb077d2a2572214147e6aadd4fdd",
     "/en-US/polyfills.6fbd15ac71afff0a.js": "4017b6c22822a37297a50559568433620d549a24",
-    "/en-US/runtime.c13a4ef0f7faed84.js": "7bfff5834980d878928e5969c2b772df5dddb11f",
+    "/en-US/runtime.1ac7871a14f95aa3.js": "cdf8c4a51779e46f9f334aefddb5f39eb258d0b6",
     "/en-US/styles.f6e29be9b279e013.css": "12c13ef35fa6db0377b9e76e76ab66f5b81a5a44",
     "/en-US/user.4a2bd1cf366a3dd4.svg": "0132122b951ae32123db6bbe549172f9d9b18cc5"
   },
