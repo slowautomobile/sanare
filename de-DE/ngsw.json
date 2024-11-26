@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1732620067327,
+  "timestamp": 1732643435858,
   "index": "/de-DE/index.html",
   "assetGroups": [
     {
@@ -113,7 +113,7 @@
     "/de-DE/common.306afd5b356a44b5.js": "6d48605ba052a3950680f08ed4bee6ad392f45e0",
     "/de-DE/dark-theme.css": "e98a010b46461b1592ddcdf0ff26e6616164ac8c",
     "/de-DE/favicon.ico": "df32f988dfc8f00c6f8a5c9f7f9908e0dc531101",
-    "/de-DE/index.html": "d7af8b6e999e9dcaa93a188a85a913b96dfbea9a",
+    "/de-DE/index.html": "3406dea11c173572b6c4cf90ca298fa279ec5621",
     "/de-DE/main.2636b2c69e5cc954.js": "45d27d0b9788d76984ae2ea86d89b758e540e933",
     "/de-DE/manifest.webmanifest": "e9374b789891bb077d2a2572214147e6aadd4fdd",
     "/de-DE/polyfills.6fbd15ac71afff0a.js": "4017b6c22822a37297a50559568433620d549a24",

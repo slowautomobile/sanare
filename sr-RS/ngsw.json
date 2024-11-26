@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1732620067347,
+  "timestamp": 1732643435865,
   "index": "/sr-RS/index.html",
   "assetGroups": [
     {
@@ -113,7 +113,7 @@
     "/sr-RS/common.306afd5b356a44b5.js": "ee3cabe393ce889fdfeaa302eda595556b0c4056",
     "/sr-RS/dark-theme.css": "e98a010b46461b1592ddcdf0ff26e6616164ac8c",
     "/sr-RS/favicon.ico": "df32f988dfc8f00c6f8a5c9f7f9908e0dc531101",
-    "/sr-RS/index.html": "746a8180b2d6ef2f725814dc651e8a6942d1f576",
+    "/sr-RS/index.html": "1f1fb38984311b59a1b9f33a33b90f87cd62c4ed",
     "/sr-RS/main.2636b2c69e5cc954.js": "8dd44cb3798ffdefc6c136cf28d50ced333bf126",
     "/sr-RS/manifest.webmanifest": "e9374b789891bb077d2a2572214147e6aadd4fdd",
     "/sr-RS/polyfills.6fbd15ac71afff0a.js": "4017b6c22822a37297a50559568433620d549a24",
