@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1732373447479,
+  "timestamp": 1732620067347,
   "index": "/sr-RS/index.html",
   "assetGroups": [
     {
@@ -16,8 +16,8 @@
         "/sr-RS/396.e63907037ecab9c8.js",
         "/sr-RS/430.6035103bafe1be73.js",
         "/sr-RS/450.836f145288afedad.js",
-        "/sr-RS/507.b05a6ffe9944c050.js",
-        "/sr-RS/52.0f5b355ffe60605c.js",
+        "/sr-RS/507.73440d4c12569038.js",
+        "/sr-RS/52.0c256e953c19f1c5.js",
         "/sr-RS/607.9a74bf10cf79d273.js",
         "/sr-RS/610.ca631b5e4e38674f.js",
         "/sr-RS/716.217b4b0bcec4e14e.js",
@@ -25,7 +25,7 @@
         "/sr-RS/795.caa735125abae844.js",
         "/sr-RS/809.963382237d56cc27.js",
         "/sr-RS/847.88d61880e8f8f17d.js",
-        "/sr-RS/865.01a3a77f531b8d57.js",
+        "/sr-RS/865.f1e6bf4ae78c0d36.js",
         "/sr-RS/882.28c76eb0f675b3c1.js",
         "/sr-RS/902.fbdab0cd8846f2e2.js",
         "/sr-RS/948.fb2e3cb1c7dea767.js",
@@ -44,8 +44,8 @@
         "/sr-RS/main.2636b2c69e5cc954.js",
         "/sr-RS/manifest.webmanifest",
         "/sr-RS/polyfills.6fbd15ac71afff0a.js",
-        "/sr-RS/runtime.1ac7871a14f95aa3.js",
-        "/sr-RS/styles.f6e29be9b279e013.css"
+        "/sr-RS/runtime.c9858e3bfb5a8c47.js",
+        "/sr-RS/styles.44f7779eac59c5c8.css"
       ],
       "patterns": []
     },
@@ -79,8 +79,8 @@
     "/sr-RS/396.e63907037ecab9c8.js": "1dac99e13255dd1b5a6c863fc74219537655d8df",
     "/sr-RS/430.6035103bafe1be73.js": "51f6ab0be3512df056f801b813cb6dfcdacf4f89",
     "/sr-RS/450.836f145288afedad.js": "be7addc96c888c695a30ccc1f324f1f56fcce85b",
-    "/sr-RS/507.b05a6ffe9944c050.js": "5138b7fc5514436b8b2fa2ceb79830e84d318f44",
-    "/sr-RS/52.0f5b355ffe60605c.js": "2d620443cfc5f3adc9ed42f8a87f53e04a4e118e",
+    "/sr-RS/507.73440d4c12569038.js": "c4f24c7c7b8b56fc6b07b0a9264eab2b0e1a2fdc",
+    "/sr-RS/52.0c256e953c19f1c5.js": "314373ad8567f27973db7e1d11617945f3dfd051",
     "/sr-RS/607.9a74bf10cf79d273.js": "240b64f91ffbc19f756b289703c82504964fcd19",
     "/sr-RS/610.ca631b5e4e38674f.js": "b95660f32e430c5c55f7e6a8de2906c5df2d72e6",
     "/sr-RS/716.217b4b0bcec4e14e.js": "d86efe2913b332ddfce79c795ec066b531b4d323",
@@ -88,7 +88,7 @@
     "/sr-RS/795.caa735125abae844.js": "b7a8736566b990308fb931529803b8056597730b",
     "/sr-RS/809.963382237d56cc27.js": "52562cde5beb1ecdc9b108e2c4f7e5c3fe4505a6",
     "/sr-RS/847.88d61880e8f8f17d.js": "f420c1c55479210a82c236bb840195f8525b28ad",
-    "/sr-RS/865.01a3a77f531b8d57.js": "099d8bf7424d461e691e0218cfbded269beb2753",
+    "/sr-RS/865.f1e6bf4ae78c0d36.js": "f1950933ea1313fe79fb7efa219b4530d374776b",
     "/sr-RS/882.28c76eb0f675b3c1.js": "ef2ee1186f05f74e60b81576e282981d2c235372",
     "/sr-RS/902.fbdab0cd8846f2e2.js": "9a817111faf9f3fb6fe894a4850a085fc58d4e93",
     "/sr-RS/948.fb2e3cb1c7dea767.js": "b32c38134361ed1db2fae623d40f71aaf23b4e3c",
@@ -111,14 +111,14 @@
     "/sr-RS/assets/images/leaf-sanare-thin-logo-2.svg": "78569cb4c9f98206e1de5cc1a4f6185c1988d5b1",
     "/sr-RS/assets/images/user.svg": "0132122b951ae32123db6bbe549172f9d9b18cc5",
     "/sr-RS/common.306afd5b356a44b5.js": "ee3cabe393ce889fdfeaa302eda595556b0c4056",
-    "/sr-RS/dark-theme.css": "b8f2f49c225c19df6c47f3d6db1194d281841ce7",
+    "/sr-RS/dark-theme.css": "e98a010b46461b1592ddcdf0ff26e6616164ac8c",
     "/sr-RS/favicon.ico": "df32f988dfc8f00c6f8a5c9f7f9908e0dc531101",
-    "/sr-RS/index.html": "6adf825a5109a65e61dc6b010f8bb0cde883ec50",
+    "/sr-RS/index.html": "746a8180b2d6ef2f725814dc651e8a6942d1f576",
     "/sr-RS/main.2636b2c69e5cc954.js": "8dd44cb3798ffdefc6c136cf28d50ced333bf126",
     "/sr-RS/manifest.webmanifest": "e9374b789891bb077d2a2572214147e6aadd4fdd",
     "/sr-RS/polyfills.6fbd15ac71afff0a.js": "4017b6c22822a37297a50559568433620d549a24",
-    "/sr-RS/runtime.1ac7871a14f95aa3.js": "cdf8c4a51779e46f9f334aefddb5f39eb258d0b6",
-    "/sr-RS/styles.f6e29be9b279e013.css": "12c13ef35fa6db0377b9e76e76ab66f5b81a5a44",
+    "/sr-RS/runtime.c9858e3bfb5a8c47.js": "87df9efe396be0c67206c4d6da3dad48ef2a30bb",
+    "/sr-RS/styles.44f7779eac59c5c8.css": "9910d515dcf68e3f2656d04e229f05246985500f",
     "/sr-RS/user.4a2bd1cf366a3dd4.svg": "0132122b951ae32123db6bbe549172f9d9b18cc5"
   },
   "navigationUrls": [
