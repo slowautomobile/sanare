@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1732654261791,
+  "timestamp": 1732813439249,
   "index": "/de-DE/index.html",
   "assetGroups": [
     {
@@ -17,10 +17,10 @@
         "/de-DE/430.6035103bafe1be73.js",
         "/de-DE/450.836f145288afedad.js",
         "/de-DE/507.73440d4c12569038.js",
-        "/de-DE/52.739204f915309b11.js",
+        "/de-DE/52.86756f56c54db7dd.js",
         "/de-DE/607.9a74bf10cf79d273.js",
         "/de-DE/610.ca631b5e4e38674f.js",
-        "/de-DE/660.edf46ed292518f7e.js",
+        "/de-DE/660.6b52150ccfb35b35.js",
         "/de-DE/716.217b4b0bcec4e14e.js",
         "/de-DE/725.db31dc70537f1cd4.js",
         "/de-DE/795.caa735125abae844.js",
@@ -44,7 +44,7 @@
         "/de-DE/main.5881b643d714747c.js",
         "/de-DE/manifest.webmanifest",
         "/de-DE/polyfills.6fbd15ac71afff0a.js",
-        "/de-DE/runtime.f5567180965f0bf0.js",
+        "/de-DE/runtime.cc3615e4ab44cd0f.js",
         "/de-DE/styles.44f7779eac59c5c8.css"
       ],
       "patterns": []
@@ -80,10 +80,10 @@
     "/de-DE/430.6035103bafe1be73.js": "51323f4529ee5620d0788f0bec55e4e6b9a363d6",
     "/de-DE/450.836f145288afedad.js": "be7addc96c888c695a30ccc1f324f1f56fcce85b",
     "/de-DE/507.73440d4c12569038.js": "ed4b5ff9939000e3c5e05e234f5839bcc95c2469",
-    "/de-DE/52.739204f915309b11.js": "2c5b4a6ef7ab73878b13c5ee723823f1f37a31e0",
+    "/de-DE/52.86756f56c54db7dd.js": "38247833200be4c685a83c0ea216f1e9e2b8084c",
     "/de-DE/607.9a74bf10cf79d273.js": "4924a29b83ed77f3fd69d04b862e98bb05876da2",
     "/de-DE/610.ca631b5e4e38674f.js": "b95660f32e430c5c55f7e6a8de2906c5df2d72e6",
-    "/de-DE/660.edf46ed292518f7e.js": "d80e4c2a77513640ba48632d5becc9d328068e85",
+    "/de-DE/660.6b52150ccfb35b35.js": "db0e995929989825d35c2c33e7cafaece88c31fa",
     "/de-DE/716.217b4b0bcec4e14e.js": "c3cd5c55f1cb12ac12c16aaa98acb1f0c1d96d46",
     "/de-DE/725.db31dc70537f1cd4.js": "d24bf906dee0e5dead93db702ef1141756017596",
     "/de-DE/795.caa735125abae844.js": "ba0347c2bee8d073345f4797a160eb100d4e847c",
@@ -113,11 +113,11 @@
     "/de-DE/common.306afd5b356a44b5.js": "6d48605ba052a3950680f08ed4bee6ad392f45e0",
     "/de-DE/dark-theme.css": "e98a010b46461b1592ddcdf0ff26e6616164ac8c",
     "/de-DE/favicon.ico": "df32f988dfc8f00c6f8a5c9f7f9908e0dc531101",
-    "/de-DE/index.html": "e8e69399bcd86dd538ac57de471b2ce49073b8cc",
+    "/de-DE/index.html": "ba87198f28fd428c750cb338c575167d6e3a89c6",
     "/de-DE/main.5881b643d714747c.js": "acd2262d31a4e67df5bc6d4b0a87a51c7d501259",
     "/de-DE/manifest.webmanifest": "e9374b789891bb077d2a2572214147e6aadd4fdd",
     "/de-DE/polyfills.6fbd15ac71afff0a.js": "4017b6c22822a37297a50559568433620d549a24",
-    "/de-DE/runtime.f5567180965f0bf0.js": "7357c0cf93e1ff258c342b86880fa59cd400c2b6",
+    "/de-DE/runtime.cc3615e4ab44cd0f.js": "1b25ff8e9dae1e224cca059981987de1c383ded6",
     "/de-DE/styles.44f7779eac59c5c8.css": "9910d515dcf68e3f2656d04e229f05246985500f",
     "/de-DE/user.4a2bd1cf366a3dd4.svg": "0132122b951ae32123db6bbe549172f9d9b18cc5"
   },

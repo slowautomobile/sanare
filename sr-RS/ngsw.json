@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1732654261807,
+  "timestamp": 1732813439259,
   "index": "/sr-RS/index.html",
   "assetGroups": [
     {
@@ -17,10 +17,10 @@
         "/sr-RS/430.6035103bafe1be73.js",
         "/sr-RS/450.836f145288afedad.js",
         "/sr-RS/507.73440d4c12569038.js",
-        "/sr-RS/52.739204f915309b11.js",
+        "/sr-RS/52.86756f56c54db7dd.js",
         "/sr-RS/607.9a74bf10cf79d273.js",
         "/sr-RS/610.ca631b5e4e38674f.js",
-        "/sr-RS/660.edf46ed292518f7e.js",
+        "/sr-RS/660.6b52150ccfb35b35.js",
         "/sr-RS/716.217b4b0bcec4e14e.js",
         "/sr-RS/725.db31dc70537f1cd4.js",
         "/sr-RS/795.caa735125abae844.js",
@@ -44,7 +44,7 @@
         "/sr-RS/main.5881b643d714747c.js",
         "/sr-RS/manifest.webmanifest",
         "/sr-RS/polyfills.6fbd15ac71afff0a.js",
-        "/sr-RS/runtime.f5567180965f0bf0.js",
+        "/sr-RS/runtime.cc3615e4ab44cd0f.js",
         "/sr-RS/styles.44f7779eac59c5c8.css"
       ],
       "patterns": []
@@ -80,10 +80,10 @@
     "/sr-RS/430.6035103bafe1be73.js": "51f6ab0be3512df056f801b813cb6dfcdacf4f89",
     "/sr-RS/450.836f145288afedad.js": "be7addc96c888c695a30ccc1f324f1f56fcce85b",
     "/sr-RS/507.73440d4c12569038.js": "c4f24c7c7b8b56fc6b07b0a9264eab2b0e1a2fdc",
-    "/sr-RS/52.739204f915309b11.js": "4f146969fb4060e67344bee5b9c10f4d0d82f891",
+    "/sr-RS/52.86756f56c54db7dd.js": "1ab2f9d9e868e7942338f3b6fbb3938cfc79f9cc",
     "/sr-RS/607.9a74bf10cf79d273.js": "240b64f91ffbc19f756b289703c82504964fcd19",
     "/sr-RS/610.ca631b5e4e38674f.js": "b95660f32e430c5c55f7e6a8de2906c5df2d72e6",
-    "/sr-RS/660.edf46ed292518f7e.js": "2dd8b577b25bc4bc4c87f7fe102eae20db500b23",
+    "/sr-RS/660.6b52150ccfb35b35.js": "9cf08552f3526d66cf7f898863b3c945f690f3aa",
     "/sr-RS/716.217b4b0bcec4e14e.js": "d86efe2913b332ddfce79c795ec066b531b4d323",
     "/sr-RS/725.db31dc70537f1cd4.js": "bff2e40cb98ae40503039eeef764a4ed331fa823",
     "/sr-RS/795.caa735125abae844.js": "b7a8736566b990308fb931529803b8056597730b",
@@ -113,11 +113,11 @@
     "/sr-RS/common.306afd5b356a44b5.js": "ee3cabe393ce889fdfeaa302eda595556b0c4056",
     "/sr-RS/dark-theme.css": "e98a010b46461b1592ddcdf0ff26e6616164ac8c",
     "/sr-RS/favicon.ico": "df32f988dfc8f00c6f8a5c9f7f9908e0dc531101",
-    "/sr-RS/index.html": "3d7d824521b5e78bfb796892a875e55c4402f631",
+    "/sr-RS/index.html": "bc9957a3bdc5d01c0172f93a4560c9a54b005737",
     "/sr-RS/main.5881b643d714747c.js": "4a6f9fc4170690430159d58c03edfc81b7ba6ebe",
     "/sr-RS/manifest.webmanifest": "e9374b789891bb077d2a2572214147e6aadd4fdd",
     "/sr-RS/polyfills.6fbd15ac71afff0a.js": "4017b6c22822a37297a50559568433620d549a24",
-    "/sr-RS/runtime.f5567180965f0bf0.js": "7357c0cf93e1ff258c342b86880fa59cd400c2b6",
+    "/sr-RS/runtime.cc3615e4ab44cd0f.js": "1b25ff8e9dae1e224cca059981987de1c383ded6",
     "/sr-RS/styles.44f7779eac59c5c8.css": "9910d515dcf68e3f2656d04e229f05246985500f",
     "/sr-RS/user.4a2bd1cf366a3dd4.svg": "0132122b951ae32123db6bbe549172f9d9b18cc5"
   },
