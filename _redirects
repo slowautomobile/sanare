@@ -1,4 +1,4 @@
-/de-DE/*    /de-DE/index.html   200
-/sr-RS/*    /sr-RS/index.html   200
-/en-US/*    /en-US/index.html   200
-/*       /en-US/index.html   200
+/browser/de-DE/*    /browser/de-DE/index.html   200
+/browser/sr-RS/*    /sr-/browserRS/index.html   200
+/browser/en-US/*    /en-/browserUS/index.html   200
+/browser/*       /browser/en-US/index.html   200
