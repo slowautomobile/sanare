@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1746970786268,
+  "timestamp": 1746970996021,
   "index": "/sr-RS/index.html",
   "assetGroups": [
     {
@@ -36,8 +36,8 @@
         "/sr-RS/chunk-NVBN72NN.js",
         "/sr-RS/chunk-O72BZ5RL.js",
         "/sr-RS/chunk-OKP54ASH.js",
-        "/sr-RS/chunk-OZ4ZBUXL.js",
         "/sr-RS/chunk-RFLAKMDY.js",
+        "/sr-RS/chunk-SBNEDGYC.js",
         "/sr-RS/chunk-V3VO54FO.js",
         "/sr-RS/chunk-VCCW4HJO.js",
         "/sr-RS/chunk-VTXO2CVR.js",
@@ -49,7 +49,7 @@
         "/sr-RS/dark-theme.css",
         "/sr-RS/favicon.ico",
         "/sr-RS/index.html",
-        "/sr-RS/main-NJPHMIML.js",
+        "/sr-RS/main-OPEH2TQQ.js",
         "/sr-RS/manifest.webmanifest",
         "/sr-RS/polyfills-BGTEMNS7.js",
         "/sr-RS/styles-3EOQOLJL.css"
@@ -116,8 +116,8 @@
     "/sr-RS/chunk-NVBN72NN.js": "7645cc24b756812325bc5b06e5c83b4c259f7426",
     "/sr-RS/chunk-O72BZ5RL.js": "a7ff2093dbfda847833d961b3824453fa8e7ca22",
     "/sr-RS/chunk-OKP54ASH.js": "0530b9ffb4ba22cf3c2479f1179158a2ef68da23",
-    "/sr-RS/chunk-OZ4ZBUXL.js": "78c5e87d0eec8da9298bdb463e71fccaf6f5d39e",
     "/sr-RS/chunk-RFLAKMDY.js": "421e712774ef90c8aaf0097d54e0ad66874131b9",
+    "/sr-RS/chunk-SBNEDGYC.js": "2d20b86a3cbe45f35b0b7029dd4049493cb85a0d",
     "/sr-RS/chunk-V3VO54FO.js": "c885d32470ab7af03bb98803e449eb63d7228671",
     "/sr-RS/chunk-VCCW4HJO.js": "69d2b1d77048fd743ccdc1111238e9bb13880b81",
     "/sr-RS/chunk-VTXO2CVR.js": "1323a8117f7aa479995be904ce9f31bc9d7ebd43",
@@ -128,8 +128,8 @@
     "/sr-RS/chunk-ZS6ZT4HD.js": "de6174b5fcd5f66174a9b49cf96173b44d6b8642",
     "/sr-RS/dark-theme.css": "8dd0c23964ea20495248653ccf0f45f573eeecef",
     "/sr-RS/favicon.ico": "df32f988dfc8f00c6f8a5c9f7f9908e0dc531101",
-    "/sr-RS/index.html": "30dcede869af8465b79747542e3699e7366b2468",
-    "/sr-RS/main-NJPHMIML.js": "bdbb971d6fdce1b9d8c8cbbd97b14342a2e35311",
+    "/sr-RS/index.html": "903ce78a009e41acd7f1678a6a8b34578cad5a44",
+    "/sr-RS/main-OPEH2TQQ.js": "d9278a841770eb890d63e4d2256eb868a3f98ce4",
     "/sr-RS/manifest.webmanifest": "e9374b789891bb077d2a2572214147e6aadd4fdd",
     "/sr-RS/media/user-JIV5DTZW.svg": "0132122b951ae32123db6bbe549172f9d9b18cc5",
     "/sr-RS/polyfills-BGTEMNS7.js": "305f4f8daea911e63198ce2b5f62261e5d2e0d96",
