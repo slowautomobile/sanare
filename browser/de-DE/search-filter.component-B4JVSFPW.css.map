@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["libs/ui/src/lib/pages/search-filter/search-filter.component.scss"],
-  "sourcesContent": [":host\n  ::ng-deep\n  .mat-mdc-chip.mdc-evolution-chip--with-trailing-action\n  .mat-mdc-chip-action-label {\n  max-width: 260px;\n  white-space: nowrap;\n  overflow: hidden;\n}\n\n.filter-title-wrapper {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  // margin-bottom: 16px;\n  // padding-left: 16px;\n\n  .title {\n    // font-size: 18px;\n    margin: 16px;\n    // align-self: flex-start;\n  }\n\n  & button {\n    margin: 8px;\n  }\n}\n\n.chips-selection-wrapper {\n  margin: 16px;\n  margin-top: 0;\n\n  .clear-filter {\n    margin-top: 8px;\n  }\n}\n"],
-  "mappings": "AAAA,MAAA,UAAA,CAAA,YAAA,CAAA,yCAAA,CAAA,0BAIE,UAAA,MACA,YAAA,OACA,SAAA,OAGF,CAAA,qBACE,QAAA,KACA,gBAAA,cACA,YAAA,OAIA,CAPF,qBAOE,CAAA,MAhBF,OAkBI,KAIF,CAbF,qBAaE,OAtBF,OAuBI,IAIJ,CAAA,wBA3BA,OA6BE,EADA,UAGA,CAJF,wBAIE,CAAA,aACE,WAAA",
-  "names": []
-}

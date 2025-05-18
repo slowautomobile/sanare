@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["libs/ui/src/lib/components/deleteConfirmationDialog/deleteConfirmationDialog.component.scss"],
-  "sourcesContent": [".confirmation-dialog-wrapper {\n  // width: 300px;\n  // padding: 24px;\n  padding-top: 24px;\n  border-radius: 28px;\n  height: auto;\n\n  .dialog-title {\n    text-align: center;\n    padding-bottom: 0;\n  }\n\n  .dialog-icon {\n    text-align: center;\n    margin-bottom: -8px;\n    // margin-bottom: 16px;\n  }\n\n  .dialog-content {\n    // max-width: 250px;\n    padding-bottom: 0;\n    padding-top: 0;\n  }\n\n  .dialog-actions {\n    // margin-top: 24px;\n    text-align: right;\n    display: flex;\n    // gap: 8px;\n    justify-content: flex-end;\n    // padding: 24px;\n  }\n\n  // .dialog-buttons {\n  //   color: #2f628c;\n  // }\n}\n"],
-  "mappings": "AAAA,CAAA,4BAGE,YAAA,KAHF,cAIE,KACA,OAAA,KAEA,CAPF,4BAOE,CAAA,aACE,WAAA,OACA,eAAA,EAGF,CAZF,4BAYE,CAAA,YACE,WAAA,OACA,cAAA,KAIF,CAlBF,4BAkBE,CAAA,eAEE,eAAA,EACA,YAAA,EAGF,CAxBF,4BAwBE,CAAA,eAEE,WAAA,MACA,QAAA,KAEA,gBAAA",
-  "names": []
-}

@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["apps/sanare-app/src/app/pages/exercises/selected-exercises-list/selected-exercises-list.component.scss"],
-  "sourcesContent": [".custom-preview {\n  border-radius: 16px;\n}\n"],
-  "mappings": "AAAA,CAAA,eAAA,cACE",
-  "names": []
-}
