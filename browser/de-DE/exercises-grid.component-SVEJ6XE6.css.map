@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["apps/sanare-app/src/app/pages/exercises/exercises-grid/exercises-grid.component.scss"],
+  "sourcesContent": [".noExercisesFound {\n  text-align: center;\n  margin: 32px 0;\n}\n\n\n"],
+  "mappings": "AAAA,CAAA,iBACE,WAAA,OADF,OAEE,KAAA",
+  "names": []
+}
