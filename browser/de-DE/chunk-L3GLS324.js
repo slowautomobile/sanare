@@ -224,70 +224,70 @@ var ExerciseCardComponent = class _ExerciseCardComponent {
           const MSG_EXTERNAL_ExerciseCard_removeFromFavoritesTooltip$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_0 = goog.getMsg("Remove from favorites");
           i18n_0 = MSG_EXTERNAL_ExerciseCard_removeFromFavoritesTooltip$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_0;
         } else {
-          i18n_0 = "Ukloni iz omiljenih";
+          i18n_0 = "Aus Favoriten entfernen";
         }
         let i18n_1;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_removeFromFavoritesAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_1 = goog.getMsg("Favorite icon-button with a star icon");
           i18n_1 = MSG_EXTERNAL_ExerciseCard_removeFromFavoritesAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_1;
         } else {
-          i18n_1 = "Omiljena ikona-dugme sa ikonom zvezde";
+          i18n_1 = "Favoriten-Symbol-Schaltfl\xE4che mit einem Sternsymbol";
         }
         let i18n_2;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_addToFavoritesTooltip$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_2 = goog.getMsg("Add to favorites");
           i18n_2 = MSG_EXTERNAL_ExerciseCard_addToFavoritesTooltip$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_2;
         } else {
-          i18n_2 = "Dodaj u omiljene";
+          i18n_2 = "Zu meinen Favoriten hinzuf\xFCgen";
         }
         let i18n_3;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_addToFavoritesAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_3 = goog.getMsg("Favorite icon-button with a star icon");
           i18n_3 = MSG_EXTERNAL_ExerciseCard_addToFavoritesAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_3;
         } else {
-          i18n_3 = "Omiljena ikona-dugme sa ikonom zvezde";
+          i18n_3 = "Favoriten-Symbol-Schaltfl\xE4che mit einem Sternsymbol";
         }
         let i18n_4;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_details$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_4 = goog.getMsg("Details");
           i18n_4 = MSG_EXTERNAL_ExerciseCard_details$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_4;
         } else {
-          i18n_4 = "Detalji";
+          i18n_4 = "Einzelheiten";
         }
         let i18n_5;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_detailsAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_5 = goog.getMsg("Info icon-button with a info icon");
           i18n_5 = MSG_EXTERNAL_ExerciseCard_detailsAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_5;
         } else {
-          i18n_5 = "Info ikona-dugme sa ikonom info";
+          i18n_5 = "Infosymbol-Schaltfl\xE4che mit einem Infosymbol";
         }
         let i18n_6;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_removeExercise$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_6 = goog.getMsg("Remove exercise");
           i18n_6 = MSG_EXTERNAL_ExerciseCard_removeExercise$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_6;
         } else {
-          i18n_6 = "Ukloni ve\u017Ebu";
+          i18n_6 = "\xDCbung entfernen";
         }
         let i18n_7;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_removeExerciseAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_7 = goog.getMsg("Remove icon-button with a close icon");
           i18n_7 = MSG_EXTERNAL_ExerciseCard_removeExerciseAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_7;
         } else {
-          i18n_7 = "Ukloni ikonu-dugme sa ikonom za zatvaranje";
+          i18n_7 = "Symbolschaltfl\xE4che \u201EEntfernen\u201C mit einem Schlie\xDFen-Symbol";
         }
         let i18n_8;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_addExercise$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_8 = goog.getMsg("Add exercise");
           i18n_8 = MSG_EXTERNAL_ExerciseCard_addExercise$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_8;
         } else {
-          i18n_8 = "Dodaj ve\u017Ebu";
+          i18n_8 = "\xDCbung hinzuf\xFCgen";
         }
         let i18n_9;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_addExerciseAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_9 = goog.getMsg("Add icon button with a add icon");
           i18n_9 = MSG_EXTERNAL_ExerciseCard_addExerciseAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_9;
         } else {
-          i18n_9 = "Dodaj dugme ikone sa ikonom dodavanja";
+          i18n_9 = "Schaltfl\xE4che \u201ESymbol hinzuf\xFCgen\u201C mit einem Symbol zum Hinzuf\xFCgen";
         }
         return [["videoPlayer", ""], [3, "ngClass"], [1, "card"], [1, "card-head", 3, "mouseenter", "mouseleave"], [3, "videoSrc", "thumbnail", "isModal"], [1, "card-body"], [1, "exercise-name"], [1, "multi-line-text"], [1, "card-icons"], ["mat-icon-button", "", "matTooltip", i18n_0, "aria-label", i18n_1, 1, "favorite-exercise-star"], ["mat-icon-button", "", "matTooltip", i18n_2, "aria-label", i18n_3], ["mat-icon-button", "", "matTooltip", i18n_4, "aria-label", i18n_5, 3, "click"], ["mat-mini-fab", "", "matTooltip", i18n_6, "aria-label", i18n_7, 1, "toggleDoneRemoveBtn", 3, "color"], ["mat-icon-button", "", "matTooltip", i18n_8, "color", "primary", "aria-label", i18n_9], ["mat-icon-button", "", "matTooltip", i18n_0, "aria-label", i18n_1, 1, "favorite-exercise-star", 3, "click"], ["mat-icon-button", "", "matTooltip", i18n_2, "aria-label", i18n_3, 3, "click"], ["mat-mini-fab", "", "matTooltip", i18n_6, "aria-label", i18n_7, 1, "toggleDoneRemoveBtn", 3, "click", "mouseenter", "mouseleave", "color"], ["mat-icon-button", "", "matTooltip", i18n_8, "color", "primary", "aria-label", i18n_9, 3, "click"]];
       },
@@ -519,7 +519,7 @@ var ExercisesGridComponent = class _ExercisesGridComponent {
           const MSG_EXTERNAL_ExercisesGrid_noExercisesFoundMessage$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISES_GRID_EXERCISES_GRID_COMPONENT_TS_0 = goog.getMsg("No exercises found for your search");
           i18n_0 = MSG_EXTERNAL_ExercisesGrid_noExercisesFoundMessage$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISES_GRID_EXERCISES_GRID_COMPONENT_TS_0;
         } else {
-          i18n_0 = "Nema prona\u0111enih ve\u017Ebi za va\u0161u pretragu";
+          i18n_0 = "Zu deiner Suche wurden keine \xDCbungen gefunden";
         }
         return [i18n_0, ["overlay-scrollbars", "", 1, "grid-container", 3, "options", "defer"], [1, "noExercisesFound"], [1, "fetchingDataSpinner"], ["cdkDropList", "", "cdkDropListSortingDisabled", "", 1, "exercise-cards", 3, "cdkDropListEntered", "cdkDropListExited", "cdkDropListData", "ngStyle", "cdkDropListEnterPredicate"], ["diameter", "50"], [1, "static-placeholder"], ["cardWrapper", "wrap-default", "cdkDrag", "", 3, "removeExercise", "favoriteExercise", "removeFavoriteExercise", "cdkDragStarted", "cdkDragEnded", "isEmptyPlaceholder", "exercise", "cdkDragData"], ["class", "exercise-card-placeholder", 4, "cdkDragPlaceholder"], [1, "exercise-card-placeholder"], [1, "exercise-card-skeleton"], ["cardWrapper", "wrap-default", 3, "exercise"]];
       },
@@ -546,7 +546,7 @@ var ExercisesGridComponent = class _ExercisesGridComponent {
           ɵɵadvance();
           ɵɵproperty("options", ctx.themeSignal());
           ɵɵadvance();
-          ɵɵconditional((ctx.exercises == null ? null : ctx.exercises.length) === 0 && !isFetching_r5 ? 2 : -1);
+          ɵɵconditional((ctx.exercises == null ? null : ctx.exercises.length) === 0 ? 2 : -1);
           ɵɵadvance();
           ɵɵconditional(isFetching_r5 ? 3 : -1);
           ɵɵadvance();
@@ -569,4 +569,4 @@ var ExercisesGridComponent = class _ExercisesGridComponent {
 })();
 export { ExercisesGridComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-//# sourceMappingURL=chunk-3AOMDYSI.js.map
+//# sourceMappingURL=chunk-L3GLS324.js.map

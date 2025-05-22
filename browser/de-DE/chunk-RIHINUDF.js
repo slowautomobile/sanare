@@ -7,7 +7,7 @@ import "./chunk-SWLHLYHZ.js";
 import { MatButton, MatButtonModule, MatIconButton, MatRipple, MatRippleModule, _StructuralStylesLoader } from "./chunk-2QWI6V4H.js";
 import { MatIcon, MatIconModule } from "./chunk-7MZUFN34.js";
 import { A11yModule, BACKSPACE, BidiModule, CdkMonitorFocus, CdkPortalOutlet, CdkScrollableModule, CdkTrapFocus, ComponentPortal, ControlContainer, DOWN_ARROW, DefaultValueAccessor, Directionality, END, ENTER, ESCAPE, FlexibleConnectedPositionStrategy, FocusKeyManager, FocusMonitor, FormBuilder, FormControl, FormControlName, FormGroup, FormGroupDirective, FormGroupName, FormsModule, HOME, LEFT_ARROW, MatCommonModule, MaxLengthValidator, NG_VALIDATORS, NG_VALUE_ACCESSOR, NgControl, NgControlStatus, NgControlStatusGroup, NgForm, Overlay, OverlayConfig, OverlayModule, PAGE_DOWN, PAGE_UP, Platform, PortalModule, RIGHT_ARROW, ReactiveFormsModule, SPACE, TemplatePortal, UP_ARROW, Validators, _CdkPrivateStyleLoader, _IdGenerator, _VisuallyHiddenLoader, _bindEventWithOptions, _getFocusedElementPierceShadowDom, coerceStringArray, hasModifierKey, ɵNgNoValidate } from "./chunk-QTN4UOGR.js";
-import { ANIMATION_MODULE_TYPE, CSP_NONCE, ChangeDetectionStrategy, ChangeDetectorRef, Component, ContentChild, ContentChildren, DOCUMENT, Directive, ElementRef, EventEmitter, HostAttributeToken, HostListener, Inject, Injectable, InjectionToken, Injector, Input, Location, NgClass, NgModule, NgTemplateOutlet, NgZone, Optional, Output, QueryList, Renderer2, SkipSelf, Subject, Subscription, TemplateRef, ViewChild, ViewChildren, ViewContainerRef, ViewEncapsulation, __spreadProps, __spreadValues, afterNextRender, booleanAttribute, concatMap, filter, forwardRef, inject, lastValueFrom, map, merge, numberAttribute, of, output, setClassMetadata, signal, skip, startWith, switchMap, take, takeUntil, timer, ɵsetClassDebugInfo, ɵɵInheritDefinitionFeature, ɵɵNgOnChangesFeature, ɵɵProvidersFeature, ɵɵadvance, ɵɵattribute, ɵɵclassMap, ɵɵclassMapInterpolate1, ɵɵclassProp, ɵɵconditional, ɵɵcontentQuery, ɵɵdeclareLet, ɵɵdefer, ɵɵdeferEnableTimerScheduling, ɵɵdeferOnIdle, ɵɵdeferWhen, ɵɵdefineComponent, ɵɵdefineDirective, ɵɵdefineInjectable, ɵɵdefineInjector, ɵɵdefineNgModule, ɵɵelement, ɵɵelementContainer, ɵɵelementEnd, ɵɵelementStart, ɵɵgetCurrentView, ɵɵgetInheritedFactory, ɵɵhostProperty, ɵɵi18n, ɵɵi18nApply, ɵɵi18nEnd, ɵɵi18nExp, ɵɵi18nStart, ɵɵinject, ɵɵinvalidFactory, ɵɵlistener, ɵɵloadQuery, ɵɵnamespaceHTML, ɵɵnamespaceSVG, ɵɵnextContext, ɵɵprojection, ɵɵprojectionDef, ɵɵproperty, ɵɵpureFunction1, ɵɵpureFunction2, ɵɵqueryRefresh, ɵɵreference, ɵɵrepeater, ɵɵrepeaterCreate, ɵɵrepeaterTrackByIdentity, ɵɵresetView, ɵɵrestoreView, ɵɵsanitizeUrl, ɵɵstyleProp, ɵɵtemplate, ɵɵtemplateRefExtractor, ɵɵtext, ɵɵtextInterpolate, ɵɵtextInterpolate1, ɵɵtextInterpolate2, ɵɵtwoWayBindingSet, ɵɵtwoWayListener, ɵɵtwoWayProperty, ɵɵviewQuery } from "./chunk-2MICNSAC.js";
+import { ANIMATION_MODULE_TYPE, CSP_NONCE, ChangeDetectionStrategy, ChangeDetectorRef, Component, ContentChild, ContentChildren, DOCUMENT, Directive, ElementRef, EventEmitter, HostAttributeToken, HostListener, Inject, Injectable, InjectionToken, Injector, Input, Location, NgClass, NgModule, NgTemplateOutlet, NgZone, Optional, Output, QueryList, Renderer2, SkipSelf, Subject, Subscription, TemplateRef, ViewChild, ViewChildren, ViewContainerRef, ViewEncapsulation, __spreadProps, __spreadValues, afterNextRender, booleanAttribute, concatMap, filter, forwardRef, inject, lastValueFrom, map, merge, numberAttribute, of, output, setClassMetadata, signal, skip, startWith, switchMap, take, takeUntil, timer, ɵsetClassDebugInfo, ɵɵInheritDefinitionFeature, ɵɵNgOnChangesFeature, ɵɵProvidersFeature, ɵɵadvance, ɵɵattribute, ɵɵclassMap, ɵɵclassMapInterpolate1, ɵɵclassProp, ɵɵconditional, ɵɵcontentQuery, ɵɵdefer, ɵɵdeferEnableTimerScheduling, ɵɵdeferOnIdle, ɵɵdeferWhen, ɵɵdefineComponent, ɵɵdefineDirective, ɵɵdefineInjectable, ɵɵdefineInjector, ɵɵdefineNgModule, ɵɵelement, ɵɵelementContainer, ɵɵelementEnd, ɵɵelementStart, ɵɵgetCurrentView, ɵɵgetInheritedFactory, ɵɵhostProperty, ɵɵi18n, ɵɵi18nApply, ɵɵi18nEnd, ɵɵi18nExp, ɵɵi18nStart, ɵɵinject, ɵɵinvalidFactory, ɵɵlistener, ɵɵloadQuery, ɵɵnamespaceHTML, ɵɵnamespaceSVG, ɵɵnextContext, ɵɵprojection, ɵɵprojectionDef, ɵɵproperty, ɵɵpureFunction1, ɵɵpureFunction2, ɵɵqueryRefresh, ɵɵreference, ɵɵrepeater, ɵɵrepeaterCreate, ɵɵrepeaterTrackByIdentity, ɵɵresetView, ɵɵrestoreView, ɵɵsanitizeUrl, ɵɵstyleProp, ɵɵtemplate, ɵɵtemplateRefExtractor, ɵɵtext, ɵɵtextInterpolate, ɵɵtextInterpolate1, ɵɵtextInterpolate2, ɵɵtwoWayBindingSet, ɵɵtwoWayListener, ɵɵtwoWayProperty, ɵɵviewQuery } from "./chunk-2MICNSAC.js";
 
 // node_modules/@angular/cdk/fesm2022/stepper.mjs
 var _c0 = ["*"];
@@ -8624,34 +8624,34 @@ var ProgramAddClientComponent = class _ProgramAddClientComponent {
 })();
 
 // apps/sanare-app/src/app/pages/exercises/exercises-list/exercises-list.component.ts
-var ExercisesListComponent_Defer_7_DepsFn = () => [import("./chunk-3AOMDYSI.js").then(m => m.ExercisesGridComponent)];
-var ExercisesListComponent_Defer_17_DepsFn = () => [import("./chunk-APRQSIRD.js").then(m => m.SelectedExercisesListComponent)];
-function ExercisesListComponent_Defer_5_Template(rf, ctx) {
+var ExercisesListComponent_Defer_6_DepsFn = () => [import("./chunk-L3GLS324.js").then(m => m.ExercisesGridComponent)];
+var ExercisesListComponent_Defer_16_DepsFn = () => [import("./chunk-APRQSIRD.js").then(m => m.SelectedExercisesListComponent)];
+function ExercisesListComponent_Defer_4_Template(rf, ctx) {
   if (rf & 1) {
     ɵɵelement(0, "sanareapp-exercises-grid", 10);
   }
   if (rf & 2) {
-    const ctx_r1 = ɵɵnextContext();
-    ɵɵproperty("exercises", ctx_r1.exercises);
+    const ctx_r0 = ɵɵnextContext();
+    ɵɵproperty("exercises", ctx_r0.exercises);
   }
 }
-function ExercisesListComponent_DeferPlaceholder_6_Template(rf, ctx) {
+function ExercisesListComponent_DeferPlaceholder_5_Template(rf, ctx) {
   if (rf & 1) {
     ɵɵelementStart(0, "div", 11)(1, "div", 12);
     ɵɵelement(2, "div", 13)(3, "div", 13)(4, "div", 13)(5, "div", 13)(6, "div", 13)(7, "div", 13)(8, "div", 13)(9, "div", 13);
     ɵɵelementEnd()();
   }
 }
-function ExercisesListComponent_Defer_15_Template(rf, ctx) {
+function ExercisesListComponent_Defer_14_Template(rf, ctx) {
   if (rf & 1) {
     ɵɵelement(0, "sanareapp-selected-exercises-list", 10);
   }
   if (rf & 2) {
-    const ctx_r1 = ɵɵnextContext();
-    ɵɵproperty("exercises", ctx_r1.exercises);
+    const ctx_r0 = ɵɵnextContext();
+    ɵɵproperty("exercises", ctx_r0.exercises);
   }
 }
-function ExercisesListComponent_DeferPlaceholder_16_Template(rf, ctx) {
+function ExercisesListComponent_DeferPlaceholder_15_Template(rf, ctx) {
   if (rf & 1) {
     ɵɵelementStart(0, "div", 14);
     ɵɵelement(1, "div", 15)(2, "div", 15)(3, "div", 15)(4, "div", 15)(5, "div", 15)(6, "div", 15)(7, "div", 15)(8, "div", 15);
@@ -8805,15 +8805,15 @@ var ExercisesListComponent = class _ExercisesListComponent {
       inputs: {
         editMode: "editMode"
       },
-      decls: 19,
+      decls: 18,
       vars: 2,
       consts: () => {
         let i18n_0;
         if (false) {
           const MSG_EXTERNAL_SelectedExercises_title$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISES_LIST_EXERCISES_LIST_COMPONENT_TS_0 = goog.getMsg(" Selected exercises ({$startTagSpan}{$interpolation}{$closeTagSpan}) ", {
-            "closeTagSpan": "\uFFFD/#13\uFFFD",
+            "closeTagSpan": "\uFFFD/#12\uFFFD",
             "interpolation": "\uFFFD0\uFFFD",
-            "startTagSpan": "\uFFFD#13\uFFFD"
+            "startTagSpan": "\uFFFD#12\uFFFD"
           }, {
             original_code: {
               "closeTagSpan": "</span\n          >",
@@ -8823,40 +8823,36 @@ var ExercisesListComponent = class _ExercisesListComponent {
           });
           i18n_0 = MSG_EXTERNAL_SelectedExercises_title$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISES_LIST_EXERCISES_LIST_COMPONENT_TS_0;
         } else {
-          i18n_0 = "Ausgew\xE4hlte \xDCbungen (" + "\uFFFD#13\uFFFD" + "" + "\uFFFD0\uFFFD" + "" + "\uFFFD/#13\uFFFD" + ")";
+          i18n_0 = "Ausgew\xE4hlte \xDCbungen (" + "\uFFFD#12\uFFFD" + "" + "\uFFFD0\uFFFD" + "" + "\uFFFD/#12\uFFFD" + ")";
         }
         return [i18n_0, [500], ["cdkDropListGroup", ""], [1, "main-page-wrappper"], [1, "exercise-content-wrapper"], [3, "listOptionValue"], [1, "selected-exercises-list-wrapper"], [1, "selected-exercises"], [1, "title", "mat-title-medium-margin-plus"], ["overlay-scrollbars", "", 1, "selected-exercises-container", 3, "options", "defer"], [3, "exercises"], [1, "grid-container-placeholder"], [1, "exercise-cards-placeholder"], [1, "exercise-card-skeleton"], [1, "background-wrapper-placeholder"], [1, "main-wrap-placeholder"]];
       },
       template: function ExercisesListComponent_Template(rf, ctx) {
         if (rf & 1) {
-          const _r1 = ɵɵgetCurrentView();
-          ɵɵdeclareLet(0);
-          ɵɵelementStart(1, "div", 2)(2, "div", 3)(3, "div", 4)(4, "ui-exercise-search-btns-wrapper", 5);
-          ɵɵlistener("listOptionValue", function ExercisesListComponent_Template_ui_exercise_search_btns_wrapper_listOptionValue_4_listener() {
-            ɵɵrestoreView(_r1);
-            return ɵɵresetView(ctx.changeListedItems());
+          ɵɵelementStart(0, "div", 2)(1, "div", 3)(2, "div", 4)(3, "ui-exercise-search-btns-wrapper", 5);
+          ɵɵlistener("listOptionValue", function ExercisesListComponent_Template_ui_exercise_search_btns_wrapper_listOptionValue_3_listener() {
+            return ctx.changeListedItems();
           });
           ɵɵelementEnd();
-          ɵɵtemplate(5, ExercisesListComponent_Defer_5_Template, 1, 1)(6, ExercisesListComponent_DeferPlaceholder_6_Template, 10, 0);
-          ɵɵdefer(7, 5, ExercisesListComponent_Defer_7_DepsFn, null, 6, null, null, 1, ɵɵdeferEnableTimerScheduling);
+          ɵɵtemplate(4, ExercisesListComponent_Defer_4_Template, 1, 1)(5, ExercisesListComponent_DeferPlaceholder_5_Template, 10, 0);
+          ɵɵdefer(6, 4, ExercisesListComponent_Defer_6_DepsFn, null, 5, null, null, 1, ɵɵdeferEnableTimerScheduling);
           ɵɵdeferOnIdle();
           ɵɵelementEnd();
-          ɵɵelementStart(9, "div", 6)(10, "div", 7)(11, "h3", 8);
-          ɵɵi18nStart(12, 0);
-          ɵɵelement(13, "span");
+          ɵɵelementStart(8, "div", 6)(9, "div", 7)(10, "h3", 8);
+          ɵɵi18nStart(11, 0);
+          ɵɵelement(12, "span");
           ɵɵi18nEnd();
           ɵɵelementEnd();
-          ɵɵelementStart(14, "div", 9);
-          ɵɵtemplate(15, ExercisesListComponent_Defer_15_Template, 1, 1)(16, ExercisesListComponent_DeferPlaceholder_16_Template, 9, 0);
-          ɵɵdefer(17, 15, ExercisesListComponent_Defer_17_DepsFn, null, 16, null, null, 1, ɵɵdeferEnableTimerScheduling);
+          ɵɵelementStart(13, "div", 9);
+          ɵɵtemplate(14, ExercisesListComponent_Defer_14_Template, 1, 1)(15, ExercisesListComponent_DeferPlaceholder_15_Template, 9, 0);
+          ɵɵdefer(16, 14, ExercisesListComponent_Defer_16_DepsFn, null, 15, null, null, 1, ɵɵdeferEnableTimerScheduling);
           ɵɵdeferOnIdle();
           ɵɵelementEnd()()()()();
         }
         if (rf & 2) {
-          ctx.isFetchingData();
-          ɵɵadvance(13);
+          ɵɵadvance(12);
           ɵɵi18nExp(ctx.selectedExercises().length);
-          ɵɵi18nApply(12);
+          ɵɵi18nApply(11);
           ɵɵadvance();
           ɵɵproperty("options", ctx.themeSignal());
         }
@@ -10046,4 +10042,4 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
 })();
 export { NewProgramStepperComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-//# sourceMappingURL=chunk-62UO43FP.js.map
+//# sourceMappingURL=chunk-RIHINUDF.js.map

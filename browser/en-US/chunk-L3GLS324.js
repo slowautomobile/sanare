@@ -546,7 +546,7 @@ var ExercisesGridComponent = class _ExercisesGridComponent {
           ɵɵadvance();
           ɵɵproperty("options", ctx.themeSignal());
           ɵɵadvance();
-          ɵɵconditional((ctx.exercises == null ? null : ctx.exercises.length) === 0 && !isFetching_r5 ? 2 : -1);
+          ɵɵconditional((ctx.exercises == null ? null : ctx.exercises.length) === 0 ? 2 : -1);
           ɵɵadvance();
           ɵɵconditional(isFetching_r5 ? 3 : -1);
           ɵɵadvance();
@@ -569,4 +569,4 @@ var ExercisesGridComponent = class _ExercisesGridComponent {
 })();
 export { ExercisesGridComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-//# sourceMappingURL=chunk-3AOMDYSI.js.map
+//# sourceMappingURL=chunk-L3GLS324.js.map

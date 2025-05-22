@@ -7,7 +7,7 @@ import "./chunk-SWLHLYHZ.js";
 import { MatButton, MatButtonModule, MatIconButton, MatRipple, MatRippleModule, _StructuralStylesLoader } from "./chunk-2QWI6V4H.js";
 import { MatIcon, MatIconModule } from "./chunk-7MZUFN34.js";
 import { A11yModule, BACKSPACE, BidiModule, CdkMonitorFocus, CdkPortalOutlet, CdkScrollableModule, CdkTrapFocus, ComponentPortal, ControlContainer, DOWN_ARROW, DefaultValueAccessor, Directionality, END, ENTER, ESCAPE, FlexibleConnectedPositionStrategy, FocusKeyManager, FocusMonitor, FormBuilder, FormControl, FormControlName, FormGroup, FormGroupDirective, FormGroupName, FormsModule, HOME, LEFT_ARROW, MatCommonModule, MaxLengthValidator, NG_VALIDATORS, NG_VALUE_ACCESSOR, NgControl, NgControlStatus, NgControlStatusGroup, NgForm, Overlay, OverlayConfig, OverlayModule, PAGE_DOWN, PAGE_UP, Platform, PortalModule, RIGHT_ARROW, ReactiveFormsModule, SPACE, TemplatePortal, UP_ARROW, Validators, _CdkPrivateStyleLoader, _IdGenerator, _VisuallyHiddenLoader, _bindEventWithOptions, _getFocusedElementPierceShadowDom, coerceStringArray, hasModifierKey, ɵNgNoValidate } from "./chunk-QTN4UOGR.js";
-import { ANIMATION_MODULE_TYPE, CSP_NONCE, ChangeDetectionStrategy, ChangeDetectorRef, Component, ContentChild, ContentChildren, DOCUMENT, Directive, ElementRef, EventEmitter, HostAttributeToken, HostListener, Inject, Injectable, InjectionToken, Injector, Input, Location, NgClass, NgModule, NgTemplateOutlet, NgZone, Optional, Output, QueryList, Renderer2, SkipSelf, Subject, Subscription, TemplateRef, ViewChild, ViewChildren, ViewContainerRef, ViewEncapsulation, __spreadProps, __spreadValues, afterNextRender, booleanAttribute, concatMap, filter, forwardRef, inject, lastValueFrom, map, merge, numberAttribute, of, output, setClassMetadata, signal, skip, startWith, switchMap, take, takeUntil, timer, ɵsetClassDebugInfo, ɵɵInheritDefinitionFeature, ɵɵNgOnChangesFeature, ɵɵProvidersFeature, ɵɵadvance, ɵɵattribute, ɵɵclassMap, ɵɵclassMapInterpolate1, ɵɵclassProp, ɵɵconditional, ɵɵcontentQuery, ɵɵdeclareLet, ɵɵdefer, ɵɵdeferEnableTimerScheduling, ɵɵdeferOnIdle, ɵɵdeferWhen, ɵɵdefineComponent, ɵɵdefineDirective, ɵɵdefineInjectable, ɵɵdefineInjector, ɵɵdefineNgModule, ɵɵelement, ɵɵelementContainer, ɵɵelementEnd, ɵɵelementStart, ɵɵgetCurrentView, ɵɵgetInheritedFactory, ɵɵhostProperty, ɵɵi18n, ɵɵi18nApply, ɵɵi18nEnd, ɵɵi18nExp, ɵɵi18nStart, ɵɵinject, ɵɵinvalidFactory, ɵɵlistener, ɵɵloadQuery, ɵɵnamespaceHTML, ɵɵnamespaceSVG, ɵɵnextContext, ɵɵprojection, ɵɵprojectionDef, ɵɵproperty, ɵɵpureFunction1, ɵɵpureFunction2, ɵɵqueryRefresh, ɵɵreference, ɵɵrepeater, ɵɵrepeaterCreate, ɵɵrepeaterTrackByIdentity, ɵɵresetView, ɵɵrestoreView, ɵɵsanitizeUrl, ɵɵstyleProp, ɵɵtemplate, ɵɵtemplateRefExtractor, ɵɵtext, ɵɵtextInterpolate, ɵɵtextInterpolate1, ɵɵtextInterpolate2, ɵɵtwoWayBindingSet, ɵɵtwoWayListener, ɵɵtwoWayProperty, ɵɵviewQuery } from "./chunk-2MICNSAC.js";
+import { ANIMATION_MODULE_TYPE, CSP_NONCE, ChangeDetectionStrategy, ChangeDetectorRef, Component, ContentChild, ContentChildren, DOCUMENT, Directive, ElementRef, EventEmitter, HostAttributeToken, HostListener, Inject, Injectable, InjectionToken, Injector, Input, Location, NgClass, NgModule, NgTemplateOutlet, NgZone, Optional, Output, QueryList, Renderer2, SkipSelf, Subject, Subscription, TemplateRef, ViewChild, ViewChildren, ViewContainerRef, ViewEncapsulation, __spreadProps, __spreadValues, afterNextRender, booleanAttribute, concatMap, filter, forwardRef, inject, lastValueFrom, map, merge, numberAttribute, of, output, setClassMetadata, signal, skip, startWith, switchMap, take, takeUntil, timer, ɵsetClassDebugInfo, ɵɵInheritDefinitionFeature, ɵɵNgOnChangesFeature, ɵɵProvidersFeature, ɵɵadvance, ɵɵattribute, ɵɵclassMap, ɵɵclassMapInterpolate1, ɵɵclassProp, ɵɵconditional, ɵɵcontentQuery, ɵɵdefer, ɵɵdeferEnableTimerScheduling, ɵɵdeferOnIdle, ɵɵdeferWhen, ɵɵdefineComponent, ɵɵdefineDirective, ɵɵdefineInjectable, ɵɵdefineInjector, ɵɵdefineNgModule, ɵɵelement, ɵɵelementContainer, ɵɵelementEnd, ɵɵelementStart, ɵɵgetCurrentView, ɵɵgetInheritedFactory, ɵɵhostProperty, ɵɵi18n, ɵɵi18nApply, ɵɵi18nEnd, ɵɵi18nExp, ɵɵi18nStart, ɵɵinject, ɵɵinvalidFactory, ɵɵlistener, ɵɵloadQuery, ɵɵnamespaceHTML, ɵɵnamespaceSVG, ɵɵnextContext, ɵɵprojection, ɵɵprojectionDef, ɵɵproperty, ɵɵpureFunction1, ɵɵpureFunction2, ɵɵqueryRefresh, ɵɵreference, ɵɵrepeater, ɵɵrepeaterCreate, ɵɵrepeaterTrackByIdentity, ɵɵresetView, ɵɵrestoreView, ɵɵsanitizeUrl, ɵɵstyleProp, ɵɵtemplate, ɵɵtemplateRefExtractor, ɵɵtext, ɵɵtextInterpolate, ɵɵtextInterpolate1, ɵɵtextInterpolate2, ɵɵtwoWayBindingSet, ɵɵtwoWayListener, ɵɵtwoWayProperty, ɵɵviewQuery } from "./chunk-2MICNSAC.js";
 
 // node_modules/@angular/cdk/fesm2022/stepper.mjs
 var _c0 = ["*"];
@@ -1970,21 +1970,21 @@ var EditProgramComponent = class _EditProgramComponent {
           const MSG_EXTERNAL_EditProgram_programNamePlaceholder$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_0 = goog.getMsg("Enter program name");
           i18n_0 = MSG_EXTERNAL_EditProgram_programNamePlaceholder$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_0;
         } else {
-          i18n_0 = "Enter program name";
+          i18n_0 = "Unesi naziv programa";
         }
         let i18n_1;
         if (false) {
           const MSG_EXTERNAL_EditProgram_diagnosisPlaceholder$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_1 = goog.getMsg("Enter diagnosis");
           i18n_1 = MSG_EXTERNAL_EditProgram_diagnosisPlaceholder$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_1;
         } else {
-          i18n_1 = "Enter diagnosis";
+          i18n_1 = "Unesi dijagnozu";
         }
         let i18n_2;
         if (false) {
           const MSG_EXTERNAL_EditProgram_notesPlaceholder$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_2 = goog.getMsg("Enter program notes");
           i18n_2 = MSG_EXTERNAL_EditProgram_notesPlaceholder$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_2;
         } else {
-          i18n_2 = "Enter program notes";
+          i18n_2 = "Unesite bele\u0161ke programa";
         }
         let i18n_3;
         if (false) {
@@ -2001,49 +2001,49 @@ var EditProgramComponent = class _EditProgramComponent {
           });
           i18n_3 = MSG_EXTERNAL_SelectedExercises_title$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_3;
         } else {
-          i18n_3 = " Selected exercises (" + "\uFFFD#4\uFFFD" + "" + "\uFFFD0\uFFFD" + "" + "\uFFFD/#4\uFFFD" + ") ";
+          i18n_3 = "Izabrane ve\u017Ebe (" + "\uFFFD#4\uFFFD" + "" + "\uFFFD0\uFFFD" + "" + "\uFFFD/#4\uFFFD" + ")";
         }
         let i18n_4;
         if (false) {
           const MSG_EXTERNAL_EditProgram_programName$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_4 = goog.getMsg("Program name");
           i18n_4 = MSG_EXTERNAL_EditProgram_programName$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_4;
         } else {
-          i18n_4 = "Program name";
+          i18n_4 = "Naziv programa";
         }
         let i18n_5;
         if (false) {
           const MSG_EXTERNAL_EditProgram_diagnosis$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_5 = goog.getMsg("Diagnosis");
           i18n_5 = MSG_EXTERNAL_EditProgram_diagnosis$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_5;
         } else {
-          i18n_5 = "Diagnosis";
+          i18n_5 = "Dijagnoza";
         }
         let i18n_6;
         if (false) {
           const MSG_EXTERNAL_EditProgram_notes$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_6 = goog.getMsg("Notes");
           i18n_6 = MSG_EXTERNAL_EditProgram_notes$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_6;
         } else {
-          i18n_6 = "Notes";
+          i18n_6 = "Bele\u0161ke";
         }
         let i18n_7;
         if (false) {
           const MSG_EXTERNAL_EditProgram_maxCharactersHint$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_7 = goog.getMsg("Maximum number of characters reached");
           i18n_7 = MSG_EXTERNAL_EditProgram_maxCharactersHint$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_7;
         } else {
-          i18n_7 = "Maximum number of characters reached";
+          i18n_7 = "Dostignut je maksimalan broj karaktera";
         }
         let i18n_8;
         if (false) {
           const MSG_EXTERNAL_EditProgram_enterProgramNameHint$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_8 = goog.getMsg("Please enter a program name");
           i18n_8 = MSG_EXTERNAL_EditProgram_enterProgramNameHint$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_8;
         } else {
-          i18n_8 = "Please enter a program name";
+          i18n_8 = "Molimo Vas da unesete ime programa";
         }
         let i18n_9;
         if (false) {
           const MSG_EXTERNAL_EditProgram_slideToggleLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_9 = goog.getMsg("Save as template");
           i18n_9 = MSG_EXTERNAL_EditProgram_slideToggleLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_9;
         } else {
-          i18n_9 = "Save as template";
+          i18n_9 = "Sa\u010Duvaj kao \u0161ablon";
         }
         return [i18n_3, i18n_4, i18n_5, i18n_6, i18n_7, i18n_8, i18n_9, [1, "main-page-wrappper", "edit-program-flex"], [1, "content-wrapper"], [1, "mat-title-medium-margin-plus"], [1, "program-info-wrapper"], [1, "program-info-content"], [3, "formGroup"], ["appearance", "outline", "hideRequiredMarker", "false", 1, "program-inputs"], ["matPrefix", ""], ["matInput", "", "type", "text", "formControlName", "name", "placeholder", i18n_0, "maxlength", "50"], ["matInput", "", "cdkTextareaAutosize", "", "formControlName", "diagnosis", "placeholder", i18n_1], ["matInput", "", "cdkTextareaAutosize", "", "formControlName", "notes", "placeholder", i18n_2], ["labelPosition", "before", "formControlName", "isTemplate", 1, "program-inputs"]];
       },
@@ -8553,21 +8553,21 @@ var ProgramAddClientComponent = class _ProgramAddClientComponent {
           const MSG_EXTERNAL_ProgramAddClient_startDateLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_PROGRAM_ADD_CLIENT_PROGRAM_ADD_CLIENT_COMPONENT_TS_0 = goog.getMsg("Start date");
           i18n_0 = MSG_EXTERNAL_ProgramAddClient_startDateLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_PROGRAM_ADD_CLIENT_PROGRAM_ADD_CLIENT_COMPONENT_TS_0;
         } else {
-          i18n_0 = "Start date";
+          i18n_0 = "Datum po\u010Detka";
         }
         let i18n_1;
         if (false) {
           const MSG_EXTERNAL_ProgramAddClient_endDateLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_PROGRAM_ADD_CLIENT_PROGRAM_ADD_CLIENT_COMPONENT_TS_1 = goog.getMsg("End date");
           i18n_1 = MSG_EXTERNAL_ProgramAddClient_endDateLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_PROGRAM_ADD_CLIENT_PROGRAM_ADD_CLIENT_COMPONENT_TS_1;
         } else {
-          i18n_1 = "End date";
+          i18n_1 = "Datum zavr\u0161etka";
         }
         let i18n_2;
         if (false) {
           const MSG_EXTERNAL_ProgramAddClient_dateRangeLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_PROGRAM_ADD_CLIENT_PROGRAM_ADD_CLIENT_COMPONENT_TS_2 = goog.getMsg("Date range");
           i18n_2 = MSG_EXTERNAL_ProgramAddClient_dateRangeLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_PROGRAM_ADD_CLIENT_PROGRAM_ADD_CLIENT_COMPONENT_TS_2;
         } else {
-          i18n_2 = "Date range";
+          i18n_2 = "Vremenski opseg";
         }
         return [["selectClients", ""], ["picker", ""], i18n_2, [1, "main-page-wrappper", "program-add-client-flex"], [1, "client-info-wrapper"], [3, "formGroup"], ["appearance", "outline", 1, "program-inputs", "date-input"], ["formGroupName", "dateRange", 3, "rangePicker", "disabled"], ["matStartDate", "", "formControlName", "start", "placeholder", i18n_0], ["matEndDate", "", "formControlName", "end", "placeholder", i18n_1], ["matIconPrefix", "", 3, "for"], [1, "print-wrapper"]];
       },
@@ -8624,34 +8624,34 @@ var ProgramAddClientComponent = class _ProgramAddClientComponent {
 })();
 
 // apps/sanare-app/src/app/pages/exercises/exercises-list/exercises-list.component.ts
-var ExercisesListComponent_Defer_7_DepsFn = () => [import("./chunk-3AOMDYSI.js").then(m => m.ExercisesGridComponent)];
-var ExercisesListComponent_Defer_17_DepsFn = () => [import("./chunk-APRQSIRD.js").then(m => m.SelectedExercisesListComponent)];
-function ExercisesListComponent_Defer_5_Template(rf, ctx) {
+var ExercisesListComponent_Defer_6_DepsFn = () => [import("./chunk-L3GLS324.js").then(m => m.ExercisesGridComponent)];
+var ExercisesListComponent_Defer_16_DepsFn = () => [import("./chunk-APRQSIRD.js").then(m => m.SelectedExercisesListComponent)];
+function ExercisesListComponent_Defer_4_Template(rf, ctx) {
   if (rf & 1) {
     ɵɵelement(0, "sanareapp-exercises-grid", 10);
   }
   if (rf & 2) {
-    const ctx_r1 = ɵɵnextContext();
-    ɵɵproperty("exercises", ctx_r1.exercises);
+    const ctx_r0 = ɵɵnextContext();
+    ɵɵproperty("exercises", ctx_r0.exercises);
   }
 }
-function ExercisesListComponent_DeferPlaceholder_6_Template(rf, ctx) {
+function ExercisesListComponent_DeferPlaceholder_5_Template(rf, ctx) {
   if (rf & 1) {
     ɵɵelementStart(0, "div", 11)(1, "div", 12);
     ɵɵelement(2, "div", 13)(3, "div", 13)(4, "div", 13)(5, "div", 13)(6, "div", 13)(7, "div", 13)(8, "div", 13)(9, "div", 13);
     ɵɵelementEnd()();
   }
 }
-function ExercisesListComponent_Defer_15_Template(rf, ctx) {
+function ExercisesListComponent_Defer_14_Template(rf, ctx) {
   if (rf & 1) {
     ɵɵelement(0, "sanareapp-selected-exercises-list", 10);
   }
   if (rf & 2) {
-    const ctx_r1 = ɵɵnextContext();
-    ɵɵproperty("exercises", ctx_r1.exercises);
+    const ctx_r0 = ɵɵnextContext();
+    ɵɵproperty("exercises", ctx_r0.exercises);
   }
 }
-function ExercisesListComponent_DeferPlaceholder_16_Template(rf, ctx) {
+function ExercisesListComponent_DeferPlaceholder_15_Template(rf, ctx) {
   if (rf & 1) {
     ɵɵelementStart(0, "div", 14);
     ɵɵelement(1, "div", 15)(2, "div", 15)(3, "div", 15)(4, "div", 15)(5, "div", 15)(6, "div", 15)(7, "div", 15)(8, "div", 15);
@@ -8805,15 +8805,15 @@ var ExercisesListComponent = class _ExercisesListComponent {
       inputs: {
         editMode: "editMode"
       },
-      decls: 19,
+      decls: 18,
       vars: 2,
       consts: () => {
         let i18n_0;
         if (false) {
           const MSG_EXTERNAL_SelectedExercises_title$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISES_LIST_EXERCISES_LIST_COMPONENT_TS_0 = goog.getMsg(" Selected exercises ({$startTagSpan}{$interpolation}{$closeTagSpan}) ", {
-            "closeTagSpan": "\uFFFD/#13\uFFFD",
+            "closeTagSpan": "\uFFFD/#12\uFFFD",
             "interpolation": "\uFFFD0\uFFFD",
-            "startTagSpan": "\uFFFD#13\uFFFD"
+            "startTagSpan": "\uFFFD#12\uFFFD"
           }, {
             original_code: {
               "closeTagSpan": "</span\n          >",
@@ -8823,40 +8823,36 @@ var ExercisesListComponent = class _ExercisesListComponent {
           });
           i18n_0 = MSG_EXTERNAL_SelectedExercises_title$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISES_LIST_EXERCISES_LIST_COMPONENT_TS_0;
         } else {
-          i18n_0 = " Selected exercises (" + "\uFFFD#13\uFFFD" + "" + "\uFFFD0\uFFFD" + "" + "\uFFFD/#13\uFFFD" + ") ";
+          i18n_0 = "Izabrane ve\u017Ebe (" + "\uFFFD#12\uFFFD" + "" + "\uFFFD0\uFFFD" + "" + "\uFFFD/#12\uFFFD" + ")";
         }
         return [i18n_0, [500], ["cdkDropListGroup", ""], [1, "main-page-wrappper"], [1, "exercise-content-wrapper"], [3, "listOptionValue"], [1, "selected-exercises-list-wrapper"], [1, "selected-exercises"], [1, "title", "mat-title-medium-margin-plus"], ["overlay-scrollbars", "", 1, "selected-exercises-container", 3, "options", "defer"], [3, "exercises"], [1, "grid-container-placeholder"], [1, "exercise-cards-placeholder"], [1, "exercise-card-skeleton"], [1, "background-wrapper-placeholder"], [1, "main-wrap-placeholder"]];
       },
       template: function ExercisesListComponent_Template(rf, ctx) {
         if (rf & 1) {
-          const _r1 = ɵɵgetCurrentView();
-          ɵɵdeclareLet(0);
-          ɵɵelementStart(1, "div", 2)(2, "div", 3)(3, "div", 4)(4, "ui-exercise-search-btns-wrapper", 5);
-          ɵɵlistener("listOptionValue", function ExercisesListComponent_Template_ui_exercise_search_btns_wrapper_listOptionValue_4_listener() {
-            ɵɵrestoreView(_r1);
-            return ɵɵresetView(ctx.changeListedItems());
+          ɵɵelementStart(0, "div", 2)(1, "div", 3)(2, "div", 4)(3, "ui-exercise-search-btns-wrapper", 5);
+          ɵɵlistener("listOptionValue", function ExercisesListComponent_Template_ui_exercise_search_btns_wrapper_listOptionValue_3_listener() {
+            return ctx.changeListedItems();
           });
           ɵɵelementEnd();
-          ɵɵtemplate(5, ExercisesListComponent_Defer_5_Template, 1, 1)(6, ExercisesListComponent_DeferPlaceholder_6_Template, 10, 0);
-          ɵɵdefer(7, 5, ExercisesListComponent_Defer_7_DepsFn, null, 6, null, null, 1, ɵɵdeferEnableTimerScheduling);
+          ɵɵtemplate(4, ExercisesListComponent_Defer_4_Template, 1, 1)(5, ExercisesListComponent_DeferPlaceholder_5_Template, 10, 0);
+          ɵɵdefer(6, 4, ExercisesListComponent_Defer_6_DepsFn, null, 5, null, null, 1, ɵɵdeferEnableTimerScheduling);
           ɵɵdeferOnIdle();
           ɵɵelementEnd();
-          ɵɵelementStart(9, "div", 6)(10, "div", 7)(11, "h3", 8);
-          ɵɵi18nStart(12, 0);
-          ɵɵelement(13, "span");
+          ɵɵelementStart(8, "div", 6)(9, "div", 7)(10, "h3", 8);
+          ɵɵi18nStart(11, 0);
+          ɵɵelement(12, "span");
           ɵɵi18nEnd();
           ɵɵelementEnd();
-          ɵɵelementStart(14, "div", 9);
-          ɵɵtemplate(15, ExercisesListComponent_Defer_15_Template, 1, 1)(16, ExercisesListComponent_DeferPlaceholder_16_Template, 9, 0);
-          ɵɵdefer(17, 15, ExercisesListComponent_Defer_17_DepsFn, null, 16, null, null, 1, ɵɵdeferEnableTimerScheduling);
+          ɵɵelementStart(13, "div", 9);
+          ɵɵtemplate(14, ExercisesListComponent_Defer_14_Template, 1, 1)(15, ExercisesListComponent_DeferPlaceholder_15_Template, 9, 0);
+          ɵɵdefer(16, 14, ExercisesListComponent_Defer_16_DepsFn, null, 15, null, null, 1, ɵɵdeferEnableTimerScheduling);
           ɵɵdeferOnIdle();
           ɵɵelementEnd()()()()();
         }
         if (rf & 2) {
-          ctx.isFetchingData();
-          ɵɵadvance(13);
+          ɵɵadvance(12);
           ɵɵi18nExp(ctx.selectedExercises().length);
-          ɵɵi18nApply(12);
+          ɵɵi18nApply(11);
           ɵɵadvance();
           ɵɵproperty("options", ctx.themeSignal());
         }
@@ -9186,9 +9182,9 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
   }
   get actionLabel() {
     if (this.editMode && !this.isClientProgram || this.editMode && this.clientInfo().clientName) {
-      return "Update";
+      return "A\u017Euriraj";
     } else {
-      return "Save";
+      return "Sa\u010Duvaj";
     }
   }
   ngOnInit() {
@@ -9433,7 +9429,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
               programs: updatedPrograms
             };
             const subscription2 = this.clientsService.updateClient(updatedClient, client.id).subscribe(() => {
-              this._snackBar.open("Program created and added to client", "", {
+              this._snackBar.open("Program kreiran i dodat pacijentu", "", {
                 duration: 2e3,
                 panelClass: ["custom-snackbar-style"]
               });
@@ -9441,7 +9437,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
             this.subscriptions.add(subscription2);
           });
         } else {
-          this._snackBar.open("Program created", "", {
+          this._snackBar.open("Program kreiran", "", {
             duration: 2e3,
             panelClass: ["custom-snackbar-style"]
           });
@@ -9496,7 +9492,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
             programs: updatedPrograms
           };
           const subscription = this.clientsService.updateClient(updatedClient, client.id).subscribe(() => {
-            const message = this.isTemplate ? "Program created and added to client" : "Program added to client";
+            const message = this.isTemplate ? "Program kreiran i dodat pacijentu" : "Program dodat klijentu";
             this._snackBar.open(message, "", {
               duration: 2e3,
               panelClass: ["custom-snackbar-style"]
@@ -9525,7 +9521,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
       } else {
         console.log("client not valid");
         this.isLoading = false;
-        this._snackBar.open("Add as template or add client/s", "", {
+        this._snackBar.open("Dodaj kao \u0161ablon ili dodaj pacijenta/e", "", {
           duration: 2e3,
           panelClass: ["custom-snackbar-style"]
         });
@@ -9560,7 +9556,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
         }
       };
       const subscription = this.clientsService.updateClientProgram(clientId, updatedProgram, programPosition).subscribe(() => {
-        this._snackBar.open("Program updated", "", {
+        this._snackBar.open("Program a\u017Euriran", "", {
           duration: 2e3,
           panelClass: ["custom-snackbar-style"]
         });
@@ -9622,7 +9618,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
               programs: updatedPrograms
             };
             const subscription2 = this.clientsService.updateClient(updatedClient, client.id).subscribe(() => {
-              this._snackBar.open("Program updated and added to client", "", {
+              this._snackBar.open("Program a\u017Euriran i dodat pacijentu", "", {
                 duration: 2e3,
                 panelClass: ["custom-snackbar-style"]
               });
@@ -9630,7 +9626,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
             this.subscriptions.add(subscription2);
           });
         } else {
-          this._snackBar.open("Program updated", "", {
+          this._snackBar.open("Program a\u017Euriran", "", {
             duration: 2e3,
             panelClass: ["custom-snackbar-style"]
           });
@@ -9668,8 +9664,8 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
     const dialogRef = this.dialog.open(DeleteConfirmationDialogComponent, {
       width: "312px",
       data: {
-        title: "Delete selected program?",
-        message: this.clientInfo().clientName ? "Deleting the selected program will remove it from clients profile." : "Deleting the selected program will remove it from your account."
+        title: "Izbri\u0161i izabrani program?",
+        message: this.clientInfo().clientName ? "Brisanje izabranog programa \u0107e ga ukloniti iz profila pacijenta." : "Brisanje izabranog programa \u0107e ga ukloniti sa va\u0161eg naloga."
         // message:
         //   'Deleting the selected program will remove it from your account.',
       },
@@ -9703,7 +9699,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
       });
       this.subscriptions.add(subscription);
     }
-    this._snackBar.open("Program deleted", "", {
+    this._snackBar.open("Program izbrisan", "", {
       duration: 2e3,
       panelClass: ["custom-snackbar-style"]
     });
@@ -9830,49 +9826,49 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
           const MSG_EXTERNAL_NewProgramStepper_stepEditProgram$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_0 = goog.getMsg("Edit program");
           i18n_0 = MSG_EXTERNAL_NewProgramStepper_stepEditProgram$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_0;
         } else {
-          i18n_0 = "Edit program";
+          i18n_0 = "Uredi program";
         }
         let i18n_1;
         if (false) {
           const MSG_EXTERNAL_NewProgramStepper_backButton$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_1 = goog.getMsg(" Back ");
           i18n_1 = MSG_EXTERNAL_NewProgramStepper_backButton$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_1;
         } else {
-          i18n_1 = " Back ";
+          i18n_1 = "Nazad";
         }
         let i18n_2;
         if (false) {
           const MSG_EXTERNAL_NewProgramStepper_nextButton$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_2 = goog.getMsg(" Next ");
           i18n_2 = MSG_EXTERNAL_NewProgramStepper_nextButton$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_2;
         } else {
-          i18n_2 = " Next ";
+          i18n_2 = "Dalje";
         }
         let i18n_3;
         if (false) {
           const MSG_EXTERNAL_NewProgramStepper_stepSelectExercises$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_3 = goog.getMsg("Select exercises");
           i18n_3 = MSG_EXTERNAL_NewProgramStepper_stepSelectExercises$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_3;
         } else {
-          i18n_3 = "Select exercises";
+          i18n_3 = "Izaberi ve\u017Ebe";
         }
         let i18n_4;
         if (false) {
           const MSG_EXTERNAL_NewProgramStepper_stepClient$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_4 = goog.getMsg("Client(s)");
           i18n_4 = MSG_EXTERNAL_NewProgramStepper_stepClient$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_4;
         } else {
-          i18n_4 = "Client(s)";
+          i18n_4 = "Pacijent(i)";
         }
         let i18n_5;
         if (false) {
           const MSG_EXTERNAL_PrintTemplate_program$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_5 = goog.getMsg("Program: ");
           i18n_5 = MSG_EXTERNAL_PrintTemplate_program$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_5;
         } else {
-          i18n_5 = "Program: ";
+          i18n_5 = "Program:";
         }
         let i18n_6;
         if (false) {
           const MSG_EXTERNAL_PrintTemplate_client$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_6 = goog.getMsg("Client: ");
           i18n_6 = MSG_EXTERNAL_PrintTemplate_client$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_6;
         } else {
-          i18n_6 = "Client: ";
+          i18n_6 = "Pacijent:";
         }
         let i18n_7;
         if (false) {
@@ -9885,7 +9881,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
           });
           i18n_7 = MSG_EXTERNAL_PrintTemplate_page$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_7;
         } else {
-          i18n_7 = "Page " + "\uFFFD0\uFFFD" + "";
+          i18n_7 = "Stranica " + "\uFFFD0\uFFFD" + "";
         }
         let i18n_8;
         if (false) {
@@ -9898,49 +9894,49 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
           });
           i18n_8 = MSG_EXTERNAL_PrintTemplate_exerciseAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_8;
         } else {
-          i18n_8 = "Ex. " + "\uFFFD0\uFFFD" + ": ";
+          i18n_8 = "V\u017Eb. " + "\uFFFD0\uFFFD" + ": ";
         }
         let i18n_9;
         if (false) {
           const MSG_EXTERNAL_PrintTemplate_repsAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_9 = goog.getMsg("Reps: ");
           i18n_9 = MSG_EXTERNAL_PrintTemplate_repsAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_9;
         } else {
-          i18n_9 = "Reps: ";
+          i18n_9 = "Serija: ";
         }
         let i18n_10;
         if (false) {
           const MSG_EXTERNAL_PrintTemplate_setsAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_10 = goog.getMsg("Sets: ");
           i18n_10 = MSG_EXTERNAL_PrintTemplate_setsAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_10;
         } else {
-          i18n_10 = "Sets: ";
+          i18n_10 = "Ponavljanja: ";
         }
         let i18n_11;
         if (false) {
           const MSG_EXTERNAL_PrintTemplate_notes$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_11 = goog.getMsg("Notes: ");
           i18n_11 = MSG_EXTERNAL_PrintTemplate_notes$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_11;
         } else {
-          i18n_11 = "Notes: ";
+          i18n_11 = "Bele\u0161ke: ";
         }
         let i18n_12;
         if (false) {
           const MSG_EXTERNAL_PrintTemplate_pauseAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_12 = goog.getMsg("Pause: ");
           i18n_12 = MSG_EXTERNAL_PrintTemplate_pauseAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_12;
         } else {
-          i18n_12 = "Pause: ";
+          i18n_12 = "Pauza: ";
         }
         let i18n_13;
         if (false) {
           const MSG_EXTERNAL_PrintTemplate_weightAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_13 = goog.getMsg("Weight: ");
           i18n_13 = MSG_EXTERNAL_PrintTemplate_weightAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_13;
         } else {
-          i18n_13 = "Weight: ";
+          i18n_13 = "Te\u017Eina: ";
         }
         let i18n_14;
         if (false) {
           const MSG_EXTERNAL_PrintTemplate_equipmentAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_14 = goog.getMsg("Eq: ");
           i18n_14 = MSG_EXTERNAL_PrintTemplate_equipmentAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_14;
         } else {
-          i18n_14 = "Eq: ";
+          i18n_14 = "Opr: ";
         }
         return [["drawer2", ""], ["stepper", ""], i18n_1, i18n_2, i18n_3, i18n_4, i18n_5, i18n_6, i18n_7, i18n_8, i18n_9, i18n_10, i18n_11, i18n_12, i18n_13, i18n_14, [1, "main-custom"], [1, "mat-drawer-container", 3, "backdropClick"], ["position", "end", 1, "filter-drawer", 3, "mode", "ngClass", "opened"], [1, "drawer-wrapper", 3, "ngClass"], [1, "mat-drawer-content"], ["pageType", "program", 3, "cancelEvent", "submitEvent", "printEvent", "deleteEvent", "reuseProgram", "isClientProgram", "clientName", "editMode", "itemName"], ["mat-stroked-button", "", "color", "primary", 1, "custom-btn", 3, "click", "disabled"], ["mat-flat-button", "", "color", "primary", 1, "custom-btn", 3, "disabled"], ["mat-flat-button", "", "color", "primary", 1, "custom-btn", 3, "spinner", "disabled"], [3, "formGroup"], ["linear", "", "animationDuration", "0", 3, "selectionChange", "selectedIndex"], [3, "completed"], ["matStepLabel", ""], ["matStepContent", ""], ["label", i18n_0, 3, "completed"], ["optional", ""], ["id", "print-section"], [1, "print-template-container"], [3, "toggleDrawerSignal"], ["mat-flat-button", "", "color", "primary", 1, "custom-btn", 3, "click", "disabled"], [3, "editMode"], [1, "program-client-container"], [1, "info-wrapper"], [1, "print-grid-table", "mat-body-small-print"], [1, "exercise-cell"], [1, "print-page-number"], [1, "title-img-container"], [1, "title"], ["alt", "", 1, "img", 3, "src"], [1, "exercise-info-wrapper"], [1, "sets-reps"], [1, "notes", "mat-body-small-print"]];
       },
@@ -10046,4 +10042,4 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
 })();
 export { NewProgramStepperComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-//# sourceMappingURL=chunk-62UO43FP.js.map
+//# sourceMappingURL=chunk-RIHINUDF.js.map
