@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;905f5a6b9888dea0ad236c534dd6951a3e1017a602cd8422ff5ce88c7132f6f3;/home/user/PhysioApp/slowautomobile-monorepo/libs/ui/src/lib/components/blank-overlay/blank-overlay.component.ts"],
+  "sourcesContent": ["\n      .overlay-placeholder {\n        width: 100vw;\n        height: 100vh;\n        pointer-events: auto;\n        background-color: transparent;\n      }\n    "],
+  "mappings": "AACM,CAAC,oBACC,MAAO,MACP,OAAQ,MACR,eAAgB,KAChB,iBAAkB,WACpB",
+  "names": []
+}
