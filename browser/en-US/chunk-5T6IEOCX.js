@@ -8624,27 +8624,43 @@ var ProgramAddClientComponent = class _ProgramAddClientComponent {
 })();
 
 // apps/sanare-app/src/app/pages/exercises/exercises-list/exercises-list.component.ts
-var ExercisesListComponent_Defer_6_DepsFn = () => [import("./chunk-N5VV42QC.js").then(m => m.ExercisesGridComponent)];
+var ExercisesListComponent_Defer_6_DepsFn = () => [import("./chunk-5GZQMA47.js").then(m => m.ExercisesGridComponent)];
 var ExercisesListComponent_Defer_16_DepsFn = () => [import("./chunk-CN2Q4PRV.js").then(m => m.SelectedExercisesListComponent)];
+function ExercisesListComponent_Defer_4_Conditional_0_Template(rf, ctx) {
+  if (rf & 1) {
+    ɵɵelement(0, "sanareapp-exercises-grid", 11);
+  }
+  if (rf & 2) {
+    const ctx_r0 = ɵɵnextContext(2);
+    ɵɵproperty("exercises", ctx_r0.exercises);
+  }
+}
+function ExercisesListComponent_Defer_4_Conditional_1_Template(rf, ctx) {
+  if (rf & 1) {
+    ɵɵelementStart(0, "div", 12)(1, "span");
+    ɵɵi18n(2, 1);
+    ɵɵelementEnd()();
+  }
+}
 function ExercisesListComponent_Defer_4_Template(rf, ctx) {
   if (rf & 1) {
-    ɵɵelement(0, "sanareapp-exercises-grid", 10);
+    ɵɵtemplate(0, ExercisesListComponent_Defer_4_Conditional_0_Template, 1, 1, "sanareapp-exercises-grid", 11)(1, ExercisesListComponent_Defer_4_Conditional_1_Template, 3, 0, "div", 12);
   }
   if (rf & 2) {
     const ctx_r0 = ɵɵnextContext();
-    ɵɵproperty("exercises", ctx_r0.exercises);
+    ɵɵconditional(ctx_r0.exercises.length > 0 ? 0 : 1);
   }
 }
 function ExercisesListComponent_DeferPlaceholder_5_Template(rf, ctx) {
   if (rf & 1) {
-    ɵɵelementStart(0, "div", 11)(1, "div", 12);
-    ɵɵelement(2, "div", 13)(3, "div", 13)(4, "div", 13)(5, "div", 13)(6, "div", 13)(7, "div", 13)(8, "div", 13)(9, "div", 13);
+    ɵɵelementStart(0, "div", 13)(1, "div", 14);
+    ɵɵelement(2, "div", 15)(3, "div", 15)(4, "div", 15)(5, "div", 15)(6, "div", 15)(7, "div", 15)(8, "div", 15)(9, "div", 15);
     ɵɵelementEnd()();
   }
 }
 function ExercisesListComponent_Defer_14_Template(rf, ctx) {
   if (rf & 1) {
-    ɵɵelement(0, "sanareapp-selected-exercises-list", 10);
+    ɵɵelement(0, "sanareapp-selected-exercises-list", 11);
   }
   if (rf & 2) {
     const ctx_r0 = ɵɵnextContext();
@@ -8653,8 +8669,8 @@ function ExercisesListComponent_Defer_14_Template(rf, ctx) {
 }
 function ExercisesListComponent_DeferPlaceholder_15_Template(rf, ctx) {
   if (rf & 1) {
-    ɵɵelementStart(0, "div", 14);
-    ɵɵelement(1, "div", 15)(2, "div", 15)(3, "div", 15)(4, "div", 15)(5, "div", 15)(6, "div", 15)(7, "div", 15)(8, "div", 15);
+    ɵɵelementStart(0, "div", 16);
+    ɵɵelement(1, "div", 17)(2, "div", 17)(3, "div", 17)(4, "div", 17)(5, "div", 17)(6, "div", 17)(7, "div", 17)(8, "div", 17);
     ɵɵelementEnd();
   }
 }
@@ -8825,27 +8841,34 @@ var ExercisesListComponent = class _ExercisesListComponent {
         } else {
           i18n_0 = " Selected exercises (" + "\uFFFD#12\uFFFD" + "" + "\uFFFD0\uFFFD" + "" + "\uFFFD/#12\uFFFD" + ") ";
         }
-        return [i18n_0, [500], ["cdkDropListGroup", ""], [1, "main-page-wrappper"], [1, "exercise-content-wrapper"], [3, "listOptionValue"], [1, "selected-exercises-list-wrapper"], [1, "selected-exercises"], [1, "title", "mat-title-medium-margin-plus"], ["overlay-scrollbars", "", 1, "selected-exercises-container", 3, "options", "defer"], [3, "exercises"], [1, "grid-container-placeholder"], [1, "exercise-cards-placeholder"], [1, "exercise-card-skeleton"], [1, "background-wrapper-placeholder"], [1, "main-wrap-placeholder"]];
+        let i18n_1;
+        if (false) {
+          const MSG_EXTERNAL_ExercisesGrid_noExercisesFoundMessage$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISES_LIST_EXERCISES_LIST_COMPONENT_TS_1 = goog.getMsg("No exercises found for your search");
+          i18n_1 = MSG_EXTERNAL_ExercisesGrid_noExercisesFoundMessage$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISES_LIST_EXERCISES_LIST_COMPONENT_TS_1;
+        } else {
+          i18n_1 = "No exercises found for your search";
+        }
+        return [i18n_0, i18n_1, [500], ["cdkDropListGroup", ""], [1, "main-page-wrappper"], [1, "exercise-content-wrapper"], [3, "listOptionValue"], [1, "selected-exercises-list-wrapper"], [1, "selected-exercises"], [1, "title", "mat-title-medium-margin-plus"], ["overlay-scrollbars", "", 1, "selected-exercises-container", 3, "options", "defer"], [3, "exercises"], [1, "noExercisesFound"], [1, "grid-container-placeholder"], [1, "exercise-cards-placeholder"], [1, "exercise-card-skeleton"], [1, "background-wrapper-placeholder"], [1, "main-wrap-placeholder"]];
       },
       template: function ExercisesListComponent_Template(rf, ctx) {
         if (rf & 1) {
-          ɵɵelementStart(0, "div", 2)(1, "div", 3)(2, "div", 4)(3, "ui-exercise-search-btns-wrapper", 5);
+          ɵɵelementStart(0, "div", 3)(1, "div", 4)(2, "div", 5)(3, "ui-exercise-search-btns-wrapper", 6);
           ɵɵlistener("listOptionValue", function ExercisesListComponent_Template_ui_exercise_search_btns_wrapper_listOptionValue_3_listener() {
             return ctx.changeListedItems();
           });
           ɵɵelementEnd();
-          ɵɵtemplate(4, ExercisesListComponent_Defer_4_Template, 1, 1)(5, ExercisesListComponent_DeferPlaceholder_5_Template, 10, 0);
-          ɵɵdefer(6, 4, ExercisesListComponent_Defer_6_DepsFn, null, 5, null, null, 1, ɵɵdeferEnableTimerScheduling);
+          ɵɵtemplate(4, ExercisesListComponent_Defer_4_Template, 2, 1)(5, ExercisesListComponent_DeferPlaceholder_5_Template, 10, 0);
+          ɵɵdefer(6, 4, ExercisesListComponent_Defer_6_DepsFn, null, 5, null, null, 2, ɵɵdeferEnableTimerScheduling);
           ɵɵdeferOnIdle();
           ɵɵelementEnd();
-          ɵɵelementStart(8, "div", 6)(9, "div", 7)(10, "h3", 8);
+          ɵɵelementStart(8, "div", 7)(9, "div", 8)(10, "h3", 9);
           ɵɵi18nStart(11, 0);
           ɵɵelement(12, "span");
           ɵɵi18nEnd();
           ɵɵelementEnd();
-          ɵɵelementStart(13, "div", 9);
+          ɵɵelementStart(13, "div", 10);
           ɵɵtemplate(14, ExercisesListComponent_Defer_14_Template, 1, 1)(15, ExercisesListComponent_DeferPlaceholder_15_Template, 9, 0);
-          ɵɵdefer(16, 14, ExercisesListComponent_Defer_16_DepsFn, null, 15, null, null, 1, ɵɵdeferEnableTimerScheduling);
+          ɵɵdefer(16, 14, ExercisesListComponent_Defer_16_DepsFn, null, 15, null, null, 2, ɵɵdeferEnableTimerScheduling);
           ɵɵdeferOnIdle();
           ɵɵelementEnd()()()()();
         }
@@ -10042,4 +10065,4 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
 })();
 export { NewProgramStepperComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-//# sourceMappingURL=chunk-QS2QAEYF.js.map
+//# sourceMappingURL=chunk-5T6IEOCX.js.map
