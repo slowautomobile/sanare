@@ -9318,7 +9318,6 @@ var ExercisesListComponent = class _ExercisesListComponent {
     this.isFetchingData.set(false);
   }
   _getFavoriteExercises() {
-    this.isFetchingData.set(true);
     const subscription = this.exercisesService.getExercises().subscribe(exercises => {
       this.exercises = [];
       for (const exercise of exercises) {
@@ -10597,4 +10596,4 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
 })();
 export { NewProgramStepperComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-//# sourceMappingURL=chunk-TQ3VDESI.js.map
+//# sourceMappingURL=chunk-ZV3SOW5N.js.map
