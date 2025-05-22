@@ -9265,7 +9265,6 @@ var ExercisesListComponent = class _ExercisesListComponent {
           this.exercises.push(exercise);
         }
       }
-      this.isFetchingData.set(false);
       console.log("step2");
       if (this.editMode && countSubsIndex <= 1) {
         console.log("Is this edit mode?");
@@ -10597,4 +10596,4 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
 })();
 export { NewProgramStepperComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-//# sourceMappingURL=chunk-YKJQ7HW5.js.map
+//# sourceMappingURL=chunk-IPPTL7DB.js.map
