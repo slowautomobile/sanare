@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:browser/en-US/chunk-AW7C4F7H.js
-import { ActivePageService, ClientsService, FavoriteExercisesComponent, FavoriteProgramsComponent, OverlayScrollbarsComponent, OverlayscrollbarsModule, PageToolbarComponent, ScreenSizeService, ShareClientsDataService, ThemeManagerService, toSignal } from "./chunk-ETMZBCVE.js";
-========
 import { ActivePageService, ClientsService, FavoriteExercisesComponent, FavoriteProgramsComponent, OverlayScrollbarsComponent, OverlayscrollbarsModule, PageToolbarComponent, ScreenSizeService, ShareClientsDataService, ThemeManagerService, toSignal } from "./chunk-ESKXYVOI.js";
->>>>>>>> 7e7d94b (Deploy dist update):browser/en-US/chunk-5QX7MPJV.js
 import { Router, UsersService } from "./chunk-ZW3GDTPB.js";
 import "./chunk-S7U3HECP.js";
 import "./chunk-SWLHLYHZ.js";
@@ -12,11 +8,7 @@ import "./chunk-QTN4UOGR.js";
 import { inject, ɵsetClassDebugInfo, ɵɵadvance, ɵɵconditional, ɵɵdefer, ɵɵdeferEnableTimerScheduling, ɵɵdeferOnIdle, ɵɵdefineComponent, ɵɵelement, ɵɵelementEnd, ɵɵelementStart, ɵɵgetCurrentView, ɵɵi18n, ɵɵlistener, ɵɵnextContext, ɵɵproperty, ɵɵresetView, ɵɵrestoreView, ɵɵtemplate } from "./chunk-2MICNSAC.js";
 
 // apps/sanare-app/src/app/pages/dashboard/dashboard.component.ts
-<<<<<<<< HEAD:browser/en-US/chunk-AW7C4F7H.js
-var DashboardComponent_Defer_8_DepsFn = () => [import("./chunk-S3ESV4U4.js").then(m => m.ClientsProgressComponent)];
-========
 var DashboardComponent_Defer_8_DepsFn = () => [import("./chunk-Q5VJOC6V.js").then(m => m.ClientsProgressComponent)];
->>>>>>>> 7e7d94b (Deploy dist update):browser/en-US/chunk-5QX7MPJV.js
 var DashboardComponent_Defer_13_DepsFn = () => [FavoriteProgramsComponent];
 var DashboardComponent_Defer_17_DepsFn = () => [FavoriteExercisesComponent];
 function DashboardComponent_Conditional_0_Template(rf, ctx) {
@@ -239,8 +231,4 @@ var DashboardComponent = class _DashboardComponent {
 })();
 export { DashboardComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-<<<<<<<< HEAD:browser/en-US/chunk-AW7C4F7H.js
-//# sourceMappingURL=chunk-AW7C4F7H.js.map
-========
 //# sourceMappingURL=chunk-5QX7MPJV.js.map
->>>>>>>> 7e7d94b (Deploy dist update):browser/en-US/chunk-5QX7MPJV.js

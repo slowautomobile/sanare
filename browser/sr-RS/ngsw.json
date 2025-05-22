@@ -1,10 +1,6 @@
 {
   "configVersion": 1,
-<<<<<<< HEAD
-  "timestamp": 1747930941600,
-=======
-  "timestamp": 1747940591931,
->>>>>>> 7e7d94b (Deploy dist update)
+  "timestamp": 1747940908056,
   "index": "/sr-RS/index.html",
   "assetGroups": [
     {
@@ -27,27 +23,11 @@
         "/sr-RS/chunk-2MICNSAC.js",
         "/sr-RS/chunk-2QWI6V4H.js",
         "/sr-RS/chunk-3KDMJEO4.js",
-<<<<<<< HEAD
-        "/sr-RS/chunk-3LHYCCS5.js",
-=======
         "/sr-RS/chunk-5C6JZAPW.js",
->>>>>>> 7e7d94b (Deploy dist update)
         "/sr-RS/chunk-5O54ZM34.js",
         "/sr-RS/chunk-5QX7MPJV.js",
         "/sr-RS/chunk-67X5CM6Q.js",
         "/sr-RS/chunk-7MZUFN34.js",
-<<<<<<< HEAD
-        "/sr-RS/chunk-7QMTSIS6.js",
-        "/sr-RS/chunk-APRQSIRD.js",
-        "/sr-RS/chunk-AW7C4F7H.js",
-        "/sr-RS/chunk-ETMZBCVE.js",
-        "/sr-RS/chunk-FNHCMCE2.js",
-        "/sr-RS/chunk-GAOTCXWK.js",
-        "/sr-RS/chunk-GEMYZK54.js",
-        "/sr-RS/chunk-L3GLS324.js",
-        "/sr-RS/chunk-M6LOXSRX.js",
-        "/sr-RS/chunk-MNWZQJED.js",
-=======
         "/sr-RS/chunk-AAWFO4JJ.js",
         "/sr-RS/chunk-CN2Q4PRV.js",
         "/sr-RS/chunk-EE5PY3DX.js",
@@ -56,35 +36,21 @@
         "/sr-RS/chunk-IYMMRGAZ.js",
         "/sr-RS/chunk-MR5GJZDM.js",
         "/sr-RS/chunk-N5VV42QC.js",
->>>>>>> 7e7d94b (Deploy dist update)
         "/sr-RS/chunk-P2LUXNXL.js",
         "/sr-RS/chunk-Q3PYOHAN.js",
         "/sr-RS/chunk-Q5VJOC6V.js",
         "/sr-RS/chunk-QS2QAEYF.js",
         "/sr-RS/chunk-QTN4UOGR.js",
-<<<<<<< HEAD
-        "/sr-RS/chunk-RIHINUDF.js",
-        "/sr-RS/chunk-S3ESV4U4.js",
-        "/sr-RS/chunk-S7U3HECP.js",
-        "/sr-RS/chunk-SWLHLYHZ.js",
-        "/sr-RS/chunk-WTVHHNSA.js",
-        "/sr-RS/chunk-ZPGJU7FB.js",
-=======
         "/sr-RS/chunk-ROZV4UOS.js",
         "/sr-RS/chunk-S7U3HECP.js",
         "/sr-RS/chunk-SWLHLYHZ.js",
         "/sr-RS/chunk-UASHDM5M.js",
         "/sr-RS/chunk-WDIMAF7F.js",
->>>>>>> 7e7d94b (Deploy dist update)
         "/sr-RS/chunk-ZW3GDTPB.js",
         "/sr-RS/dark-theme.css",
         "/sr-RS/favicon.ico",
         "/sr-RS/index.html",
-<<<<<<< HEAD
-        "/sr-RS/main-DDD6GECJ.js",
-=======
         "/sr-RS/main-NOT7NLV6.js",
->>>>>>> 7e7d94b (Deploy dist update)
         "/sr-RS/manifest.webmanifest",
         "/sr-RS/polyfills-XORA5XUV.js",
         "/sr-RS/styles-CLHFJLWJ.css"
@@ -138,27 +104,11 @@
     "/sr-RS/chunk-2MICNSAC.js": "51778b1024c0f56cda653e977af41cdb7d1cd16a",
     "/sr-RS/chunk-2QWI6V4H.js": "c3dcbcc2cfcc109db8b5acdce163725c226694e4",
     "/sr-RS/chunk-3KDMJEO4.js": "cae25fc4a959b0523192f325b27f08e792656541",
-<<<<<<< HEAD
-    "/sr-RS/chunk-3LHYCCS5.js": "ad57fe2f625df152d82233366bc0cf5790764980",
-=======
     "/sr-RS/chunk-5C6JZAPW.js": "69a6915893102e71a534a315b25bf84ef832c792",
->>>>>>> 7e7d94b (Deploy dist update)
     "/sr-RS/chunk-5O54ZM34.js": "f4b5bb89015e23b0e821d5f2dc6ba6db8a688f00",
     "/sr-RS/chunk-5QX7MPJV.js": "f35c45aa3b11c2cfa77e87125728e65ab91d5131",
     "/sr-RS/chunk-67X5CM6Q.js": "043477b67e04410d7489ec4008db120a524886d6",
     "/sr-RS/chunk-7MZUFN34.js": "ef123fba93a8d115fa0355ae88eadd9bf1317333",
-<<<<<<< HEAD
-    "/sr-RS/chunk-7QMTSIS6.js": "9880368e64689ae2cdb80ebe273ac21427ca924f",
-    "/sr-RS/chunk-APRQSIRD.js": "e4e0721877f0a6bb539e557e685231e573c8dca2",
-    "/sr-RS/chunk-AW7C4F7H.js": "2925fe5b2656f68cf2b8623124f74b8d87c2d33e",
-    "/sr-RS/chunk-ETMZBCVE.js": "44ebd044ebd34446f6894f35255bdd6f80959559",
-    "/sr-RS/chunk-FNHCMCE2.js": "8459097cc991adad80213cd769cd3c2be56f81af",
-    "/sr-RS/chunk-GAOTCXWK.js": "b850f1480ede7e9a524339586bc96faf8eca1c17",
-    "/sr-RS/chunk-GEMYZK54.js": "3cd5f36bfa057d29023056939c02f96a5bd6b7ae",
-    "/sr-RS/chunk-L3GLS324.js": "6d0f93ae38912ee0ea60a3c2472b325f37e3bcb7",
-    "/sr-RS/chunk-M6LOXSRX.js": "b7460a5178da270ffc6f4572e67f9e35a88d953d",
-    "/sr-RS/chunk-MNWZQJED.js": "f9f825b0ebce16d0154a285f9fd49a3dbe54813f",
-=======
     "/sr-RS/chunk-AAWFO4JJ.js": "19ab2e1a979c7d5afce8f87eabdf87b713f4a181",
     "/sr-RS/chunk-CN2Q4PRV.js": "b45f783b6bb21c32986c76b424a4c7885b135b6a",
     "/sr-RS/chunk-EE5PY3DX.js": "99a88764eb66b7ee1cf7eb7d299d5394e0132b44",
@@ -167,25 +117,11 @@
     "/sr-RS/chunk-IYMMRGAZ.js": "e0217ca4be4e6869ef69aa1a2ad92842417bf7c9",
     "/sr-RS/chunk-MR5GJZDM.js": "3a2c76da67120e5f707e232e346a7271ccf248e6",
     "/sr-RS/chunk-N5VV42QC.js": "3f7af69e41e2d7b9d8a9c6c06ed90c6a50206796",
->>>>>>> 7e7d94b (Deploy dist update)
     "/sr-RS/chunk-P2LUXNXL.js": "629462ca7c259058f94d5819f54548e0ff0f943d",
     "/sr-RS/chunk-Q3PYOHAN.js": "3ffdd2cf5dba4fd35ece95d232e326693e012e57",
     "/sr-RS/chunk-Q5VJOC6V.js": "1d7a806cf4eb031723684e277893ff66723f07be",
     "/sr-RS/chunk-QS2QAEYF.js": "5a28c3380f1c584984f79c925690da2ce43e89a1",
     "/sr-RS/chunk-QTN4UOGR.js": "a6ace78b3f6c593837f30212546716c2059d9117",
-<<<<<<< HEAD
-    "/sr-RS/chunk-RIHINUDF.js": "764d9bdc4e3d2a9785bbde7bef56d7675f233249",
-    "/sr-RS/chunk-S3ESV4U4.js": "845856ee091bfed58ee3c5659ab9a8b69d07488e",
-    "/sr-RS/chunk-S7U3HECP.js": "f62d7004fd3aca2863f40b34c5326b1d2f2f7b12",
-    "/sr-RS/chunk-SWLHLYHZ.js": "df70969607315654eebc88c64faab06f14e4548b",
-    "/sr-RS/chunk-WTVHHNSA.js": "e439ff9abf7d3fb206c4837cd419fdd98a080cc4",
-    "/sr-RS/chunk-ZPGJU7FB.js": "50188a011476ba66b75e344dc389cde900a511d2",
-    "/sr-RS/chunk-ZW3GDTPB.js": "40854efd93c34c684f6e4cf1c51f5151775ad17a",
-    "/sr-RS/dark-theme.css": "628efd4453f313320a63a43c5f3b91a4e069d9d8",
-    "/sr-RS/favicon.ico": "df32f988dfc8f00c6f8a5c9f7f9908e0dc531101",
-    "/sr-RS/index.html": "74900657c36ee647cfc3187bcf8c1e8162ff83ca",
-    "/sr-RS/main-DDD6GECJ.js": "e8ffdd9d4bd5891fcd8a5d117a8ac85a24faeda5",
-=======
     "/sr-RS/chunk-ROZV4UOS.js": "60bb33f7763ef8dec1b3a7aaf6653320faa1916f",
     "/sr-RS/chunk-S7U3HECP.js": "f62d7004fd3aca2863f40b34c5326b1d2f2f7b12",
     "/sr-RS/chunk-SWLHLYHZ.js": "df70969607315654eebc88c64faab06f14e4548b",
@@ -196,7 +132,6 @@
     "/sr-RS/favicon.ico": "df32f988dfc8f00c6f8a5c9f7f9908e0dc531101",
     "/sr-RS/index.html": "6d092fbd9a14cc295184ad85f0d3e753411b8b3b",
     "/sr-RS/main-NOT7NLV6.js": "f9faa1b33cf72a461f6c04fd64aaffcead3f52bd",
->>>>>>> 7e7d94b (Deploy dist update)
     "/sr-RS/manifest.webmanifest": "e9374b789891bb077d2a2572214147e6aadd4fdd",
     "/sr-RS/media/user-JIV5DTZW.svg": "0132122b951ae32123db6bbe549172f9d9b18cc5",
     "/sr-RS/polyfills-XORA5XUV.js": "783047ddea52d118e76f3dbb96e34028cef59b6a",

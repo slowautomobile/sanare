@@ -1,10 +1,5 @@
-<<<<<<<< HEAD:browser/en-US/chunk-GAOTCXWK.js
-import { MatSlideToggle, MatSlideToggleModule } from "./chunk-3LHYCCS5.js";
-import { ActivePageService, MatOption, MatSelect, MatSelectModule, PageToolbarComponent, ShareStateService, ThemeManagerService } from "./chunk-ETMZBCVE.js";
-========
 import { MatSlideToggle, MatSlideToggleModule } from "./chunk-UASHDM5M.js";
 import { ActivePageService, MatOption, MatSelect, MatSelectModule, PageToolbarComponent, ShareStateService, ThemeManagerService } from "./chunk-ESKXYVOI.js";
->>>>>>>> 7e7d94b (Deploy dist update):browser/en-US/chunk-FU7KJOX6.js
 import { LocalstorageService, MatFormField, MatFormFieldModule, MatHint, MatInputModule, MatLabel, Router, UsersService } from "./chunk-ZW3GDTPB.js";
 import "./chunk-S7U3HECP.js";
 import "./chunk-SWLHLYHZ.js";
@@ -222,8 +217,4 @@ var SettingsComponent = class _SettingsComponent {
 })();
 export { SettingsComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-<<<<<<<< HEAD:browser/en-US/chunk-GAOTCXWK.js
-//# sourceMappingURL=chunk-GAOTCXWK.js.map
-========
 //# sourceMappingURL=chunk-FU7KJOX6.js.map
->>>>>>>> 7e7d94b (Deploy dist update):browser/en-US/chunk-FU7KJOX6.js

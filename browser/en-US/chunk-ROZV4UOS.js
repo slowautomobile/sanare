@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:browser/en-US/chunk-FNHCMCE2.js
-import { ActivePageService, ClientsService, DeleteConfirmationDialogComponent, MatCell, MatCellDef, MatColumnDef, MatDialog, MatHeaderCell, MatHeaderCellDef, MatHeaderRow, MatHeaderRowDef, MatMenu, MatMenuItem, MatMenuModule, MatMenuTrigger, MatNoDataRow, MatPaginator, MatPaginatorIntl, MatPaginatorModule, MatProgressSpinner, MatProgressSpinnerModule, MatRow, MatRowDef, MatSort, MatSortHeader, MatSortModule, MatTable, MatTableDataSource, MatTableModule, OverlayScrollbarsComponent, OverlayscrollbarsModule, PageToolbarComponent, PaginatorI18nService, ScreenSizeService, ShareClientsDataService, ShareStateService, ThemeManagerService } from "./chunk-ETMZBCVE.js";
-========
 import { ActivePageService, ClientsService, DeleteConfirmationDialogComponent, MatCell, MatCellDef, MatColumnDef, MatDialog, MatHeaderCell, MatHeaderCellDef, MatHeaderRow, MatHeaderRowDef, MatMenu, MatMenuItem, MatMenuModule, MatMenuTrigger, MatNoDataRow, MatPaginator, MatPaginatorIntl, MatPaginatorModule, MatProgressSpinner, MatProgressSpinnerModule, MatRow, MatRowDef, MatSort, MatSortHeader, MatSortModule, MatTable, MatTableDataSource, MatTableModule, OverlayScrollbarsComponent, OverlayscrollbarsModule, PageToolbarComponent, PaginatorI18nService, ScreenSizeService, ShareClientsDataService, ShareStateService, ThemeManagerService } from "./chunk-ESKXYVOI.js";
->>>>>>>> 7e7d94b (Deploy dist update):browser/en-US/chunk-ROZV4UOS.js
 import { MatFormField, MatInput, MatLabel, MatSnackBar, Router } from "./chunk-ZW3GDTPB.js";
 import "./chunk-S7U3HECP.js";
 import "./chunk-SWLHLYHZ.js";
@@ -542,8 +538,4 @@ var ClientsListComponent = class _ClientsListComponent {
 })();
 export { ClientsListComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-<<<<<<<< HEAD:browser/en-US/chunk-FNHCMCE2.js
-//# sourceMappingURL=chunk-FNHCMCE2.js.map
-========
 //# sourceMappingURL=chunk-ROZV4UOS.js.map
->>>>>>>> 7e7d94b (Deploy dist update):browser/en-US/chunk-ROZV4UOS.js

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "sources": ["angular:styles/component:css;3bbd3038303f93914f0f76e23685d47f5b12e786c36fe355cc4baeaffaaed4c4;/home/user/PhysioApp/slowautomobile-monorepo/libs/ui/src/lib/components/spinner/spinner.component.ts"],
+  "sources": ["angular:styles/component:css;3bbd3038303f93914f0f76e23685d47f5b12e786c36fe355cc4baeaffaaed4c4;/mnt/deb11/home/user/physioApp-PROJECT/slowautomobile/libs/ui/src/lib/components/spinner/spinner.component.ts"],
   "sourcesContent": ["\n      .spinner-container {\n        display: flex;\n        justify-content: center;\n        align-items: center;\n        height: 100%;\n      }\n    "],
   "mappings": "AACM,CAAC,kBACC,QAAS,KACT,gBAAiB,OACjB,YAAa,OACb,OAAQ,IACV",
   "names": []

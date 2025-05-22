@@ -1,12 +1,6 @@
-<<<<<<<< HEAD:browser/sr-RS/chunk-RIHINUDF.js
-import { MatSlideToggle } from "./chunk-3LHYCCS5.js";
-import { MatDrawer, MatDrawerContainer, MatDrawerContent } from "./chunk-P2LUXNXL.js";
-import { CdkDropListGroup, ClientsService, DateAdapter, DeleteConfirmationDialogComponent, ExerciseSearchBtnsWrapperComponent, ExercisesService, FilterSelectClientsComponent, IsClientValidService, MAT_DATE_FORMATS, MatDialog, OverlayScrollbarsComponent, OverlayscrollbarsModule, PageToolbarComponent, ProgramClientsDataService, ProgramDataService, ProgramsService, ScreenSizeService, SearchFilterComponent, SelectedExercisesService, SelectedExpansionPanelComponent, ShareClientsDataService, ShareDataService, ShareStateService, ThemeManagerService, provideNativeDateAdapter } from "./chunk-ETMZBCVE.js";
-========
 import { MatSlideToggle } from "./chunk-UASHDM5M.js";
 import { MatDrawer, MatDrawerContainer, MatDrawerContent } from "./chunk-P2LUXNXL.js";
 import { CdkDropListGroup, ClientsService, DateAdapter, DeleteConfirmationDialogComponent, ExerciseSearchBtnsWrapperComponent, ExercisesService, FilterSelectClientsComponent, IsClientValidService, MAT_DATE_FORMATS, MatDialog, OverlayScrollbarsComponent, OverlayscrollbarsModule, PageToolbarComponent, ProgramClientsDataService, ProgramDataService, ProgramsService, ScreenSizeService, SearchFilterComponent, SelectedExercisesService, SelectedExpansionPanelComponent, ShareClientsDataService, ShareDataService, ShareStateService, ThemeManagerService, provideNativeDateAdapter } from "./chunk-ESKXYVOI.js";
->>>>>>>> 7e7d94b (Deploy dist update):browser/sr-RS/chunk-QS2QAEYF.js
 import { ActivatedRoute, CdkTextareaAutosize, ErrorStateMatcher, LocalstorageService, MAT_FORM_FIELD, MAT_INPUT_VALUE_ACCESSOR, MatError, MatFormField, MatFormFieldControl, MatHint, MatInput, MatLabel, MatPrefix, MatSnackBar, Router, UsersService, _ErrorStateTracker } from "./chunk-ZW3GDTPB.js";
 import "./chunk-S7U3HECP.js";
 import "./chunk-SWLHLYHZ.js";
@@ -8630,13 +8624,8 @@ var ProgramAddClientComponent = class _ProgramAddClientComponent {
 })();
 
 // apps/sanare-app/src/app/pages/exercises/exercises-list/exercises-list.component.ts
-<<<<<<<< HEAD:browser/sr-RS/chunk-RIHINUDF.js
-var ExercisesListComponent_Defer_6_DepsFn = () => [import("./chunk-L3GLS324.js").then(m => m.ExercisesGridComponent)];
-var ExercisesListComponent_Defer_16_DepsFn = () => [import("./chunk-APRQSIRD.js").then(m => m.SelectedExercisesListComponent)];
-========
 var ExercisesListComponent_Defer_6_DepsFn = () => [import("./chunk-N5VV42QC.js").then(m => m.ExercisesGridComponent)];
 var ExercisesListComponent_Defer_16_DepsFn = () => [import("./chunk-CN2Q4PRV.js").then(m => m.SelectedExercisesListComponent)];
->>>>>>>> 7e7d94b (Deploy dist update):browser/sr-RS/chunk-QS2QAEYF.js
 function ExercisesListComponent_Defer_4_Template(rf, ctx) {
   if (rf & 1) {
     ɵɵelement(0, "sanareapp-exercises-grid", 10);
@@ -10053,8 +10042,4 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
 })();
 export { NewProgramStepperComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-<<<<<<<< HEAD:browser/sr-RS/chunk-RIHINUDF.js
-//# sourceMappingURL=chunk-RIHINUDF.js.map
-========
 //# sourceMappingURL=chunk-QS2QAEYF.js.map
->>>>>>>> 7e7d94b (Deploy dist update):browser/sr-RS/chunk-QS2QAEYF.js

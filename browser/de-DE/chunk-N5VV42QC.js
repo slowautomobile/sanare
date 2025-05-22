@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:browser/de-DE/chunk-L3GLS324.js
-import { CdkDrag, CdkDragPlaceholder, CdkDropList, DropListTransferItemService, ExerciseModalComponent, ExercisesService, MatDialog, MatProgressSpinner, MatProgressSpinnerModule, OverlayScrollbarsComponent, OverlayscrollbarsModule, SelectedExercisesService, ShareStateService, ThemeManagerService, VideoPlayerComponent } from "./chunk-ETMZBCVE.js";
-========
 import { CdkDrag, CdkDragPlaceholder, CdkDropList, DropListTransferItemService, ExerciseModalComponent, ExercisesService, MatDialog, MatProgressSpinner, MatProgressSpinnerModule, OverlayScrollbarsComponent, OverlayscrollbarsModule, SelectedExercisesService, ShareStateService, ThemeManagerService, VideoPlayerComponent } from "./chunk-ESKXYVOI.js";
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/chunk-N5VV42QC.js
 import { LocalstorageService, UsersService } from "./chunk-ZW3GDTPB.js";
 import "./chunk-S7U3HECP.js";
 import "./chunk-SWLHLYHZ.js";
@@ -573,8 +569,4 @@ var ExercisesGridComponent = class _ExercisesGridComponent {
 })();
 export { ExercisesGridComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-<<<<<<<< HEAD:browser/de-DE/chunk-L3GLS324.js
-//# sourceMappingURL=chunk-L3GLS324.js.map
-========
 //# sourceMappingURL=chunk-N5VV42QC.js.map
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/chunk-N5VV42QC.js

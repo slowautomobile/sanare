@@ -20726,11 +20726,7 @@ var ProgramModalComponent = class _ProgramModalComponent {
 })();
 
 // libs/ui/src/lib/components/client-full-edit-programs/client-full-edit-programs.component.ts
-<<<<<<<< HEAD:browser/sr-RS/chunk-ETMZBCVE.js
-var ClientFullEditProgramsComponent_Defer_28_DepsFn = () => [import("./chunk-MNWZQJED.js").then(m2 => m2.BasicProgramsTableComponent)];
-========
 var ClientFullEditProgramsComponent_Defer_28_DepsFn = () => [import("./chunk-WDIMAF7F.js").then(m2 => m2.BasicProgramsTableComponent)];
->>>>>>>> 7e7d94b (Deploy dist update):browser/sr-RS/chunk-ESKXYVOI.js
 var _c015 = () => ["expandedDetail"];
 function ClientFullEditProgramsComponent_For_15_th_1_Conditional_2_Template(rf, ctx) {
   if (rf & 1) {
@@ -28871,7 +28867,7 @@ var SpinnerComponent = class _SpinnerComponent {
         }
       },
       dependencies: [CommonModule, MatProgressSpinnerModule, MatProgressSpinner],
-      styles: [".spinner-container[_ngcontent-%COMP%]{display:flex;justify-content:center;align-items:center;height:100%}\n/*# sourceMappingURL=spinner.component-JXJDRXM2.css.map */"]
+      styles: [".spinner-container[_ngcontent-%COMP%]{display:flex;justify-content:center;align-items:center;height:100%}\n/*# sourceMappingURL=spinner.component-M4L7XJ4I.css.map */"]
     });
   }
 };
@@ -28903,7 +28899,7 @@ var BlankOverlayComponent = class _BlankOverlayComponent {
         }
       },
       dependencies: [CommonModule],
-      styles: [".overlay-placeholder[_ngcontent-%COMP%]{width:100vw;height:100vh;pointer-events:auto;background-color:transparent}\n/*# sourceMappingURL=blank-overlay.component-4NMUQKIH.css.map */"]
+      styles: [".overlay-placeholder[_ngcontent-%COMP%]{width:100vw;height:100vh;pointer-events:auto;background-color:transparent}\n/*# sourceMappingURL=blank-overlay.component-XP7SMWNW.css.map */"]
     });
   }
 };
@@ -34105,8 +34101,4 @@ var BasicProgramsTableComponent = class _BasicProgramsTableComponent {
 })();
 export { jwtInterceptor, ExercisesService, ShareDataService, ShareStateService, SelectedExercisesService, ProgramDataService, ProgramClientsDataService, ProgramsService, IsClientValidService, ClientsService, ShareClientsDataService, DropListTransferItemService, MatDialogRef, MAT_DIALOG_DATA, MatDialog, MatDialogTitle, MatDialogActions, ThemeManagerService, PaginatorI18nService, ActivePageService, toSignal, ScreenSizeService, loadingInterceptor, PageToolbarComponent, MatOption, MatSelect, MatSelectModule, MatPaginatorIntl, MatPaginator, MatPaginatorModule, MatSort, MatSortHeader, MatSortModule, MatTable, MatCellDef, MatHeaderCellDef, MatColumnDef, MatHeaderCell, MatCell, MatHeaderRowDef, MatRowDef, MatHeaderRow, MatRow, MatNoDataRow, MatTableModule, MatTableDataSource, OverlayScrollbarsComponent, OverlayscrollbarsModule, BasicProgramsTableComponent, MatChip, MatChipSet, MatChipsModule, _MatInternalFormField, DateAdapter, MAT_DATE_FORMATS, provideNativeDateAdapter, MatProgressSpinner, MatProgressSpinnerModule, ClientFullEditFormComponent, AnimationMetadataType, AUTO_STYLE, sequence, style, NoopAnimationPlayer, AnimationGroupPlayer, ɵPRE_STYLE, DeleteConfirmationDialogComponent, ProgramModalComponent, ClientFullEditProgramsComponent, ProgramsTableComponent, FilterSelectClientsComponent, SearchFilterComponent, ExerciseSearchBtnsWrapperComponent, VideoPlayerComponent, MatMenuItem, MatMenu, MatMenuTrigger, MatMenuModule, ToolbarButtonsComponent, FavoriteProgramsComponent, FavoriteExercisesComponent, ExerciseModalComponent, moveItemInArray, copyArrayItem, CdkDrag, CdkDropListGroup, CdkDropList, CdkDragPlaceholder, SelectedExpansionPanelComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-<<<<<<<< HEAD:browser/sr-RS/chunk-ETMZBCVE.js
-//# sourceMappingURL=chunk-ETMZBCVE.js.map
-========
 //# sourceMappingURL=chunk-ESKXYVOI.js.map
->>>>>>>> 7e7d94b (Deploy dist update):browser/sr-RS/chunk-ESKXYVOI.js

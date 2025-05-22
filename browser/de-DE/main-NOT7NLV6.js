@@ -8,11 +8,7 @@ import {
   sequence,
   style,
   ɵPRE_STYLE
-<<<<<<<< HEAD:browser/de-DE/main-DDD6GECJ.js
-} from "./chunk-ETMZBCVE.js";
-========
 } from "./chunk-ESKXYVOI.js";
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/main-NOT7NLV6.js
 import {
   AuthGuard,
   RouterOutlet,
@@ -106,49 +102,29 @@ var AppComponent = class _AppComponent {
 var appRoutes = [
   {
     path: "",
-<<<<<<<< HEAD:browser/de-DE/main-DDD6GECJ.js
-    loadComponent: () => import("./chunk-WTVHHNSA.js").then((m) => m.NavigationRailComponent),
-========
     loadComponent: () => import("./chunk-EE5PY3DX.js").then((m) => m.NavigationRailComponent),
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/main-NOT7NLV6.js
     canActivate: [() => inject(AuthGuard).canActivate()],
     children: [
       { path: "", redirectTo: "dashboard", pathMatch: "full" },
       {
         path: "dashboard",
         title: "Dashboard \u2981 Sanare",
-<<<<<<<< HEAD:browser/de-DE/main-DDD6GECJ.js
-        loadComponent: () => import("./chunk-AW7C4F7H.js").then((m) => m.DashboardComponent)
-========
         loadComponent: () => import("./chunk-5QX7MPJV.js").then((m) => m.DashboardComponent)
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/main-NOT7NLV6.js
       },
       {
         path: "clients",
         title: "Clients \u2981 Sanare",
-<<<<<<<< HEAD:browser/de-DE/main-DDD6GECJ.js
-        loadComponent: () => import("./chunk-FNHCMCE2.js").then((m) => m.ClientsListComponent)
-========
         loadComponent: () => import("./chunk-ROZV4UOS.js").then((m) => m.ClientsListComponent)
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/main-NOT7NLV6.js
       },
       {
         path: "clients/form",
         title: "Add client \u2981 Sanare",
-<<<<<<<< HEAD:browser/de-DE/main-DDD6GECJ.js
-        loadComponent: () => import("./chunk-M6LOXSRX.js").then((m) => m.ClientFormComponent)
-========
         loadComponent: () => import("./chunk-IYMMRGAZ.js").then((m) => m.ClientFormComponent)
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/main-NOT7NLV6.js
       },
       {
         path: "clients/form/:id",
         title: "Edit client \u2981 Sanare",
-<<<<<<<< HEAD:browser/de-DE/main-DDD6GECJ.js
-        loadComponent: () => import("./chunk-M6LOXSRX.js").then((m) => m.ClientFormComponent)
-========
         loadComponent: () => import("./chunk-IYMMRGAZ.js").then((m) => m.ClientFormComponent)
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/main-NOT7NLV6.js
         // children: [
         // { path: '', redirectTo: 'general', pathMatch: 'full' },
         // { path: 'general', component: ClientFullEditFormComponent },
@@ -166,58 +142,34 @@ var appRoutes = [
       {
         path: "exercise/:exerciseId",
         title: "Exercise \u2981 Sanare",
-<<<<<<<< HEAD:browser/de-DE/main-DDD6GECJ.js
-        loadComponent: () => import("./chunk-7QMTSIS6.js").then((m) => m.FullExerciseComponent)
-========
         loadComponent: () => import("./chunk-5C6JZAPW.js").then((m) => m.FullExerciseComponent)
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/main-NOT7NLV6.js
       },
       // { path: 'exercises', component: ExercisesListComponent },
       {
         path: "settings",
         title: "Settings \u2981 Sanare",
-<<<<<<<< HEAD:browser/de-DE/main-DDD6GECJ.js
-        loadComponent: () => import("./chunk-GAOTCXWK.js").then((m) => m.SettingsComponent)
-========
         loadComponent: () => import("./chunk-FU7KJOX6.js").then((m) => m.SettingsComponent)
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/main-NOT7NLV6.js
       },
       // { path: 'exercises/edit-program', component: EditProgramComponent },
       {
         path: "programs",
         title: "Programs \u2981 Sanare",
-<<<<<<<< HEAD:browser/de-DE/main-DDD6GECJ.js
-        loadComponent: () => import("./chunk-ZPGJU7FB.js").then((m) => m.ProgramsListComponent)
-========
         loadComponent: () => import("./chunk-MR5GJZDM.js").then((m) => m.ProgramsListComponent)
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/main-NOT7NLV6.js
       },
       {
         path: "programs/form",
         title: "Add program \u2981 Sanare",
-<<<<<<<< HEAD:browser/de-DE/main-DDD6GECJ.js
-        loadComponent: () => import("./chunk-RIHINUDF.js").then((m) => m.NewProgramStepperComponent)
-========
         loadComponent: () => import("./chunk-QS2QAEYF.js").then((m) => m.NewProgramStepperComponent)
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/main-NOT7NLV6.js
       },
       {
         path: "programs/form/:id",
         title: "Edit program \u2981 Sanare",
-<<<<<<<< HEAD:browser/de-DE/main-DDD6GECJ.js
-        loadComponent: () => import("./chunk-RIHINUDF.js").then((m) => m.NewProgramStepperComponent)
-========
         loadComponent: () => import("./chunk-QS2QAEYF.js").then((m) => m.NewProgramStepperComponent)
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/main-NOT7NLV6.js
       },
       {
         path: "profile",
         title: "User profile \u2981 Sanare",
-<<<<<<<< HEAD:browser/de-DE/main-DDD6GECJ.js
-        loadComponent: () => import("./chunk-GEMYZK54.js").then((m) => m.UserEditFormComponent)
-========
         loadComponent: () => import("./chunk-AAWFO4JJ.js").then((m) => m.UserEditFormComponent)
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/main-NOT7NLV6.js
       }
     ]
   },
@@ -4845,8 +4797,4 @@ if (environment.production) {
 }
 bootstrapApplication(AppComponent, appConfig).catch((err) => console.error(err));
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-<<<<<<<< HEAD:browser/de-DE/main-DDD6GECJ.js
-//# sourceMappingURL=main-DDD6GECJ.js.map
-========
 //# sourceMappingURL=main-NOT7NLV6.js.map
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/main-NOT7NLV6.js

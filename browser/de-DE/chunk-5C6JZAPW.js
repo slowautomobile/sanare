@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:browser/de-DE/chunk-7QMTSIS6.js
-import { BasicProgramsTableComponent, ExercisesService, MatChip, MatChipSet, MatChipsModule, MatDialog, MatTableDataSource, OverlayScrollbarsComponent, OverlayscrollbarsModule, PageToolbarComponent, ProgramModalComponent, ProgramsService, ThemeManagerService, VideoPlayerComponent } from "./chunk-ETMZBCVE.js";
-========
 import { BasicProgramsTableComponent, ExercisesService, MatChip, MatChipSet, MatChipsModule, MatDialog, MatTableDataSource, OverlayScrollbarsComponent, OverlayscrollbarsModule, PageToolbarComponent, ProgramModalComponent, ProgramsService, ThemeManagerService, VideoPlayerComponent } from "./chunk-ESKXYVOI.js";
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/chunk-5C6JZAPW.js
 import { LocalstorageService } from "./chunk-ZW3GDTPB.js";
 import "./chunk-S7U3HECP.js";
 import "./chunk-SWLHLYHZ.js";
@@ -325,8 +321,4 @@ var FullExerciseComponent = class _FullExerciseComponent {
 })();
 export { FullExerciseComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-<<<<<<<< HEAD:browser/de-DE/chunk-7QMTSIS6.js
-//# sourceMappingURL=chunk-7QMTSIS6.js.map
-========
 //# sourceMappingURL=chunk-5C6JZAPW.js.map
->>>>>>>> 7e7d94b (Deploy dist update):browser/de-DE/chunk-5C6JZAPW.js

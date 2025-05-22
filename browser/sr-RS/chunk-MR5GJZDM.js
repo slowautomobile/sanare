@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:browser/sr-RS/chunk-ZPGJU7FB.js
-import { ActivePageService, ClientsService, DeleteConfirmationDialogComponent, MatDialog, MatPaginatorIntl, MatTableDataSource, PageToolbarComponent, PaginatorI18nService, ProgramsService, ProgramsTableComponent, ShareClientsDataService, ShareStateService } from "./chunk-ETMZBCVE.js";
-========
 import { ActivePageService, ClientsService, DeleteConfirmationDialogComponent, MatDialog, MatPaginatorIntl, MatTableDataSource, PageToolbarComponent, PaginatorI18nService, ProgramsService, ProgramsTableComponent, ShareClientsDataService, ShareStateService } from "./chunk-ESKXYVOI.js";
->>>>>>>> 7e7d94b (Deploy dist update):browser/sr-RS/chunk-MR5GJZDM.js
 import { MatSnackBar, Router, UsersService } from "./chunk-ZW3GDTPB.js";
 import "./chunk-S7U3HECP.js";
 import "./chunk-SWLHLYHZ.js";
@@ -370,8 +366,4 @@ var ProgramsListComponent = class _ProgramsListComponent {
 })();
 export { ProgramsListComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-<<<<<<<< HEAD:browser/sr-RS/chunk-ZPGJU7FB.js
-//# sourceMappingURL=chunk-ZPGJU7FB.js.map
-========
 //# sourceMappingURL=chunk-MR5GJZDM.js.map
->>>>>>>> 7e7d94b (Deploy dist update):browser/sr-RS/chunk-MR5GJZDM.js

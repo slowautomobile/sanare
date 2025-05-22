@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:browser/en-US/chunk-S3ESV4U4.js
-import { ClientsService, MAT_DIALOG_DATA, MatDialogActions, MatDialogRef, MatDialogTitle, OverlayScrollbarsComponent, OverlayscrollbarsModule, ProgramsService, ShareClientsDataService, ThemeManagerService } from "./chunk-ETMZBCVE.js";
-========
 import { ClientsService, MAT_DIALOG_DATA, MatDialogActions, MatDialogRef, MatDialogTitle, OverlayScrollbarsComponent, OverlayscrollbarsModule, ProgramsService, ShareClientsDataService, ThemeManagerService } from "./chunk-ESKXYVOI.js";
->>>>>>>> 7e7d94b (Deploy dist update):browser/en-US/chunk-Q5VJOC6V.js
 import { MatFormField, MatInput, MatLabel, MatSnackBar, Router } from "./chunk-ZW3GDTPB.js";
 import "./chunk-S7U3HECP.js";
 import { ClientsProgressComponent } from "./chunk-5O54ZM34.js";
@@ -307,8 +303,4 @@ var ShowClientModalComponent = class _ShowClientModalComponent {
 })();
 export { ClientsProgressComponent, ShowClientModalComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-<<<<<<<< HEAD:browser/en-US/chunk-S3ESV4U4.js
-//# sourceMappingURL=chunk-S3ESV4U4.js.map
-========
 //# sourceMappingURL=chunk-Q5VJOC6V.js.map
->>>>>>>> 7e7d94b (Deploy dist update):browser/en-US/chunk-Q5VJOC6V.js

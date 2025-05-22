@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:browser/en-US/chunk-M6LOXSRX.js
-import { ClientFullEditFormComponent, ClientFullEditProgramsComponent, ClientsService, DeleteConfirmationDialogComponent, MatDialog, PageToolbarComponent, ShareClientsDataService, ShareStateService } from "./chunk-ETMZBCVE.js";
-========
 import { ClientFullEditFormComponent, ClientFullEditProgramsComponent, ClientsService, DeleteConfirmationDialogComponent, MatDialog, PageToolbarComponent, ShareClientsDataService, ShareStateService } from "./chunk-ESKXYVOI.js";
->>>>>>>> 7e7d94b (Deploy dist update):browser/en-US/chunk-IYMMRGAZ.js
 import { ActivatedRoute, MatSnackBar, Router, SharedResizeObserver } from "./chunk-ZW3GDTPB.js";
 import "./chunk-S7U3HECP.js";
 import "./chunk-SWLHLYHZ.js";
@@ -3095,8 +3091,4 @@ var ClientFormComponent = class _ClientFormComponent {
 })();
 export { ClientFormComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-<<<<<<<< HEAD:browser/en-US/chunk-M6LOXSRX.js
-//# sourceMappingURL=chunk-M6LOXSRX.js.map
-========
 //# sourceMappingURL=chunk-IYMMRGAZ.js.map
->>>>>>>> 7e7d94b (Deploy dist update):browser/en-US/chunk-IYMMRGAZ.js
