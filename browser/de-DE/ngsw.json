@@ -1,10 +1,14 @@
 {
   "configVersion": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "timestamp": 1747920684854,
 =======
   "timestamp": 1747924173696,
 >>>>>>> 49bb081 (Deploy dist update)
+=======
+  "timestamp": 1747924510728,
+>>>>>>> b1a0c38 (Deploy dist update)
   "index": "/de-DE/index.html",
   "assetGroups": [
     {
