@@ -9247,6 +9247,7 @@ var ExercisesListComponent = class _ExercisesListComponent {
       console.log(this.exercises);
       return of(value);
     })).subscribe(searchResults => {
+      this.isFetchingData.set(true);
       console.log("subscriptio two the same");
       const start = performance.now();
       console.log("step1");
@@ -9280,6 +9281,7 @@ var ExercisesListComponent = class _ExercisesListComponent {
     if (this.listOptionSignal() === "all") {
       console.log("subscriptio one");
       const subscription = this.shareDataService.searchedData$.subscribe(searchResults => {
+        this.isFetchingData.set(true);
         this.exercises = [];
         for (const exercise of searchResults) {
           if (this.userFavorites().favExercises.some(favExercise => favExercise === exercise.id)) {
@@ -9304,7 +9306,6 @@ var ExercisesListComponent = class _ExercisesListComponent {
     }
   }
   _getSelectedExercises() {
-    this.isFetchingData.set(true);
     this.exercises = [];
     this.selectedExercises().forEach(selectedExercise => {
       if (this.userFavorites().favExercises.some(favExercise => favExercise === selectedExercise.id)) {
@@ -10596,4 +10597,4 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
 })();
 export { NewProgramStepperComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-//# sourceMappingURL=chunk-IPPTL7DB.js.map
+//# sourceMappingURL=chunk-TQ3VDESI.js.map
