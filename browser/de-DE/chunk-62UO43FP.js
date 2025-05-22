@@ -1,13 +1,13 @@
 import { MatSlideToggle } from "./chunk-3LHYCCS5.js";
 import { MatDrawer, MatDrawerContainer, MatDrawerContent } from "./chunk-P2LUXNXL.js";
-import { CdkDrag, CdkDragPlaceholder, CdkDropList, CdkDropListGroup, ClientsService, DateAdapter, DeleteConfirmationDialogComponent, DropListTransferItemService, ExerciseModalComponent, ExerciseSearchBtnsWrapperComponent, ExercisesService, FilterSelectClientsComponent, IsClientValidService, MAT_DATE_FORMATS, MatDialog, MatProgressSpinner, MatProgressSpinnerModule, OverlayScrollbarsComponent, OverlayscrollbarsModule, PageToolbarComponent, ProgramClientsDataService, ProgramDataService, ProgramsService, ScreenSizeService, SearchFilterComponent, SelectedExercisesService, SelectedExpansionPanelComponent, ShareClientsDataService, ShareDataService, ShareStateService, ThemeManagerService, VideoPlayerComponent, provideNativeDateAdapter } from "./chunk-ETMZBCVE.js";
+import { CdkDropListGroup, ClientsService, DateAdapter, DeleteConfirmationDialogComponent, ExerciseSearchBtnsWrapperComponent, ExercisesService, FilterSelectClientsComponent, IsClientValidService, MAT_DATE_FORMATS, MatDialog, OverlayScrollbarsComponent, OverlayscrollbarsModule, PageToolbarComponent, ProgramClientsDataService, ProgramDataService, ProgramsService, ScreenSizeService, SearchFilterComponent, SelectedExercisesService, SelectedExpansionPanelComponent, ShareClientsDataService, ShareDataService, ShareStateService, ThemeManagerService, provideNativeDateAdapter } from "./chunk-ETMZBCVE.js";
 import { ActivatedRoute, CdkTextareaAutosize, ErrorStateMatcher, LocalstorageService, MAT_FORM_FIELD, MAT_INPUT_VALUE_ACCESSOR, MatError, MatFormField, MatFormFieldControl, MatHint, MatInput, MatLabel, MatPrefix, MatSnackBar, Router, UsersService, _ErrorStateTracker } from "./chunk-ZW3GDTPB.js";
 import "./chunk-S7U3HECP.js";
 import "./chunk-SWLHLYHZ.js";
-import { MatButton, MatButtonModule, MatIconButton, MatMiniFabButton, MatRipple, MatRippleModule, _StructuralStylesLoader } from "./chunk-2QWI6V4H.js";
-import { MatIcon, MatIconModule, MatTooltip } from "./chunk-7MZUFN34.js";
+import { MatButton, MatButtonModule, MatIconButton, MatRipple, MatRippleModule, _StructuralStylesLoader } from "./chunk-2QWI6V4H.js";
+import { MatIcon, MatIconModule } from "./chunk-7MZUFN34.js";
 import { A11yModule, BACKSPACE, BidiModule, CdkMonitorFocus, CdkPortalOutlet, CdkScrollableModule, CdkTrapFocus, ComponentPortal, ControlContainer, DOWN_ARROW, DefaultValueAccessor, Directionality, END, ENTER, ESCAPE, FlexibleConnectedPositionStrategy, FocusKeyManager, FocusMonitor, FormBuilder, FormControl, FormControlName, FormGroup, FormGroupDirective, FormGroupName, FormsModule, HOME, LEFT_ARROW, MatCommonModule, MaxLengthValidator, NG_VALIDATORS, NG_VALUE_ACCESSOR, NgControl, NgControlStatus, NgControlStatusGroup, NgForm, Overlay, OverlayConfig, OverlayModule, PAGE_DOWN, PAGE_UP, Platform, PortalModule, RIGHT_ARROW, ReactiveFormsModule, SPACE, TemplatePortal, UP_ARROW, Validators, _CdkPrivateStyleLoader, _IdGenerator, _VisuallyHiddenLoader, _bindEventWithOptions, _getFocusedElementPierceShadowDom, coerceStringArray, hasModifierKey, ɵNgNoValidate } from "./chunk-QTN4UOGR.js";
-import { ANIMATION_MODULE_TYPE, AsyncPipe, CSP_NONCE, ChangeDetectionStrategy, ChangeDetectorRef, CommonModule, Component, ContentChild, ContentChildren, DOCUMENT, Directive, ElementRef, EventEmitter, HostAttributeToken, HostListener, Inject, Injectable, InjectionToken, Injector, Input, Location, NgClass, NgModule, NgStyle, NgTemplateOutlet, NgZone, Optional, Output, QueryList, Renderer2, SkipSelf, Subject, Subscription, TemplateRef, ViewChild, ViewChildren, ViewContainerRef, ViewEncapsulation, __spreadProps, __spreadValues, afterNextRender, booleanAttribute, concatMap, debounceTime, filter, forwardRef, fromEvent, inject, lastValueFrom, map, merge, numberAttribute, of, output, setClassMetadata, signal, skip, startWith, switchMap, take, takeUntil, timer, ɵsetClassDebugInfo, ɵɵInheritDefinitionFeature, ɵɵNgOnChangesFeature, ɵɵProvidersFeature, ɵɵadvance, ɵɵattribute, ɵɵclassMap, ɵɵclassMapInterpolate1, ɵɵclassProp, ɵɵconditional, ɵɵcontentQuery, ɵɵdeclareLet, ɵɵdefer, ɵɵdeferEnableTimerScheduling, ɵɵdeferOnIdle, ɵɵdeferWhen, ɵɵdefineComponent, ɵɵdefineDirective, ɵɵdefineInjectable, ɵɵdefineInjector, ɵɵdefineNgModule, ɵɵelement, ɵɵelementContainer, ɵɵelementEnd, ɵɵelementStart, ɵɵgetCurrentView, ɵɵgetInheritedFactory, ɵɵhostProperty, ɵɵi18n, ɵɵi18nApply, ɵɵi18nEnd, ɵɵi18nExp, ɵɵi18nStart, ɵɵinject, ɵɵinvalidFactory, ɵɵlistener, ɵɵloadQuery, ɵɵnamespaceHTML, ɵɵnamespaceSVG, ɵɵnextContext, ɵɵpipe, ɵɵpipeBind1, ɵɵprojection, ɵɵprojectionDef, ɵɵproperty, ɵɵpureFunction1, ɵɵpureFunction2, ɵɵqueryRefresh, ɵɵreference, ɵɵrepeater, ɵɵrepeaterCreate, ɵɵrepeaterTrackByIdentity, ɵɵresetView, ɵɵrestoreView, ɵɵsanitizeUrl, ɵɵstyleProp, ɵɵtemplate, ɵɵtemplateRefExtractor, ɵɵtext, ɵɵtextInterpolate, ɵɵtextInterpolate1, ɵɵtextInterpolate2, ɵɵtwoWayBindingSet, ɵɵtwoWayListener, ɵɵtwoWayProperty, ɵɵviewQuery } from "./chunk-2MICNSAC.js";
+import { ANIMATION_MODULE_TYPE, CSP_NONCE, ChangeDetectionStrategy, ChangeDetectorRef, Component, ContentChild, ContentChildren, DOCUMENT, Directive, ElementRef, EventEmitter, HostAttributeToken, HostListener, Inject, Injectable, InjectionToken, Injector, Input, Location, NgClass, NgModule, NgTemplateOutlet, NgZone, Optional, Output, QueryList, Renderer2, SkipSelf, Subject, Subscription, TemplateRef, ViewChild, ViewChildren, ViewContainerRef, ViewEncapsulation, __spreadProps, __spreadValues, afterNextRender, booleanAttribute, concatMap, filter, forwardRef, inject, lastValueFrom, map, merge, numberAttribute, of, output, setClassMetadata, signal, skip, startWith, switchMap, take, takeUntil, timer, ɵsetClassDebugInfo, ɵɵInheritDefinitionFeature, ɵɵNgOnChangesFeature, ɵɵProvidersFeature, ɵɵadvance, ɵɵattribute, ɵɵclassMap, ɵɵclassMapInterpolate1, ɵɵclassProp, ɵɵconditional, ɵɵcontentQuery, ɵɵdeclareLet, ɵɵdefer, ɵɵdeferEnableTimerScheduling, ɵɵdeferOnIdle, ɵɵdeferWhen, ɵɵdefineComponent, ɵɵdefineDirective, ɵɵdefineInjectable, ɵɵdefineInjector, ɵɵdefineNgModule, ɵɵelement, ɵɵelementContainer, ɵɵelementEnd, ɵɵelementStart, ɵɵgetCurrentView, ɵɵgetInheritedFactory, ɵɵhostProperty, ɵɵi18n, ɵɵi18nApply, ɵɵi18nEnd, ɵɵi18nExp, ɵɵi18nStart, ɵɵinject, ɵɵinvalidFactory, ɵɵlistener, ɵɵloadQuery, ɵɵnamespaceHTML, ɵɵnamespaceSVG, ɵɵnextContext, ɵɵprojection, ɵɵprojectionDef, ɵɵproperty, ɵɵpureFunction1, ɵɵpureFunction2, ɵɵqueryRefresh, ɵɵreference, ɵɵrepeater, ɵɵrepeaterCreate, ɵɵrepeaterTrackByIdentity, ɵɵresetView, ɵɵrestoreView, ɵɵsanitizeUrl, ɵɵstyleProp, ɵɵtemplate, ɵɵtemplateRefExtractor, ɵɵtext, ɵɵtextInterpolate, ɵɵtextInterpolate1, ɵɵtextInterpolate2, ɵɵtwoWayBindingSet, ɵɵtwoWayListener, ɵɵtwoWayProperty, ɵɵviewQuery } from "./chunk-2MICNSAC.js";
 
 // node_modules/@angular/cdk/fesm2022/stepper.mjs
 var _c0 = ["*"];
@@ -8623,589 +8623,35 @@ var ProgramAddClientComponent = class _ProgramAddClientComponent {
   });
 })();
 
-// apps/sanare-app/src/app/pages/exercises/exercise-card/exercise-card.component.ts
-function ExerciseCardComponent_Conditional_1_Conditional_9_Template(rf, ctx) {
-  if (rf & 1) {
-    const _r3 = ɵɵgetCurrentView();
-    ɵɵelementStart(0, "button", 14);
-    ɵɵlistener("click", function ExerciseCardComponent_Conditional_1_Conditional_9_Template_button_click_0_listener() {
-      ɵɵrestoreView(_r3);
-      const ctx_r3 = ɵɵnextContext(2);
-      return ɵɵresetView(ctx_r3.removeFromFavorites(ctx_r3.exercise));
-    });
-    ɵɵelementStart(1, "mat-icon");
-    ɵɵtext(2, "star");
-    ɵɵelementEnd()();
-  }
-}
-function ExerciseCardComponent_Conditional_1_Conditional_10_Template(rf, ctx) {
-  if (rf & 1) {
-    const _r5 = ɵɵgetCurrentView();
-    ɵɵelementStart(0, "button", 15);
-    ɵɵlistener("click", function ExerciseCardComponent_Conditional_1_Conditional_10_Template_button_click_0_listener() {
-      ɵɵrestoreView(_r5);
-      const ctx_r3 = ɵɵnextContext(2);
-      return ɵɵresetView(ctx_r3.addToFavorites(ctx_r3.exercise));
-    });
-    ɵɵelementStart(1, "mat-icon");
-    ɵɵtext(2, "star_border");
-    ɵɵelementEnd()();
-  }
-}
-function ExerciseCardComponent_Conditional_1_Conditional_14_Template(rf, ctx) {
-  if (rf & 1) {
-    const _r6 = ɵɵgetCurrentView();
-    ɵɵelementStart(0, "button", 16);
-    ɵɵlistener("click", function ExerciseCardComponent_Conditional_1_Conditional_14_Template_button_click_0_listener() {
-      ɵɵrestoreView(_r6);
-      const ctx_r3 = ɵɵnextContext(2);
-      return ɵɵresetView(ctx_r3.removeFromSelected(ctx_r3.exercise));
-    })("mouseenter", function ExerciseCardComponent_Conditional_1_Conditional_14_Template_button_mouseenter_0_listener() {
-      ɵɵrestoreView(_r6);
-      const ctx_r3 = ɵɵnextContext(2);
-      return ɵɵresetView(ctx_r3.showHoverIcon(true));
-    })("mouseleave", function ExerciseCardComponent_Conditional_1_Conditional_14_Template_button_mouseleave_0_listener() {
-      ɵɵrestoreView(_r6);
-      const ctx_r3 = ɵɵnextContext(2);
-      return ɵɵresetView(ctx_r3.showHoverIcon(false));
-    });
-    ɵɵelementStart(1, "mat-icon");
-    ɵɵtext(2);
-    ɵɵelementEnd()();
-  }
-  if (rf & 2) {
-    const ctx_r3 = ɵɵnextContext(2);
-    ɵɵproperty("color", ctx_r3.isHovered ? "accent" : "primary");
-    ɵɵadvance(2);
-    ɵɵtextInterpolate(ctx_r3.isHovered ? "close" : "done");
-  }
-}
-function ExerciseCardComponent_Conditional_1_Conditional_15_Template(rf, ctx) {
-  if (rf & 1) {
-    const _r7 = ɵɵgetCurrentView();
-    ɵɵelementStart(0, "button", 17);
-    ɵɵlistener("click", function ExerciseCardComponent_Conditional_1_Conditional_15_Template_button_click_0_listener() {
-      ɵɵrestoreView(_r7);
-      const ctx_r3 = ɵɵnextContext(2);
-      return ɵɵresetView(ctx_r3.addToSelected(ctx_r3.exercise));
-    });
-    ɵɵelementStart(1, "mat-icon");
-    ɵɵtext(2, "add");
-    ɵɵelementEnd()();
-  }
-}
-function ExerciseCardComponent_Conditional_1_Template(rf, ctx) {
-  if (rf & 1) {
-    const _r1 = ɵɵgetCurrentView();
-    ɵɵelementStart(0, "div", 2)(1, "div", 3);
-    ɵɵlistener("mouseenter", function ExerciseCardComponent_Conditional_1_Template_div_mouseenter_1_listener() {
-      ɵɵrestoreView(_r1);
-      const videoPlayer_r2 = ɵɵreference(3);
-      return ɵɵresetView(videoPlayer_r2.onMouseEnter());
-    })("mouseleave", function ExerciseCardComponent_Conditional_1_Template_div_mouseleave_1_listener() {
-      ɵɵrestoreView(_r1);
-      const videoPlayer_r2 = ɵɵreference(3);
-      return ɵɵresetView(videoPlayer_r2.onMouseLeave());
-    });
-    ɵɵelement(2, "ui-video-player", 4, 0);
-    ɵɵelementEnd();
-    ɵɵelementStart(4, "div", 5)(5, "div", 6)(6, "span", 7);
-    ɵɵtext(7);
-    ɵɵelementEnd()();
-    ɵɵelementStart(8, "div", 8);
-    ɵɵtemplate(9, ExerciseCardComponent_Conditional_1_Conditional_9_Template, 3, 0, "button", 9)(10, ExerciseCardComponent_Conditional_1_Conditional_10_Template, 3, 0, "button", 10);
-    ɵɵelementStart(11, "button", 11);
-    ɵɵlistener("click", function ExerciseCardComponent_Conditional_1_Template_button_click_11_listener() {
-      ɵɵrestoreView(_r1);
-      const ctx_r3 = ɵɵnextContext();
-      return ɵɵresetView(ctx_r3.showExerciseModal(ctx_r3.exercise.id, ctx_r3.exercise, false));
-    });
-    ɵɵelementStart(12, "mat-icon");
-    ɵɵtext(13, "info_outline");
-    ɵɵelementEnd()();
-    ɵɵtemplate(14, ExerciseCardComponent_Conditional_1_Conditional_14_Template, 3, 2, "button", 12)(15, ExerciseCardComponent_Conditional_1_Conditional_15_Template, 3, 0, "button", 13);
-    ɵɵelementEnd()()();
-  }
-  if (rf & 2) {
-    const ctx_r3 = ɵɵnextContext();
-    ɵɵadvance(2);
-    ɵɵproperty("videoSrc", ctx_r3.exercise.video)("thumbnail", ctx_r3.exercise.images == null ? null : ctx_r3.exercise.images.mainImg)("isModal", false);
-    ɵɵadvance(5);
-    ɵɵtextInterpolate1(" ", ctx_r3.exercise.name[ctx_r3.selectedLanguage], " ");
-    ɵɵadvance(2);
-    ɵɵconditional(ctx_r3.exercise.isFavorite ? 9 : 10);
-    ɵɵadvance(5);
-    ɵɵconditional(ctx_r3.exercise.isSelected ? 14 : 15);
-  }
-}
-var ExerciseCardComponent = class _ExerciseCardComponent {
-  constructor() {
-    this.dialog = inject(MatDialog);
-    this.exercisesService = inject(ExercisesService);
-    this.shareStateService = inject(ShareStateService);
-    this.selectedExercisesService = inject(SelectedExercisesService);
-    this.usersService = inject(UsersService);
-    this.localstorageService = inject(LocalstorageService);
-    this.subscriptions = new Subscription();
-    this.isEmptyPlaceholder = false;
-    this.selectedExercise = output();
-    this.removeExercise = output();
-    this.favoriteExercise = output();
-    this.removeFavoriteExercise = output();
-    this.isHovered = false;
-    this.userFavorites = this.usersService.userFavorites;
-    this.userId = this.usersService.userId;
-  }
-  ngOnInit() {
-    this.selectedLanguage = this._getUserLanguageToken();
-  }
-  addToSelected(exercise) {
-    this.selectedExercisesService.addToSelected(exercise);
-  }
-  removeFromSelected(exercise) {
-    this.selectedExercisesService.removeFromSelected(exercise);
-  }
-  selectExercise(exercise) {
-    exercise.isSelected = true;
-    this.selectedExercise.emit(exercise);
-  }
-  removeCard(exercise) {
-    this.removeExercise.emit(exercise);
-  }
-  showHoverIcon(isHovered) {
-    this.isHovered = isHovered;
-  }
-  _getExercise(exerciseId) {
-    return this.exercisesService.getExercise(exerciseId);
-  }
-  showExerciseModal(exerciseId, exerciseCard, isProgramExercise) {
-    const subscription = this._getExercise(exerciseId).subscribe(exercise => {
-      this.dialog.open(ExerciseModalComponent, {
-        data: {
-          fullExercise: exercise,
-          exerciseCard,
-          isProgramExercise,
-          selectedLang: this.selectedLanguage
-        },
-        width: "500px",
-        // height: '736px',
-        panelClass: ["custom-dialog", isProgramExercise ? "custom-shadow" : ""],
-        // disableClose: isProgramExercise,
-        // hasBackdrop: isProgramExercise ? false : true,
-        backdropClass: isProgramExercise ? "custom-backdrop" : ""
-        // enterAnimationDuration: 0,
-      });
-    });
-    this.subscriptions.add(subscription);
-  }
-  addToFavorites(exercise) {
-    exercise.isFavorite = true;
-    this.favoriteExercise.emit(exercise);
-  }
-  removeFromFavorites(exercise) {
-    exercise.isFavorite = false;
-    this.removeFavoriteExercise.emit(exercise);
-  }
-  _getUserLanguageToken() {
-    return this.localstorageService.getToken("userLanguage")?.split("-")[0];
-  }
-  ngOnDestroy() {
-    this.subscriptions.unsubscribe();
-  }
-  static {
-    this.ɵfac = function ExerciseCardComponent_Factory(__ngFactoryType__) {
-      return new (__ngFactoryType__ || _ExerciseCardComponent)();
-    };
-  }
-  static {
-    this.ɵcmp = /* @__PURE__ */ɵɵdefineComponent({
-      type: _ExerciseCardComponent,
-      selectors: [["sanareapp-exercise-card"]],
-      inputs: {
-        exercise: "exercise",
-        cardWrapper: "cardWrapper",
-        isEmptyPlaceholder: "isEmptyPlaceholder"
-      },
-      outputs: {
-        selectedExercise: "selectedExercise",
-        removeExercise: "removeExercise",
-        favoriteExercise: "favoriteExercise",
-        removeFavoriteExercise: "removeFavoriteExercise"
-      },
-      decls: 2,
-      vars: 2,
-      consts: () => {
-        let i18n_0;
-        if (false) {
-          const MSG_EXTERNAL_ExerciseCard_removeFromFavoritesTooltip$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_0 = goog.getMsg("Remove from favorites");
-          i18n_0 = MSG_EXTERNAL_ExerciseCard_removeFromFavoritesTooltip$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_0;
-        } else {
-          i18n_0 = "Aus Favoriten entfernen";
-        }
-        let i18n_1;
-        if (false) {
-          const MSG_EXTERNAL_ExerciseCard_removeFromFavoritesAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_1 = goog.getMsg("Favorite icon-button with a star icon");
-          i18n_1 = MSG_EXTERNAL_ExerciseCard_removeFromFavoritesAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_1;
-        } else {
-          i18n_1 = "Favoriten-Symbol-Schaltfl\xE4che mit einem Sternsymbol";
-        }
-        let i18n_2;
-        if (false) {
-          const MSG_EXTERNAL_ExerciseCard_addToFavoritesTooltip$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_2 = goog.getMsg("Add to favorites");
-          i18n_2 = MSG_EXTERNAL_ExerciseCard_addToFavoritesTooltip$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_2;
-        } else {
-          i18n_2 = "Zu meinen Favoriten hinzuf\xFCgen";
-        }
-        let i18n_3;
-        if (false) {
-          const MSG_EXTERNAL_ExerciseCard_addToFavoritesAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_3 = goog.getMsg("Favorite icon-button with a star icon");
-          i18n_3 = MSG_EXTERNAL_ExerciseCard_addToFavoritesAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_3;
-        } else {
-          i18n_3 = "Favoriten-Symbol-Schaltfl\xE4che mit einem Sternsymbol";
-        }
-        let i18n_4;
-        if (false) {
-          const MSG_EXTERNAL_ExerciseCard_details$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_4 = goog.getMsg("Details");
-          i18n_4 = MSG_EXTERNAL_ExerciseCard_details$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_4;
-        } else {
-          i18n_4 = "Einzelheiten";
-        }
-        let i18n_5;
-        if (false) {
-          const MSG_EXTERNAL_ExerciseCard_detailsAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_5 = goog.getMsg("Info icon-button with a info icon");
-          i18n_5 = MSG_EXTERNAL_ExerciseCard_detailsAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_5;
-        } else {
-          i18n_5 = "Infosymbol-Schaltfl\xE4che mit einem Infosymbol";
-        }
-        let i18n_6;
-        if (false) {
-          const MSG_EXTERNAL_ExerciseCard_removeExercise$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_6 = goog.getMsg("Remove exercise");
-          i18n_6 = MSG_EXTERNAL_ExerciseCard_removeExercise$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_6;
-        } else {
-          i18n_6 = "\xDCbung entfernen";
-        }
-        let i18n_7;
-        if (false) {
-          const MSG_EXTERNAL_ExerciseCard_removeExerciseAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_7 = goog.getMsg("Remove icon-button with a close icon");
-          i18n_7 = MSG_EXTERNAL_ExerciseCard_removeExerciseAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_7;
-        } else {
-          i18n_7 = "Symbolschaltfl\xE4che \u201EEntfernen\u201C mit einem Schlie\xDFen-Symbol";
-        }
-        let i18n_8;
-        if (false) {
-          const MSG_EXTERNAL_ExerciseCard_addExercise$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_8 = goog.getMsg("Add exercise");
-          i18n_8 = MSG_EXTERNAL_ExerciseCard_addExercise$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_8;
-        } else {
-          i18n_8 = "\xDCbung hinzuf\xFCgen";
-        }
-        let i18n_9;
-        if (false) {
-          const MSG_EXTERNAL_ExerciseCard_addExerciseAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_9 = goog.getMsg("Add icon button with a add icon");
-          i18n_9 = MSG_EXTERNAL_ExerciseCard_addExerciseAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_9;
-        } else {
-          i18n_9 = "Schaltfl\xE4che \u201ESymbol hinzuf\xFCgen\u201C mit einem Symbol zum Hinzuf\xFCgen";
-        }
-        return [["videoPlayer", ""], [3, "ngClass"], [1, "card"], [1, "card-head", 3, "mouseenter", "mouseleave"], [3, "videoSrc", "thumbnail", "isModal"], [1, "card-body"], [1, "exercise-name"], [1, "multi-line-text"], [1, "card-icons"], ["mat-icon-button", "", "matTooltip", i18n_0, "aria-label", i18n_1, 1, "favorite-exercise-star"], ["mat-icon-button", "", "matTooltip", i18n_2, "aria-label", i18n_3], ["mat-icon-button", "", "matTooltip", i18n_4, "aria-label", i18n_5, 3, "click"], ["mat-mini-fab", "", "matTooltip", i18n_6, "aria-label", i18n_7, 1, "toggleDoneRemoveBtn", 3, "color"], ["mat-icon-button", "", "matTooltip", i18n_8, "color", "primary", "aria-label", i18n_9], ["mat-icon-button", "", "matTooltip", i18n_0, "aria-label", i18n_1, 1, "favorite-exercise-star", 3, "click"], ["mat-icon-button", "", "matTooltip", i18n_2, "aria-label", i18n_3, 3, "click"], ["mat-mini-fab", "", "matTooltip", i18n_6, "aria-label", i18n_7, 1, "toggleDoneRemoveBtn", 3, "click", "mouseenter", "mouseleave", "color"], ["mat-icon-button", "", "matTooltip", i18n_8, "color", "primary", "aria-label", i18n_9, 3, "click"]];
-      },
-      template: function ExerciseCardComponent_Template(rf, ctx) {
-        if (rf & 1) {
-          ɵɵelementStart(0, "div", 1);
-          ɵɵtemplate(1, ExerciseCardComponent_Conditional_1_Template, 16, 6, "div", 2);
-          ɵɵelementEnd();
-        }
-        if (rf & 2) {
-          ɵɵproperty("ngClass", ctx.cardWrapper);
-          ɵɵadvance();
-          ɵɵconditional(!ctx.isEmptyPlaceholder ? 1 : -1);
-        }
-      },
-      dependencies: [NgClass, MatIconButton, MatTooltip, MatIcon, MatMiniFabButton, VideoPlayerComponent],
-      styles: ["[_nghost-%COMP%]{border-radius:16px}\n/*# sourceMappingURL=exercise-card.component-Z5PANOZ3.css.map */"]
-    });
-  }
-};
-(() => {
-  (typeof ngDevMode === "undefined" || ngDevMode) && ɵsetClassDebugInfo(ExerciseCardComponent, {
-    className: "ExerciseCardComponent",
-    filePath: "apps/sanare-app/src/app/pages/exercises/exercise-card/exercise-card.component.ts",
-    lineNumber: 33
-  });
-})();
-
-// apps/sanare-app/src/app/pages/exercises/exercises-grid/exercises-grid.component.ts
-var ExercisesGridComponent_For_6_Defer_2_DepsFn = () => [CdkDrag, CdkDragPlaceholder, ExerciseCardComponent];
-var _forTrack02 = ($index, $item) => $item.id;
-function ExercisesGridComponent_Conditional_1_Template(rf, ctx) {
-  if (rf & 1) {
-    ɵɵelementStart(0, "div", 2)(1, "span");
-    ɵɵi18n(2, 0);
-    ɵɵelementEnd()();
-  }
-}
-function ExercisesGridComponent_Conditional_2_Template(rf, ctx) {
-  if (rf & 1) {
-    ɵɵelementStart(0, "div", 3);
-    ɵɵelement(1, "mat-spinner", 5);
-    ɵɵelementEnd();
-  }
-}
-function ExercisesGridComponent_For_6_Defer_0_div_1_Template(rf, ctx) {
-  if (rf & 1) {
-    ɵɵelement(0, "div", 9);
-  }
-}
-function ExercisesGridComponent_For_6_Defer_0_Template(rf, ctx) {
-  if (rf & 1) {
-    const _r1 = ɵɵgetCurrentView();
-    ɵɵelementStart(0, "sanareapp-exercise-card", 7);
-    ɵɵlistener("removeExercise", function ExercisesGridComponent_For_6_Defer_0_Template_sanareapp_exercise_card_removeExercise_0_listener($event) {
-      ɵɵrestoreView(_r1);
-      const ctx_r1 = ɵɵnextContext(2);
-      return ɵɵresetView(ctx_r1.removeCard($event));
-    })("favoriteExercise", function ExercisesGridComponent_For_6_Defer_0_Template_sanareapp_exercise_card_favoriteExercise_0_listener($event) {
-      ɵɵrestoreView(_r1);
-      const ctx_r1 = ɵɵnextContext(2);
-      return ɵɵresetView(ctx_r1.addToFavorites($event));
-    })("removeFavoriteExercise", function ExercisesGridComponent_For_6_Defer_0_Template_sanareapp_exercise_card_removeFavoriteExercise_0_listener($event) {
-      ɵɵrestoreView(_r1);
-      const ctx_r1 = ɵɵnextContext(2);
-      return ɵɵresetView(ctx_r1.removeFromFavorites($event));
-    })("cdkDragStarted", function ExercisesGridComponent_For_6_Defer_0_Template_sanareapp_exercise_card_cdkDragStarted_0_listener() {
-      ɵɵrestoreView(_r1);
-      const ctx_r1 = ɵɵnextContext(2);
-      return ɵɵresetView(ctx_r1.onDragStarted());
-    })("cdkDragEnded", function ExercisesGridComponent_For_6_Defer_0_Template_sanareapp_exercise_card_cdkDragEnded_0_listener() {
-      ɵɵrestoreView(_r1);
-      const ctx_r1 = ɵɵnextContext(2);
-      return ɵɵresetView(ctx_r1.onDragEnded());
-    });
-    ɵɵtemplate(1, ExercisesGridComponent_For_6_Defer_0_div_1_Template, 1, 0, "div", 8);
-    ɵɵelementEnd();
-  }
-  if (rf & 2) {
-    const exercise_r3 = ɵɵnextContext().$implicit;
-    ɵɵproperty("isEmptyPlaceholder", false)("exercise", exercise_r3)("cdkDragData", exercise_r3);
-  }
-}
-function ExercisesGridComponent_For_6_DeferPlaceholder_1_Template(rf, ctx) {
-  if (rf & 1) {
-    ɵɵelement(0, "div", 10);
-  }
-}
-function ExercisesGridComponent_For_6_Conditional_4_Template(rf, ctx) {
-  if (rf & 1) {
-    ɵɵelementStart(0, "div", 6)(1, "sanareapp-exercise-card", 11);
-    ɵɵtext(2, " >");
-    ɵɵelementEnd()();
-  }
-  if (rf & 2) {
-    const exercise_r3 = ɵɵnextContext().$implicit;
-    ɵɵadvance();
-    ɵɵproperty("exercise", exercise_r3);
-  }
-}
-function ExercisesGridComponent_For_6_Template(rf, ctx) {
-  if (rf & 1) {
-    ɵɵtemplate(0, ExercisesGridComponent_For_6_Defer_0_Template, 2, 3)(1, ExercisesGridComponent_For_6_DeferPlaceholder_1_Template, 1, 0);
-    ɵɵdefer(2, 0, ExercisesGridComponent_For_6_Defer_2_DepsFn, null, 1);
-    ɵɵdeferOnIdle();
-    ɵɵtemplate(4, ExercisesGridComponent_For_6_Conditional_4_Template, 3, 1, "div", 6);
-  }
-  if (rf & 2) {
-    const exercise_r3 = ctx.$implicit;
-    const ctx_r1 = ɵɵnextContext();
-    ɵɵadvance(4);
-    ɵɵconditional(ctx_r1.transferringItem() === exercise_r3 ? 4 : -1);
-  }
-}
-var ExercisesGridComponent = class _ExercisesGridComponent {
-  constructor() {
-    this.themeManager = inject(ThemeManagerService);
-    this.shareStateService = inject(ShareStateService);
-    this.selectedExercisesService = inject(SelectedExercisesService);
-    this.usersService = inject(UsersService);
-    this.transferringItemService = inject(DropListTransferItemService);
-    this.isFetchingData = this.shareStateService.isFetchingData;
-    this.transferringItem = this.transferringItemService.transferringItem;
-    this.userFavorites = this.usersService.userFavorites;
-    this.userId = this.usersService.userId;
-    this.selectedExercises = this.selectedExercisesService.selectedExercises;
-    this.themeSignal = this.themeManager.themeSignal;
-    this.subscriptions = new Subscription();
-    this.isDragging = false;
-  }
-  ngOnInit() {
-    this.windowSize$ = fromEvent(window, "resize").pipe(startWith(null),
-    // Emit an initial value to trigger the styles on component initialization
-    debounceTime(200), map(() => window.innerWidth));
-  }
-  // Dynamically change filter drawer and exercise display grid behavior
-  getGridStyle(windowSize) {
-    const effectiveSize = windowSize ?? 0;
-    this.drawerOpen = this.shareStateService.drawerSignal();
-    if (effectiveSize < 1510 && effectiveSize > 1338 && this.drawerOpen) {
-      return {
-        "grid-template-columns": "repeat(3, 1fr)"
-      };
-    } else if (effectiveSize < 1338 && effectiveSize > 1168 && this.drawerOpen) {
-      return {
-        "grid-template-columns": "repeat(2, 1fr)"
-      };
-    } else {
-      return {};
-    }
-  }
-  entered() {
-    this.transferringItem.set(void 0);
-  }
-  exited(e) {
-    this.transferringItem.set(e.item.data);
-    console.log(this.transferringItem());
-  }
-  noReturnPredicate() {
-    return false;
-  }
-  // SEEMS THAT IT WORKS, REFACTOR THESE TWO FUNCTIONS IN ONE AND REMOVE UNNECESSARY CODE
-  removeCard(cardToRemove) {
-    let indexToRemove;
-    this.selectedExercises().some((selectedExercise, i) => {
-      if (selectedExercise.id === cardToRemove.id) {
-        indexToRemove = i;
-      }
-    });
-    this._resetCardState(cardToRemove, indexToRemove);
-  }
-  addToFavorites(exercise) {
-    this.userFavorites.update(favorites => {
-      const updatedFavorites = __spreadProps(__spreadValues({}, favorites), {
-        favExercises: [...favorites.favExercises, exercise.id]
-      });
-      this._updateFavorites(this.userId(), updatedFavorites);
-      return updatedFavorites;
-    });
-  }
-  removeFromFavorites(exercise) {
-    const updatedFavExercises = this.userFavorites().favExercises.filter(favExerciseId => favExerciseId !== exercise.id);
-    this.userFavorites.update(favorites => {
-      const updatedFavorites = __spreadProps(__spreadValues({}, favorites), {
-        favExercises: [...updatedFavExercises]
-      });
-      return updatedFavorites;
-    });
-    this._updateFavorites(this.userId(), this.userFavorites());
-  }
-  // Add/remove favorite exercises
-  _updateFavorites(userId, updatedFavorites) {
-    const subscription = this.usersService.updateFavorites(userId, updatedFavorites).subscribe(favorites => console.log(favorites));
-    this.subscriptions.add(subscription);
-  }
-  _resetCardState(cardToReset, indexToRemove) {
-    if (this.exercises.length === 0) {
-      return;
-    }
-    this.exercises.find(exerciseToReset => {
-      if (exerciseToReset.id === cardToReset.id) {
-        exerciseToReset.isSelected = false;
-      }
-    });
-  }
-  onDragStarted() {
-    this.isDragging = true;
-  }
-  onDragEnded() {
-    this.isDragging = false;
-  }
-  static {
-    this.ɵfac = function ExercisesGridComponent_Factory(__ngFactoryType__) {
-      return new (__ngFactoryType__ || _ExercisesGridComponent)();
-    };
-  }
-  static {
-    this.ɵcmp = /* @__PURE__ */ɵɵdefineComponent({
-      type: _ExercisesGridComponent,
-      selectors: [["sanareapp-exercises-grid"]],
-      inputs: {
-        exercises: "exercises"
-      },
-      decls: 7,
-      vars: 8,
-      consts: () => {
-        let i18n_0;
-        if (false) {
-          const MSG_EXTERNAL_ExercisesGrid_noExercisesFoundMessage$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISES_GRID_EXERCISES_GRID_COMPONENT_TS_0 = goog.getMsg("No exercises found for your search");
-          i18n_0 = MSG_EXTERNAL_ExercisesGrid_noExercisesFoundMessage$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISES_GRID_EXERCISES_GRID_COMPONENT_TS_0;
-        } else {
-          i18n_0 = "Zu deiner Suche wurden keine \xDCbungen gefunden";
-        }
-        return [i18n_0, ["overlay-scrollbars", "", 1, "grid-container", 3, "options", "defer"], [1, "noExercisesFound"], [1, "fetchingDataSpinner"], ["cdkDropList", "", "cdkDropListSortingDisabled", "", 1, "exercise-cards", 3, "cdkDropListEntered", "cdkDropListExited", "cdkDropListData", "ngStyle", "cdkDropListEnterPredicate"], ["diameter", "50"], [1, "static-placeholder"], ["cardWrapper", "wrap-default", "cdkDrag", "", 3, "removeExercise", "favoriteExercise", "removeFavoriteExercise", "cdkDragStarted", "cdkDragEnded", "isEmptyPlaceholder", "exercise", "cdkDragData"], ["class", "exercise-card-placeholder", 4, "cdkDragPlaceholder"], [1, "exercise-card-placeholder"], [1, "exercise-card-skeleton"], ["cardWrapper", "wrap-default", 3, "exercise"]];
-      },
-      template: function ExercisesGridComponent_Template(rf, ctx) {
-        if (rf & 1) {
-          ɵɵelementStart(0, "div", 1);
-          ɵɵtemplate(1, ExercisesGridComponent_Conditional_1_Template, 3, 0, "div", 2)(2, ExercisesGridComponent_Conditional_2_Template, 2, 0, "div", 3);
-          ɵɵelementStart(3, "div", 4);
-          ɵɵpipe(4, "async");
-          ɵɵlistener("cdkDropListEntered", function ExercisesGridComponent_Template_div_cdkDropListEntered_3_listener() {
-            return ctx.entered();
-          })("cdkDropListExited", function ExercisesGridComponent_Template_div_cdkDropListExited_3_listener($event) {
-            return ctx.exited($event);
-          });
-          ɵɵrepeaterCreate(5, ExercisesGridComponent_For_6_Template, 5, 1, null, null, _forTrack02);
-          ɵɵelementEnd()();
-        }
-        if (rf & 2) {
-          ɵɵproperty("options", ctx.themeSignal());
-          ɵɵadvance();
-          ɵɵconditional((ctx.exercises == null ? null : ctx.exercises.length) === 0 && !ctx.isFetchingData() ? 1 : -1);
-          ɵɵadvance();
-          ɵɵconditional(ctx.isFetchingData() ? 2 : -1);
-          ɵɵadvance();
-          ɵɵproperty("cdkDropListData", ctx.exercises)("ngStyle", ctx.getGridStyle(ɵɵpipeBind1(4, 6, ctx.windowSize$)))("cdkDropListEnterPredicate", ctx.noReturnPredicate);
-          ɵɵadvance(2);
-          ɵɵrepeater(ctx.exercises);
-        }
-      },
-      dependencies: [CommonModule, NgStyle, AsyncPipe, CdkDropList, OverlayscrollbarsModule, OverlayScrollbarsComponent, ExerciseCardComponent, MatProgressSpinnerModule, MatProgressSpinner],
-      styles: [".noExercisesFound[_ngcontent-%COMP%]{text-align:center;margin:32px 0}\n/*# sourceMappingURL=exercises-grid.component-SVEJ6XE6.css.map */"]
-    });
-  }
-};
-(() => {
-  (typeof ngDevMode === "undefined" || ngDevMode) && ɵsetClassDebugInfo(ExercisesGridComponent, {
-    className: "ExercisesGridComponent",
-    filePath: "apps/sanare-app/src/app/pages/exercises/exercises-grid/exercises-grid.component.ts",
-    lineNumber: 48
-  });
-})();
-
 // apps/sanare-app/src/app/pages/exercises/exercises-list/exercises-list.component.ts
-var ExercisesListComponent_Defer_15_DepsFn = () => [import("./chunk-APRQSIRD.js").then(m => m.SelectedExercisesListComponent)];
-function ExercisesListComponent_Conditional_5_Template(rf, ctx) {
+var ExercisesListComponent_Defer_7_DepsFn = () => [import("./chunk-3AOMDYSI.js").then(m => m.ExercisesGridComponent)];
+var ExercisesListComponent_Defer_17_DepsFn = () => [import("./chunk-APRQSIRD.js").then(m => m.SelectedExercisesListComponent)];
+function ExercisesListComponent_Defer_5_Template(rf, ctx) {
   if (rf & 1) {
-    ɵɵelementStart(0, "div", 6)(1, "div", 12);
+    ɵɵelement(0, "sanareapp-exercises-grid", 10);
+  }
+  if (rf & 2) {
+    const ctx_r1 = ɵɵnextContext();
+    ɵɵproperty("exercises", ctx_r1.exercises);
+  }
+}
+function ExercisesListComponent_DeferPlaceholder_6_Template(rf, ctx) {
+  if (rf & 1) {
+    ɵɵelementStart(0, "div", 11)(1, "div", 12);
     ɵɵelement(2, "div", 13)(3, "div", 13)(4, "div", 13)(5, "div", 13)(6, "div", 13)(7, "div", 13)(8, "div", 13)(9, "div", 13);
     ɵɵelementEnd()();
   }
 }
-function ExercisesListComponent_Conditional_6_Template(rf, ctx) {
+function ExercisesListComponent_Defer_15_Template(rf, ctx) {
   if (rf & 1) {
-    ɵɵelement(0, "sanareapp-exercises-grid", 7);
+    ɵɵelement(0, "sanareapp-selected-exercises-list", 10);
   }
   if (rf & 2) {
     const ctx_r1 = ɵɵnextContext();
     ɵɵproperty("exercises", ctx_r1.exercises);
   }
 }
-function ExercisesListComponent_Defer_13_Template(rf, ctx) {
-  if (rf & 1) {
-    ɵɵelement(0, "sanareapp-selected-exercises-list", 7);
-  }
-  if (rf & 2) {
-    const ctx_r1 = ɵɵnextContext();
-    ɵɵproperty("exercises", ctx_r1.exercises);
-  }
-}
-function ExercisesListComponent_DeferPlaceholder_14_Template(rf, ctx) {
+function ExercisesListComponent_DeferPlaceholder_16_Template(rf, ctx) {
   if (rf & 1) {
     ɵɵelementStart(0, "div", 14);
     ɵɵelement(1, "div", 15)(2, "div", 15)(3, "div", 15)(4, "div", 15)(5, "div", 15)(6, "div", 15)(7, "div", 15)(8, "div", 15);
@@ -9321,6 +8767,7 @@ var ExercisesListComponent = class _ExercisesListComponent {
     this.isFetchingData.set(false);
   }
   _getFavoriteExercises() {
+    this.isFetchingData.set(true);
     const subscription = this.exercisesService.getExercises().subscribe(exercises => {
       this.exercises = [];
       for (const exercise of exercises) {
@@ -9358,15 +8805,15 @@ var ExercisesListComponent = class _ExercisesListComponent {
       inputs: {
         editMode: "editMode"
       },
-      decls: 17,
-      vars: 3,
+      decls: 19,
+      vars: 2,
       consts: () => {
         let i18n_0;
         if (false) {
           const MSG_EXTERNAL_SelectedExercises_title$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISES_LIST_EXERCISES_LIST_COMPONENT_TS_0 = goog.getMsg(" Selected exercises ({$startTagSpan}{$interpolation}{$closeTagSpan}) ", {
-            "closeTagSpan": "\uFFFD/#11\uFFFD",
+            "closeTagSpan": "\uFFFD/#13\uFFFD",
             "interpolation": "\uFFFD0\uFFFD",
-            "startTagSpan": "\uFFFD#11\uFFFD"
+            "startTagSpan": "\uFFFD#13\uFFFD"
           }, {
             original_code: {
               "closeTagSpan": "</span\n          >",
@@ -9376,9 +8823,9 @@ var ExercisesListComponent = class _ExercisesListComponent {
           });
           i18n_0 = MSG_EXTERNAL_SelectedExercises_title$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISES_LIST_EXERCISES_LIST_COMPONENT_TS_0;
         } else {
-          i18n_0 = "Ausgew\xE4hlte \xDCbungen (" + "\uFFFD#11\uFFFD" + "" + "\uFFFD0\uFFFD" + "" + "\uFFFD/#11\uFFFD" + ")";
+          i18n_0 = "Ausgew\xE4hlte \xDCbungen (" + "\uFFFD#13\uFFFD" + "" + "\uFFFD0\uFFFD" + "" + "\uFFFD/#13\uFFFD" + ")";
         }
-        return [i18n_0, [500], ["cdkDropListGroup", ""], [1, "main-page-wrappper"], [1, "exercise-content-wrapper"], [3, "listOptionValue"], [1, "grid-container-placeholder"], [3, "exercises"], [1, "selected-exercises-list-wrapper"], [1, "selected-exercises"], [1, "title", "mat-title-medium-margin-plus"], ["overlay-scrollbars", "", 1, "selected-exercises-container", 3, "options", "defer"], [1, "exercise-cards-placeholder"], [1, "exercise-card-skeleton"], [1, "background-wrapper-placeholder"], [1, "main-wrap-placeholder"]];
+        return [i18n_0, [500], ["cdkDropListGroup", ""], [1, "main-page-wrappper"], [1, "exercise-content-wrapper"], [3, "listOptionValue"], [1, "selected-exercises-list-wrapper"], [1, "selected-exercises"], [1, "title", "mat-title-medium-margin-plus"], ["overlay-scrollbars", "", 1, "selected-exercises-container", 3, "options", "defer"], [3, "exercises"], [1, "grid-container-placeholder"], [1, "exercise-cards-placeholder"], [1, "exercise-card-skeleton"], [1, "background-wrapper-placeholder"], [1, "main-wrap-placeholder"]];
       },
       template: function ExercisesListComponent_Template(rf, ctx) {
         if (rf & 1) {
@@ -9390,31 +8837,31 @@ var ExercisesListComponent = class _ExercisesListComponent {
             return ɵɵresetView(ctx.changeListedItems());
           });
           ɵɵelementEnd();
-          ɵɵtemplate(5, ExercisesListComponent_Conditional_5_Template, 10, 0, "div", 6)(6, ExercisesListComponent_Conditional_6_Template, 1, 1, "sanareapp-exercises-grid", 7);
+          ɵɵtemplate(5, ExercisesListComponent_Defer_5_Template, 1, 1)(6, ExercisesListComponent_DeferPlaceholder_6_Template, 10, 0);
+          ɵɵdefer(7, 5, ExercisesListComponent_Defer_7_DepsFn, null, 6, null, null, 1, ɵɵdeferEnableTimerScheduling);
+          ɵɵdeferOnIdle();
           ɵɵelementEnd();
-          ɵɵelementStart(7, "div", 8)(8, "div", 9)(9, "h3", 10);
-          ɵɵi18nStart(10, 0);
-          ɵɵelement(11, "span");
+          ɵɵelementStart(9, "div", 6)(10, "div", 7)(11, "h3", 8);
+          ɵɵi18nStart(12, 0);
+          ɵɵelement(13, "span");
           ɵɵi18nEnd();
           ɵɵelementEnd();
-          ɵɵelementStart(12, "div", 11);
-          ɵɵtemplate(13, ExercisesListComponent_Defer_13_Template, 1, 1)(14, ExercisesListComponent_DeferPlaceholder_14_Template, 9, 0);
-          ɵɵdefer(15, 13, ExercisesListComponent_Defer_15_DepsFn, null, 14, null, null, 1, ɵɵdeferEnableTimerScheduling);
+          ɵɵelementStart(14, "div", 9);
+          ɵɵtemplate(15, ExercisesListComponent_Defer_15_Template, 1, 1)(16, ExercisesListComponent_DeferPlaceholder_16_Template, 9, 0);
+          ɵɵdefer(17, 15, ExercisesListComponent_Defer_17_DepsFn, null, 16, null, null, 1, ɵɵdeferEnableTimerScheduling);
           ɵɵdeferOnIdle();
           ɵɵelementEnd()()()()();
         }
         if (rf & 2) {
-          const isFetching_r3 = ctx.isFetchingData();
-          ɵɵadvance(5);
-          ɵɵconditional(isFetching_r3 ? 5 : 6);
-          ɵɵadvance(6);
+          ctx.isFetchingData();
+          ɵɵadvance(13);
           ɵɵi18nExp(ctx.selectedExercises().length);
-          ɵɵi18nApply(10);
+          ɵɵi18nApply(12);
           ɵɵadvance();
           ɵɵproperty("options", ctx.themeSignal());
         }
       },
-      dependencies: [CdkDropListGroup, ExerciseSearchBtnsWrapperComponent, ExercisesGridComponent, OverlayscrollbarsModule, OverlayScrollbarsComponent],
+      dependencies: [CdkDropListGroup, ExerciseSearchBtnsWrapperComponent, OverlayscrollbarsModule, OverlayScrollbarsComponent],
       encapsulation: 2
     });
   }
@@ -10599,4 +10046,4 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
 })();
 export { NewProgramStepperComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-//# sourceMappingURL=chunk-FCI6ZOLF.js.map
+//# sourceMappingURL=chunk-62UO43FP.js.map
