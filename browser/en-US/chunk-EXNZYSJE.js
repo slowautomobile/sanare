@@ -1970,21 +1970,21 @@ var EditProgramComponent = class _EditProgramComponent {
           const MSG_EXTERNAL_EditProgram_programNamePlaceholder$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_0 = goog.getMsg("Enter program name");
           i18n_0 = MSG_EXTERNAL_EditProgram_programNamePlaceholder$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_0;
         } else {
-          i18n_0 = "Geben Sie den Programmnamen ein";
+          i18n_0 = "Enter program name";
         }
         let i18n_1;
         if (false) {
           const MSG_EXTERNAL_EditProgram_diagnosisPlaceholder$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_1 = goog.getMsg("Enter diagnosis");
           i18n_1 = MSG_EXTERNAL_EditProgram_diagnosisPlaceholder$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_1;
         } else {
-          i18n_1 = "Diagnose eingeben";
+          i18n_1 = "Enter diagnosis";
         }
         let i18n_2;
         if (false) {
           const MSG_EXTERNAL_EditProgram_notesPlaceholder$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_2 = goog.getMsg("Enter program notes");
           i18n_2 = MSG_EXTERNAL_EditProgram_notesPlaceholder$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_2;
         } else {
-          i18n_2 = "Geben Sie Programmnotizen ein";
+          i18n_2 = "Enter program notes";
         }
         let i18n_3;
         if (false) {
@@ -2001,49 +2001,49 @@ var EditProgramComponent = class _EditProgramComponent {
           });
           i18n_3 = MSG_EXTERNAL_SelectedExercises_title$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_3;
         } else {
-          i18n_3 = "Ausgew\xE4hlte \xDCbungen (" + "\uFFFD#4\uFFFD" + "" + "\uFFFD0\uFFFD" + "" + "\uFFFD/#4\uFFFD" + ")";
+          i18n_3 = " Selected exercises (" + "\uFFFD#4\uFFFD" + "" + "\uFFFD0\uFFFD" + "" + "\uFFFD/#4\uFFFD" + ") ";
         }
         let i18n_4;
         if (false) {
           const MSG_EXTERNAL_EditProgram_programName$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_4 = goog.getMsg("Program name");
           i18n_4 = MSG_EXTERNAL_EditProgram_programName$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_4;
         } else {
-          i18n_4 = "Programmname";
+          i18n_4 = "Program name";
         }
         let i18n_5;
         if (false) {
           const MSG_EXTERNAL_EditProgram_diagnosis$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_5 = goog.getMsg("Diagnosis");
           i18n_5 = MSG_EXTERNAL_EditProgram_diagnosis$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_5;
         } else {
-          i18n_5 = "Diagnose";
+          i18n_5 = "Diagnosis";
         }
         let i18n_6;
         if (false) {
           const MSG_EXTERNAL_EditProgram_notes$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_6 = goog.getMsg("Notes");
           i18n_6 = MSG_EXTERNAL_EditProgram_notes$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_6;
         } else {
-          i18n_6 = "Notizen";
+          i18n_6 = "Notes";
         }
         let i18n_7;
         if (false) {
           const MSG_EXTERNAL_EditProgram_maxCharactersHint$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_7 = goog.getMsg("Maximum number of characters reached");
           i18n_7 = MSG_EXTERNAL_EditProgram_maxCharactersHint$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_7;
         } else {
-          i18n_7 = "Maximale Zeichenanzahl erreicht";
+          i18n_7 = "Maximum number of characters reached";
         }
         let i18n_8;
         if (false) {
           const MSG_EXTERNAL_EditProgram_enterProgramNameHint$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_8 = goog.getMsg("Please enter a program name");
           i18n_8 = MSG_EXTERNAL_EditProgram_enterProgramNameHint$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_8;
         } else {
-          i18n_8 = "Bitte geben Sie einen Programmnamen ein";
+          i18n_8 = "Please enter a program name";
         }
         let i18n_9;
         if (false) {
           const MSG_EXTERNAL_EditProgram_slideToggleLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_9 = goog.getMsg("Save as template");
           i18n_9 = MSG_EXTERNAL_EditProgram_slideToggleLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EDIT_PROGRAM_EDIT_PROGRAM_COMPONENT_TS_9;
         } else {
-          i18n_9 = "Als Vorlage speichern";
+          i18n_9 = "Save as template";
         }
         return [i18n_3, i18n_4, i18n_5, i18n_6, i18n_7, i18n_8, i18n_9, [1, "main-page-wrappper", "edit-program-flex"], [1, "content-wrapper"], [1, "mat-title-medium-margin-plus"], [1, "program-info-wrapper"], [1, "program-info-content"], [3, "formGroup"], ["appearance", "outline", "hideRequiredMarker", "false", 1, "program-inputs"], ["matPrefix", ""], ["matInput", "", "type", "text", "formControlName", "name", "placeholder", i18n_0, "maxlength", "50"], ["matInput", "", "cdkTextareaAutosize", "", "formControlName", "diagnosis", "placeholder", i18n_1], ["matInput", "", "cdkTextareaAutosize", "", "formControlName", "notes", "placeholder", i18n_2], ["labelPosition", "before", "formControlName", "isTemplate", 1, "program-inputs"]];
       },
@@ -8553,21 +8553,21 @@ var ProgramAddClientComponent = class _ProgramAddClientComponent {
           const MSG_EXTERNAL_ProgramAddClient_startDateLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_PROGRAM_ADD_CLIENT_PROGRAM_ADD_CLIENT_COMPONENT_TS_0 = goog.getMsg("Start date");
           i18n_0 = MSG_EXTERNAL_ProgramAddClient_startDateLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_PROGRAM_ADD_CLIENT_PROGRAM_ADD_CLIENT_COMPONENT_TS_0;
         } else {
-          i18n_0 = "Startdatum";
+          i18n_0 = "Start date";
         }
         let i18n_1;
         if (false) {
           const MSG_EXTERNAL_ProgramAddClient_endDateLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_PROGRAM_ADD_CLIENT_PROGRAM_ADD_CLIENT_COMPONENT_TS_1 = goog.getMsg("End date");
           i18n_1 = MSG_EXTERNAL_ProgramAddClient_endDateLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_PROGRAM_ADD_CLIENT_PROGRAM_ADD_CLIENT_COMPONENT_TS_1;
         } else {
-          i18n_1 = "Endtermin";
+          i18n_1 = "End date";
         }
         let i18n_2;
         if (false) {
           const MSG_EXTERNAL_ProgramAddClient_dateRangeLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_PROGRAM_ADD_CLIENT_PROGRAM_ADD_CLIENT_COMPONENT_TS_2 = goog.getMsg("Date range");
           i18n_2 = MSG_EXTERNAL_ProgramAddClient_dateRangeLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_PROGRAM_ADD_CLIENT_PROGRAM_ADD_CLIENT_COMPONENT_TS_2;
         } else {
-          i18n_2 = "Datumsbereich";
+          i18n_2 = "Date range";
         }
         return [["selectClients", ""], ["picker", ""], i18n_2, [1, "main-page-wrappper", "program-add-client-flex"], [1, "client-info-wrapper"], [3, "formGroup"], ["appearance", "outline", 1, "program-inputs", "date-input"], ["formGroupName", "dateRange", 3, "rangePicker", "disabled"], ["matStartDate", "", "formControlName", "start", "placeholder", i18n_0], ["matEndDate", "", "formControlName", "end", "placeholder", i18n_1], ["matIconPrefix", "", 3, "for"], [1, "print-wrapper"]];
       },
@@ -8840,70 +8840,70 @@ var ExerciseCardComponent = class _ExerciseCardComponent {
           const MSG_EXTERNAL_ExerciseCard_removeFromFavoritesTooltip$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_0 = goog.getMsg("Remove from favorites");
           i18n_0 = MSG_EXTERNAL_ExerciseCard_removeFromFavoritesTooltip$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_0;
         } else {
-          i18n_0 = "Aus Favoriten entfernen";
+          i18n_0 = "Remove from favorites";
         }
         let i18n_1;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_removeFromFavoritesAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_1 = goog.getMsg("Favorite icon-button with a star icon");
           i18n_1 = MSG_EXTERNAL_ExerciseCard_removeFromFavoritesAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_1;
         } else {
-          i18n_1 = "Favoriten-Symbol-Schaltfl\xE4che mit einem Sternsymbol";
+          i18n_1 = "Favorite icon-button with a star icon";
         }
         let i18n_2;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_addToFavoritesTooltip$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_2 = goog.getMsg("Add to favorites");
           i18n_2 = MSG_EXTERNAL_ExerciseCard_addToFavoritesTooltip$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_2;
         } else {
-          i18n_2 = "Zu meinen Favoriten hinzuf\xFCgen";
+          i18n_2 = "Add to favorites";
         }
         let i18n_3;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_addToFavoritesAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_3 = goog.getMsg("Favorite icon-button with a star icon");
           i18n_3 = MSG_EXTERNAL_ExerciseCard_addToFavoritesAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_3;
         } else {
-          i18n_3 = "Favoriten-Symbol-Schaltfl\xE4che mit einem Sternsymbol";
+          i18n_3 = "Favorite icon-button with a star icon";
         }
         let i18n_4;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_details$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_4 = goog.getMsg("Details");
           i18n_4 = MSG_EXTERNAL_ExerciseCard_details$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_4;
         } else {
-          i18n_4 = "Einzelheiten";
+          i18n_4 = "Details";
         }
         let i18n_5;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_detailsAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_5 = goog.getMsg("Info icon-button with a info icon");
           i18n_5 = MSG_EXTERNAL_ExerciseCard_detailsAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_5;
         } else {
-          i18n_5 = "Infosymbol-Schaltfl\xE4che mit einem Infosymbol";
+          i18n_5 = "Info icon-button with a info icon";
         }
         let i18n_6;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_removeExercise$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_6 = goog.getMsg("Remove exercise");
           i18n_6 = MSG_EXTERNAL_ExerciseCard_removeExercise$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_6;
         } else {
-          i18n_6 = "\xDCbung entfernen";
+          i18n_6 = "Remove exercise";
         }
         let i18n_7;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_removeExerciseAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_7 = goog.getMsg("Remove icon-button with a close icon");
           i18n_7 = MSG_EXTERNAL_ExerciseCard_removeExerciseAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_7;
         } else {
-          i18n_7 = "Symbolschaltfl\xE4che \u201EEntfernen\u201C mit einem Schlie\xDFen-Symbol";
+          i18n_7 = "Remove icon-button with a close icon";
         }
         let i18n_8;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_addExercise$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_8 = goog.getMsg("Add exercise");
           i18n_8 = MSG_EXTERNAL_ExerciseCard_addExercise$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_8;
         } else {
-          i18n_8 = "\xDCbung hinzuf\xFCgen";
+          i18n_8 = "Add exercise";
         }
         let i18n_9;
         if (false) {
           const MSG_EXTERNAL_ExerciseCard_addExerciseAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_9 = goog.getMsg("Add icon button with a add icon");
           i18n_9 = MSG_EXTERNAL_ExerciseCard_addExerciseAriaLabel$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISE_CARD_EXERCISE_CARD_COMPONENT_TS_9;
         } else {
-          i18n_9 = "Schaltfl\xE4che \u201ESymbol hinzuf\xFCgen\u201C mit einem Symbol zum Hinzuf\xFCgen";
+          i18n_9 = "Add icon button with a add icon";
         }
         return [["videoPlayer", ""], [3, "ngClass"], [1, "card"], [1, "card-head", 3, "mouseenter", "mouseleave"], [3, "videoSrc", "thumbnail", "isModal"], [1, "card-body"], [1, "exercise-name"], [1, "multi-line-text"], [1, "card-icons"], ["mat-icon-button", "", "matTooltip", i18n_0, "aria-label", i18n_1, 1, "favorite-exercise-star"], ["mat-icon-button", "", "matTooltip", i18n_2, "aria-label", i18n_3], ["mat-icon-button", "", "matTooltip", i18n_4, "aria-label", i18n_5, 3, "click"], ["mat-mini-fab", "", "matTooltip", i18n_6, "aria-label", i18n_7, 1, "toggleDoneRemoveBtn", 3, "color"], ["mat-icon-button", "", "matTooltip", i18n_8, "color", "primary", "aria-label", i18n_9], ["mat-icon-button", "", "matTooltip", i18n_0, "aria-label", i18n_1, 1, "favorite-exercise-star", 3, "click"], ["mat-icon-button", "", "matTooltip", i18n_2, "aria-label", i18n_3, 3, "click"], ["mat-mini-fab", "", "matTooltip", i18n_6, "aria-label", i18n_7, 1, "toggleDoneRemoveBtn", 3, "click", "mouseenter", "mouseleave", "color"], ["mat-icon-button", "", "matTooltip", i18n_8, "color", "primary", "aria-label", i18n_9, 3, "click"]];
       },
@@ -9135,7 +9135,7 @@ var ExercisesGridComponent = class _ExercisesGridComponent {
           const MSG_EXTERNAL_ExercisesGrid_noExercisesFoundMessage$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISES_GRID_EXERCISES_GRID_COMPONENT_TS_0 = goog.getMsg("No exercises found for your search");
           i18n_0 = MSG_EXTERNAL_ExercisesGrid_noExercisesFoundMessage$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISES_GRID_EXERCISES_GRID_COMPONENT_TS_0;
         } else {
-          i18n_0 = "Zu deiner Suche wurden keine \xDCbungen gefunden";
+          i18n_0 = "No exercises found for your search";
         }
         return [i18n_0, ["overlay-scrollbars", "", 1, "grid-container", 3, "options", "defer"], [1, "noExercisesFound"], [1, "fetchingDataSpinner"], ["cdkDropList", "", "cdkDropListSortingDisabled", "", 1, "exercise-cards", 3, "cdkDropListEntered", "cdkDropListExited", "cdkDropListData", "ngStyle", "cdkDropListEnterPredicate"], ["diameter", "50"], [1, "static-placeholder"], ["cardWrapper", "wrap-default", "cdkDrag", "", 3, "removeExercise", "favoriteExercise", "removeFavoriteExercise", "cdkDragStarted", "cdkDragEnded", "isEmptyPlaceholder", "exercise", "cdkDragData"], ["class", "exercise-card-placeholder", 4, "cdkDragPlaceholder"], [1, "exercise-card-placeholder"], [1, "exercise-card-skeleton"], ["cardWrapper", "wrap-default", 3, "exercise"]];
       },
@@ -9268,6 +9268,8 @@ var ExercisesListComponent = class _ExercisesListComponent {
       console.log("step2");
       if (this.editMode && countSubsIndex <= 1) {
         this._getSelectedExercises();
+      } else {
+        this.isFetchingData.set(false);
       }
       console.log(this.exercises);
       console.log(performance.now() - start);
@@ -9372,7 +9374,7 @@ var ExercisesListComponent = class _ExercisesListComponent {
           });
           i18n_0 = MSG_EXTERNAL_SelectedExercises_title$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_EXERCISES_LIST_EXERCISES_LIST_COMPONENT_TS_0;
         } else {
-          i18n_0 = "Ausgew\xE4hlte \xDCbungen (" + "\uFFFD#11\uFFFD" + "" + "\uFFFD0\uFFFD" + "" + "\uFFFD/#11\uFFFD" + ")";
+          i18n_0 = " Selected exercises (" + "\uFFFD#11\uFFFD" + "" + "\uFFFD0\uFFFD" + "" + "\uFFFD/#11\uFFFD" + ") ";
         }
         return [i18n_0, [500], ["cdkDropListGroup", ""], [1, "main-page-wrappper"], [1, "exercise-content-wrapper"], [3, "listOptionValue"], [1, "grid-container-placeholder"], [3, "exercises"], [1, "selected-exercises-list-wrapper"], [1, "selected-exercises"], [1, "title", "mat-title-medium-margin-plus"], ["overlay-scrollbars", "", 1, "selected-exercises-container", 3, "options", "defer"], [1, "exercise-cards-placeholder"], [1, "exercise-card-skeleton"], [1, "background-wrapper-placeholder"], [1, "main-wrap-placeholder"]];
       },
@@ -9735,9 +9737,9 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
   }
   get actionLabel() {
     if (this.editMode && !this.isClientProgram || this.editMode && this.clientInfo().clientName) {
-      return "Aktualisieren";
+      return "Update";
     } else {
-      return "Speichern";
+      return "Save";
     }
   }
   ngOnInit() {
@@ -9982,7 +9984,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
               programs: updatedPrograms
             };
             const subscription2 = this.clientsService.updateClient(updatedClient, client.id).subscribe(() => {
-              this._snackBar.open("Programm erstellt und dem Patienten hinzugef\xFCgt", "", {
+              this._snackBar.open("Program created and added to client", "", {
                 duration: 2e3,
                 panelClass: ["custom-snackbar-style"]
               });
@@ -9990,7 +9992,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
             this.subscriptions.add(subscription2);
           });
         } else {
-          this._snackBar.open("Programm erstellt", "", {
+          this._snackBar.open("Program created", "", {
             duration: 2e3,
             panelClass: ["custom-snackbar-style"]
           });
@@ -10045,7 +10047,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
             programs: updatedPrograms
           };
           const subscription = this.clientsService.updateClient(updatedClient, client.id).subscribe(() => {
-            const message = this.isTemplate ? "Programm erstellt und dem Patienten hinzugef\xFCgt" : "Programm dem Patienten hinzugef\xFCgt";
+            const message = this.isTemplate ? "Program created and added to client" : "Program added to client";
             this._snackBar.open(message, "", {
               duration: 2e3,
               panelClass: ["custom-snackbar-style"]
@@ -10074,7 +10076,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
       } else {
         console.log("client not valid");
         this.isLoading = false;
-        this._snackBar.open("Als Vorlage hinzuf\xFCgen oder Patient(en) hinzuf\xFCgen", "", {
+        this._snackBar.open("Add as template or add client/s", "", {
           duration: 2e3,
           panelClass: ["custom-snackbar-style"]
         });
@@ -10109,7 +10111,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
         }
       };
       const subscription = this.clientsService.updateClientProgram(clientId, updatedProgram, programPosition).subscribe(() => {
-        this._snackBar.open("Programm aktualisiert", "", {
+        this._snackBar.open("Program updated", "", {
           duration: 2e3,
           panelClass: ["custom-snackbar-style"]
         });
@@ -10171,7 +10173,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
               programs: updatedPrograms
             };
             const subscription2 = this.clientsService.updateClient(updatedClient, client.id).subscribe(() => {
-              this._snackBar.open("Programm aktualisiert und dem Patienten hinzugef\xFCgt", "", {
+              this._snackBar.open("Program updated and added to client", "", {
                 duration: 2e3,
                 panelClass: ["custom-snackbar-style"]
               });
@@ -10179,7 +10181,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
             this.subscriptions.add(subscription2);
           });
         } else {
-          this._snackBar.open("Programm aktualisiert", "", {
+          this._snackBar.open("Program updated", "", {
             duration: 2e3,
             panelClass: ["custom-snackbar-style"]
           });
@@ -10217,8 +10219,8 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
     const dialogRef = this.dialog.open(DeleteConfirmationDialogComponent, {
       width: "312px",
       data: {
-        title: "Ausgew\xE4hltes Programm l\xF6schen?",
-        message: this.clientInfo().clientName ? "Durch das L\xF6schen des ausgew\xE4hlten Programms wird es aus dem Patientenprofil entfernt." : "Durch das L\xF6schen des ausgew\xE4hlten Programms wird es aus Ihrem Konto entfernt."
+        title: "Delete selected program?",
+        message: this.clientInfo().clientName ? "Deleting the selected program will remove it from clients profile." : "Deleting the selected program will remove it from your account."
         // message:
         //   'Deleting the selected program will remove it from your account.',
       },
@@ -10252,7 +10254,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
       });
       this.subscriptions.add(subscription);
     }
-    this._snackBar.open("Programm gel\xF6scht", "", {
+    this._snackBar.open("Program deleted", "", {
       duration: 2e3,
       panelClass: ["custom-snackbar-style"]
     });
@@ -10379,49 +10381,49 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
           const MSG_EXTERNAL_NewProgramStepper_stepEditProgram$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_0 = goog.getMsg("Edit program");
           i18n_0 = MSG_EXTERNAL_NewProgramStepper_stepEditProgram$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_0;
         } else {
-          i18n_0 = "Programm bearbeiten";
+          i18n_0 = "Edit program";
         }
         let i18n_1;
         if (false) {
           const MSG_EXTERNAL_NewProgramStepper_backButton$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_1 = goog.getMsg(" Back ");
           i18n_1 = MSG_EXTERNAL_NewProgramStepper_backButton$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_1;
         } else {
-          i18n_1 = "Zur\xFCck ";
+          i18n_1 = " Back ";
         }
         let i18n_2;
         if (false) {
           const MSG_EXTERNAL_NewProgramStepper_nextButton$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_2 = goog.getMsg(" Next ");
           i18n_2 = MSG_EXTERNAL_NewProgramStepper_nextButton$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_2;
         } else {
-          i18n_2 = "N\xE4chste ";
+          i18n_2 = " Next ";
         }
         let i18n_3;
         if (false) {
           const MSG_EXTERNAL_NewProgramStepper_stepSelectExercises$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_3 = goog.getMsg("Select exercises");
           i18n_3 = MSG_EXTERNAL_NewProgramStepper_stepSelectExercises$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_3;
         } else {
-          i18n_3 = "\xDCbungen ausw\xE4hlen";
+          i18n_3 = "Select exercises";
         }
         let i18n_4;
         if (false) {
           const MSG_EXTERNAL_NewProgramStepper_stepClient$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_4 = goog.getMsg("Client(s)");
           i18n_4 = MSG_EXTERNAL_NewProgramStepper_stepClient$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_4;
         } else {
-          i18n_4 = "Patient(en)";
+          i18n_4 = "Client(s)";
         }
         let i18n_5;
         if (false) {
           const MSG_EXTERNAL_PrintTemplate_program$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_5 = goog.getMsg("Program: ");
           i18n_5 = MSG_EXTERNAL_PrintTemplate_program$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_5;
         } else {
-          i18n_5 = "Programm:";
+          i18n_5 = "Program: ";
         }
         let i18n_6;
         if (false) {
           const MSG_EXTERNAL_PrintTemplate_client$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_6 = goog.getMsg("Client: ");
           i18n_6 = MSG_EXTERNAL_PrintTemplate_client$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_6;
         } else {
-          i18n_6 = "Patient/in:";
+          i18n_6 = "Client: ";
         }
         let i18n_7;
         if (false) {
@@ -10434,7 +10436,7 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
           });
           i18n_7 = MSG_EXTERNAL_PrintTemplate_page$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_7;
         } else {
-          i18n_7 = "Seite " + "\uFFFD0\uFFFD" + "";
+          i18n_7 = "Page " + "\uFFFD0\uFFFD" + "";
         }
         let i18n_8;
         if (false) {
@@ -10447,28 +10449,28 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
           });
           i18n_8 = MSG_EXTERNAL_PrintTemplate_exerciseAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_8;
         } else {
-          i18n_8 = "\xDCbg. " + "\uFFFD0\uFFFD" + ": ";
+          i18n_8 = "Ex. " + "\uFFFD0\uFFFD" + ": ";
         }
         let i18n_9;
         if (false) {
           const MSG_EXTERNAL_PrintTemplate_repsAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_9 = goog.getMsg("Reps: ");
           i18n_9 = MSG_EXTERNAL_PrintTemplate_repsAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_9;
         } else {
-          i18n_9 = "Wdhl: ";
+          i18n_9 = "Reps: ";
         }
         let i18n_10;
         if (false) {
           const MSG_EXTERNAL_PrintTemplate_setsAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_10 = goog.getMsg("Sets: ");
           i18n_10 = MSG_EXTERNAL_PrintTemplate_setsAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_10;
         } else {
-          i18n_10 = "S\xE4tze: ";
+          i18n_10 = "Sets: ";
         }
         let i18n_11;
         if (false) {
           const MSG_EXTERNAL_PrintTemplate_notes$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_11 = goog.getMsg("Notes: ");
           i18n_11 = MSG_EXTERNAL_PrintTemplate_notes$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_11;
         } else {
-          i18n_11 = "Notizen:";
+          i18n_11 = "Notes: ";
         }
         let i18n_12;
         if (false) {
@@ -10482,14 +10484,14 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
           const MSG_EXTERNAL_PrintTemplate_weightAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_13 = goog.getMsg("Weight: ");
           i18n_13 = MSG_EXTERNAL_PrintTemplate_weightAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_13;
         } else {
-          i18n_13 = "Gewicht: ";
+          i18n_13 = "Weight: ";
         }
         let i18n_14;
         if (false) {
           const MSG_EXTERNAL_PrintTemplate_equipmentAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_14 = goog.getMsg("Eq: ");
           i18n_14 = MSG_EXTERNAL_PrintTemplate_equipmentAbbr$$APPS_SANARE_APP_SRC_APP_PAGES_EXERCISES_NEW_PROGRAM_STEPPER_NEW_PROGRAM_STEPPER_COMPONENT_TS_14;
         } else {
-          i18n_14 = "Ausr: ";
+          i18n_14 = "Eq: ";
         }
         return [["drawer2", ""], ["stepper", ""], i18n_1, i18n_2, i18n_3, i18n_4, i18n_5, i18n_6, i18n_7, i18n_8, i18n_9, i18n_10, i18n_11, i18n_12, i18n_13, i18n_14, [1, "main-custom"], [1, "mat-drawer-container", 3, "backdropClick"], ["position", "end", 1, "filter-drawer", 3, "mode", "ngClass", "opened"], [1, "drawer-wrapper", 3, "ngClass"], [1, "mat-drawer-content"], ["pageType", "program", 3, "cancelEvent", "submitEvent", "printEvent", "deleteEvent", "reuseProgram", "isClientProgram", "clientName", "editMode", "itemName"], ["mat-stroked-button", "", "color", "primary", 1, "custom-btn", 3, "click", "disabled"], ["mat-flat-button", "", "color", "primary", 1, "custom-btn", 3, "disabled"], ["mat-flat-button", "", "color", "primary", 1, "custom-btn", 3, "spinner", "disabled"], [3, "formGroup"], ["linear", "", "animationDuration", "0", 3, "selectionChange", "selectedIndex"], [3, "completed"], ["matStepLabel", ""], ["matStepContent", ""], ["label", i18n_0, 3, "completed"], ["optional", ""], ["id", "print-section"], [1, "print-template-container"], [3, "toggleDrawerSignal"], ["mat-flat-button", "", "color", "primary", 1, "custom-btn", 3, "click", "disabled"], [3, "editMode"], [1, "program-client-container"], [1, "info-wrapper"], [1, "print-grid-table", "mat-body-small-print"], [1, "exercise-cell"], [1, "print-page-number"], [1, "title-img-container"], [1, "title"], ["alt", "", 1, "img", 3, "src"], [1, "exercise-info-wrapper"], [1, "sets-reps"], [1, "notes", "mat-body-small-print"]];
       },
@@ -10595,4 +10597,4 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
 })();
 export { NewProgramStepperComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-//# sourceMappingURL=chunk-55BF7W5Y.js.map
+//# sourceMappingURL=chunk-EXNZYSJE.js.map

@@ -9268,6 +9268,8 @@ var ExercisesListComponent = class _ExercisesListComponent {
       console.log("step2");
       if (this.editMode && countSubsIndex <= 1) {
         this._getSelectedExercises();
+      } else {
+        this.isFetchingData.set(false);
       }
       console.log(this.exercises);
       console.log(performance.now() - start);
@@ -10595,4 +10597,4 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
 })();
 export { NewProgramStepperComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-//# sourceMappingURL=chunk-55BF7W5Y.js.map
+//# sourceMappingURL=chunk-EXNZYSJE.js.map
