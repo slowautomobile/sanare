@@ -1,6 +1,10 @@
 {
   "configVersion": 1,
+<<<<<<< HEAD
   "timestamp": 1747930939438,
+=======
+  "timestamp": 1747940588559,
+>>>>>>> 7e7d94b (Deploy dist update)
   "index": "/de-DE/index.html",
   "assetGroups": [
     {
@@ -23,10 +27,16 @@
         "/de-DE/chunk-2MICNSAC.js",
         "/de-DE/chunk-2QWI6V4H.js",
         "/de-DE/chunk-3KDMJEO4.js",
+<<<<<<< HEAD
         "/de-DE/chunk-3LHYCCS5.js",
+=======
+        "/de-DE/chunk-5C6JZAPW.js",
+>>>>>>> 7e7d94b (Deploy dist update)
         "/de-DE/chunk-5O54ZM34.js",
+        "/de-DE/chunk-5QX7MPJV.js",
         "/de-DE/chunk-67X5CM6Q.js",
         "/de-DE/chunk-7MZUFN34.js",
+<<<<<<< HEAD
         "/de-DE/chunk-7QMTSIS6.js",
         "/de-DE/chunk-APRQSIRD.js",
         "/de-DE/chunk-AW7C4F7H.js",
@@ -37,20 +47,44 @@
         "/de-DE/chunk-L3GLS324.js",
         "/de-DE/chunk-M6LOXSRX.js",
         "/de-DE/chunk-MNWZQJED.js",
+=======
+        "/de-DE/chunk-AAWFO4JJ.js",
+        "/de-DE/chunk-CN2Q4PRV.js",
+        "/de-DE/chunk-EE5PY3DX.js",
+        "/de-DE/chunk-ESKXYVOI.js",
+        "/de-DE/chunk-FU7KJOX6.js",
+        "/de-DE/chunk-IYMMRGAZ.js",
+        "/de-DE/chunk-MR5GJZDM.js",
+        "/de-DE/chunk-N5VV42QC.js",
+>>>>>>> 7e7d94b (Deploy dist update)
         "/de-DE/chunk-P2LUXNXL.js",
         "/de-DE/chunk-Q3PYOHAN.js",
+        "/de-DE/chunk-Q5VJOC6V.js",
+        "/de-DE/chunk-QS2QAEYF.js",
         "/de-DE/chunk-QTN4UOGR.js",
+<<<<<<< HEAD
         "/de-DE/chunk-RIHINUDF.js",
         "/de-DE/chunk-S3ESV4U4.js",
         "/de-DE/chunk-S7U3HECP.js",
         "/de-DE/chunk-SWLHLYHZ.js",
         "/de-DE/chunk-WTVHHNSA.js",
         "/de-DE/chunk-ZPGJU7FB.js",
+=======
+        "/de-DE/chunk-ROZV4UOS.js",
+        "/de-DE/chunk-S7U3HECP.js",
+        "/de-DE/chunk-SWLHLYHZ.js",
+        "/de-DE/chunk-UASHDM5M.js",
+        "/de-DE/chunk-WDIMAF7F.js",
+>>>>>>> 7e7d94b (Deploy dist update)
         "/de-DE/chunk-ZW3GDTPB.js",
         "/de-DE/dark-theme.css",
         "/de-DE/favicon.ico",
         "/de-DE/index.html",
+<<<<<<< HEAD
         "/de-DE/main-DDD6GECJ.js",
+=======
+        "/de-DE/main-NOT7NLV6.js",
+>>>>>>> 7e7d94b (Deploy dist update)
         "/de-DE/manifest.webmanifest",
         "/de-DE/polyfills-XORA5XUV.js",
         "/de-DE/styles-CLHFJLWJ.css"
@@ -104,10 +138,16 @@
     "/de-DE/chunk-2MICNSAC.js": "51778b1024c0f56cda653e977af41cdb7d1cd16a",
     "/de-DE/chunk-2QWI6V4H.js": "c3dcbcc2cfcc109db8b5acdce163725c226694e4",
     "/de-DE/chunk-3KDMJEO4.js": "cae25fc4a959b0523192f325b27f08e792656541",
+<<<<<<< HEAD
     "/de-DE/chunk-3LHYCCS5.js": "ad57fe2f625df152d82233366bc0cf5790764980",
+=======
+    "/de-DE/chunk-5C6JZAPW.js": "5ca7dc52ac53c72a06df395ab8d04e80451c09e1",
+>>>>>>> 7e7d94b (Deploy dist update)
     "/de-DE/chunk-5O54ZM34.js": "2d942deac046a37857ebb63793726a00c3b36f17",
+    "/de-DE/chunk-5QX7MPJV.js": "c6f0b2fc192ed26f688cb662b35c7aeba161d1f5",
     "/de-DE/chunk-67X5CM6Q.js": "043477b67e04410d7489ec4008db120a524886d6",
     "/de-DE/chunk-7MZUFN34.js": "ef123fba93a8d115fa0355ae88eadd9bf1317333",
+<<<<<<< HEAD
     "/de-DE/chunk-7QMTSIS6.js": "4fbc90e17bc7439eb4ad4917c2b0cba577fc78d9",
     "/de-DE/chunk-APRQSIRD.js": "333d6fe5a87555826916d4aa23357d8975ba33da",
     "/de-DE/chunk-AW7C4F7H.js": "27f687bd9b3a0b80712d8bfe90761e9712936499",
@@ -118,9 +158,22 @@
     "/de-DE/chunk-L3GLS324.js": "83d6af105688ef9493bd82eb572e7221fc7d62b7",
     "/de-DE/chunk-M6LOXSRX.js": "cca476b9d80a5ac85f3b5ff256b30bf4edb2cf09",
     "/de-DE/chunk-MNWZQJED.js": "f9f825b0ebce16d0154a285f9fd49a3dbe54813f",
+=======
+    "/de-DE/chunk-AAWFO4JJ.js": "84057454d8957d59f17fba316b71970b06ffac45",
+    "/de-DE/chunk-CN2Q4PRV.js": "be925f37fdca9d016694691cda3939032e9c52c3",
+    "/de-DE/chunk-EE5PY3DX.js": "825758c17dfbcb139aa63eb251510acda8c64f0f",
+    "/de-DE/chunk-ESKXYVOI.js": "a2ce0cbba0fa870acab7dea4aaff59e586a68344",
+    "/de-DE/chunk-FU7KJOX6.js": "66ccafc60d4e961a08c0a17bef36e960ddde191f",
+    "/de-DE/chunk-IYMMRGAZ.js": "59ae6437b15d173872f8583c5f11736fcf5938f5",
+    "/de-DE/chunk-MR5GJZDM.js": "d4993c826637edfe1723247b5f35de7f5018bd78",
+    "/de-DE/chunk-N5VV42QC.js": "8f4e1633a2b1c52858be93234ffc053522cd0125",
+>>>>>>> 7e7d94b (Deploy dist update)
     "/de-DE/chunk-P2LUXNXL.js": "629462ca7c259058f94d5819f54548e0ff0f943d",
     "/de-DE/chunk-Q3PYOHAN.js": "3ffdd2cf5dba4fd35ece95d232e326693e012e57",
+    "/de-DE/chunk-Q5VJOC6V.js": "5b52c1306a43fa34e7756ccc7726d8feedad3190",
+    "/de-DE/chunk-QS2QAEYF.js": "9e79f612effdd465da8952fc9aa9d3697f0e426b",
     "/de-DE/chunk-QTN4UOGR.js": "a6ace78b3f6c593837f30212546716c2059d9117",
+<<<<<<< HEAD
     "/de-DE/chunk-RIHINUDF.js": "dceea8ed6ca3db4e46d8f46060f214f8244bb811",
     "/de-DE/chunk-S3ESV4U4.js": "82f2ec942ca1b4842c76a96dfeffb45045c183da",
     "/de-DE/chunk-S7U3HECP.js": "9194a5c431ba14636783c8983c80dfe806cbbdea",
@@ -132,6 +185,18 @@
     "/de-DE/favicon.ico": "df32f988dfc8f00c6f8a5c9f7f9908e0dc531101",
     "/de-DE/index.html": "0c03d611cf1b49f6569e5bada82e8f87eb62a485",
     "/de-DE/main-DDD6GECJ.js": "e8ffdd9d4bd5891fcd8a5d117a8ac85a24faeda5",
+=======
+    "/de-DE/chunk-ROZV4UOS.js": "0fec8ecd70f9c006f12dcd13937f050d1281d3f2",
+    "/de-DE/chunk-S7U3HECP.js": "9194a5c431ba14636783c8983c80dfe806cbbdea",
+    "/de-DE/chunk-SWLHLYHZ.js": "df70969607315654eebc88c64faab06f14e4548b",
+    "/de-DE/chunk-UASHDM5M.js": "048dcdddc563ba78f19c13760f055dc9d4d4ec06",
+    "/de-DE/chunk-WDIMAF7F.js": "ed4004fde20e27f9c5d8549aa3689d92bb52f1b0",
+    "/de-DE/chunk-ZW3GDTPB.js": "d510638dd448953a3eebcfef7087aea2912ed5ca",
+    "/de-DE/dark-theme.css": "628efd4453f313320a63a43c5f3b91a4e069d9d8",
+    "/de-DE/favicon.ico": "df32f988dfc8f00c6f8a5c9f7f9908e0dc531101",
+    "/de-DE/index.html": "86219346bd4bd228af2c5912f36aca49de78ee05",
+    "/de-DE/main-NOT7NLV6.js": "f9faa1b33cf72a461f6c04fd64aaffcead3f52bd",
+>>>>>>> 7e7d94b (Deploy dist update)
     "/de-DE/manifest.webmanifest": "e9374b789891bb077d2a2572214147e6aadd4fdd",
     "/de-DE/media/user-JIV5DTZW.svg": "0132122b951ae32123db6bbe549172f9d9b18cc5",
     "/de-DE/polyfills-XORA5XUV.js": "8b436ff2f47ef106d8caf20bb7772f128e697a4e",
