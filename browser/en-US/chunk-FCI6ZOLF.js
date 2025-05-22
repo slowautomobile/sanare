@@ -9270,6 +9270,8 @@ var ExercisesListComponent = class _ExercisesListComponent {
       if (this.editMode && countSubsIndex <= 1) {
         console.log("Is this edit mode?");
         this._getSelectedExercises();
+      } else {
+        this.isFetchingData.set(false);
       }
       console.log(this.exercises);
       console.log(performance.now() - start);
@@ -9402,9 +9404,9 @@ var ExercisesListComponent = class _ExercisesListComponent {
           ɵɵelementEnd()()()()();
         }
         if (rf & 2) {
-          ctx.isFetchingData();
+          const isFetching_r3 = ctx.isFetchingData();
           ɵɵadvance(5);
-          ɵɵconditional(ctx.isFetchingData() ? 5 : 6);
+          ɵɵconditional(isFetching_r3 ? 5 : 6);
           ɵɵadvance(6);
           ɵɵi18nExp(ctx.selectedExercises().length);
           ɵɵi18nApply(10);
@@ -10597,4 +10599,4 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
 })();
 export { NewProgramStepperComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-//# sourceMappingURL=chunk-NFK2I4NS.js.map
+//# sourceMappingURL=chunk-FCI6ZOLF.js.map

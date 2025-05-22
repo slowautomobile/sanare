@@ -159,12 +159,12 @@ var appRoutes = [
       {
         path: "programs/form",
         title: "Add program \u2981 Sanare",
-        loadComponent: () => import("./chunk-NFK2I4NS.js").then((m) => m.NewProgramStepperComponent)
+        loadComponent: () => import("./chunk-FCI6ZOLF.js").then((m) => m.NewProgramStepperComponent)
       },
       {
         path: "programs/form/:id",
         title: "Edit program \u2981 Sanare",
-        loadComponent: () => import("./chunk-NFK2I4NS.js").then((m) => m.NewProgramStepperComponent)
+        loadComponent: () => import("./chunk-FCI6ZOLF.js").then((m) => m.NewProgramStepperComponent)
       },
       {
         path: "profile",
@@ -4797,4 +4797,4 @@ if (environment.production) {
 }
 bootstrapApplication(AppComponent, appConfig).catch((err) => console.error(err));
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-//# sourceMappingURL=main-22G3GVOC.js.map
+//# sourceMappingURL=main-CHOIBYBS.js.map
