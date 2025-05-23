@@ -8716,9 +8716,10 @@ var ExercisesListComponent = class _ExercisesListComponent {
       console.log("step2");
       if (this.editMode && countSubsIndex <= 1) {
         console.log("Is this edit mode?");
-        setTimeout(() => this._getSelectedExercises(), 0);
+        this._getSelectedExercises();
+      } else {
+        this.isFetchingData.set(false);
       }
-      this.isFetchingData.set(false);
       console.log(this.exercises);
       console.log(performance.now() - start);
     });
@@ -8756,14 +8757,14 @@ var ExercisesListComponent = class _ExercisesListComponent {
   }
   _getSelectedExercises() {
     this.exercises = [];
-    this.selectedExercises().forEach(selectedExercise => {
+    for (const selectedExercise of this.selectedExercises()) {
       if (this.userFavorites().favExercises.some(favExercise => favExercise === selectedExercise.id)) {
         selectedExercise.isFavorite = true;
       } else {
         selectedExercise.isFavorite = false;
       }
       this.exercises.push(selectedExercise);
-    });
+    }
     console.log("These are selected exercises: ", this.exercises);
     this.isFetchingData.set(false);
   }
@@ -10043,4 +10044,4 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
 })();
 export { NewProgramStepperComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-//# sourceMappingURL=chunk-2Q6WDNA2.js.map
+//# sourceMappingURL=chunk-426TALTG.js.map
