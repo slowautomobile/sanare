@@ -8764,6 +8764,7 @@ var ExercisesListComponent = class _ExercisesListComponent {
       }
       this.exercises.push(selectedExercise);
     });
+    console.log("These are selected exercises: ", this.exercises);
     this.isFetchingData.set(false);
   }
   _getFavoriteExercises() {
@@ -10042,4 +10043,4 @@ var NewProgramStepperComponent = class _NewProgramStepperComponent {
 })();
 export { NewProgramStepperComponent };
 /**i18n:ab11a1dcb816b11965daf92ebc4252f70aaa11f3a07066be31c4bdd61d35557d*/
-//# sourceMappingURL=chunk-CAFEYSZH.js.map
+//# sourceMappingURL=chunk-2Q6WDNA2.js.map
