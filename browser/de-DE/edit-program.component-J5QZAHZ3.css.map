@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["apps/sanare-app/src/app/pages/exercises/edit-program/edit-program.component.scss"],
-  "sourcesContent": ["::ng-deep mat-slide-toggle > .mdc-form-field.mdc-form-field--align-end {\n  display: flex;\n\n  // button {\n  //   flex-grow: 1;\n  // }\n\n  label {\n    flex-grow: 1;\n  }\n}\n"],
-  "mappings": "AAAA,UAAA,gBAAA,CAAA,CAAA,cAAA,CAAA,0BACE,QAAA,KAMA,UAAA,gBAAA,CAAA,CAPF,cAOE,CAPF,0BAOE,MACE,UAAA",
-  "names": []
-}
